@@ -1,5 +1,6 @@
 # climate service
 -test
+-sushi
 ```google site specific search query 
 site:vnexpress.net "tôm" "đồng bằng sông cửu long" 2010..2024
 ```
