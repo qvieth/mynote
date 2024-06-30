@@ -1,4 +1,27 @@
 # climate service
+```python
+title
+link
+displayLink
+snippet
+pagemap.metatags.source
+pagemap.metatags.og:description
+pagemap.metatags.article:publisher
+pagemap.metatags.tt_list_folder_name
+pagemap.metatags.lastmod
+pagemap.metatags.article:tag
+pagemap.metatags.tt_article:id
+pagemap.metatags.news
+pagemap.metatags."geo.placename"
+pagemap.metatags.pubdate
+pagemap.metatags.og:type
+pagemap.metatags.tt_page_type_new
+pagemap.metatags.news_keywords
+pagemap.metatags.its_tag
+pagemap.metatags."geo.region"
+pagemap.metatags.its_subsection
+
+```
 
 ```google site specific search query 
 site:vnexpress.net "tôm" "đồng bằng sông cửu long" 2010..2024
