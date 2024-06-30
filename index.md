@@ -15,6 +15,7 @@ Báo Sóc Trăng to understand local industry issues
 - which keyword you need the result to appear:
   - tom, song cuu long,...
   - climate services, rice, shrimp, saline water intrusion, and environmental monitroing
+  - dich vu khi hau, ngap mang, quang trac moi truong, quan li moi truong, phan tich moi truong, 
   - https://nchmf.gov.vn/Kttv/vi-VN/1/index.html
   - report cuc khi tuong, da downloa
 
