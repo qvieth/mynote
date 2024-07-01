@@ -1,4 +1,9 @@
 # climate service
+
+- practice reading & writing everyday
+- find your own competitive advantage, your niche -> climate change and sustainability -> green jobs
+- [career](career)
+
 ```python
 title
 link
