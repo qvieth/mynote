@@ -3,6 +3,9 @@
 - practice reading & writing everyday
 - find your own competitive advantage, your niche -> climate change and sustainability -> green jobs
 - [career](career)
+- research:
+  - the market of GPUs is accelerating, all the general purpose computer data center will have to replace with gpus
+  - the effect of this to the environment
 
 ```python
 title
