@@ -7,6 +7,9 @@
   - the market of GPUs is accelerating, all the general purpose computer data center will have to replace with gpus
   - the effect of this to the environment
 - [machine learning](machine-learning)
+- you have 12 months, plan more carefully:
+  - make money
+  - prepare a study career
 
 ```python
 title
