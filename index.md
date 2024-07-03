@@ -8,6 +8,7 @@
   - the effect of this to the environment
 - [machine learning](machine-learning)
 - you have 12 months, plan more carefully:
+  - chinese
   - make money
   - prepare a study career
 
