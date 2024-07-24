@@ -19,6 +19,7 @@
   - chinese
   - make money
   - prepare a study career
+  - start business -> outsoure
 
 ```python
 title
