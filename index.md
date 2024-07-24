@@ -1,6 +1,13 @@
 # climate service
+
 - [draft](draft)
 - climate service data portal
+- write mail to say thank you to chi Hue
+- things to study:
+  - chinese -> prioritize
+  - linear algebra
+  - textual data analysis -> learn while doing
+  - research method -> can learn while doing 
 - practice reading & writing everyday
 - find your own competitive advantage, your niche -> climate change and sustainability -> green jobs
 - [career](career)
