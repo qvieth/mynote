@@ -4,10 +4,10 @@
 - [draft](draft)
 - [yu kai](yu-kai)
 - [scholarship](scholarship)
+- [career](career)
+- [machine learning](machine-learning)
 
 ## draft
-- topic modeling -> cluster article into topics(without topic label), you can print out the top term in than topics
-- classification -> give lavel to the short text title
 - climate service data portal
 - write mail to say thank you to chi Hue
 - things to study:
@@ -15,13 +15,9 @@
   - linear algebra
   - textual data analysis -> learn while doing
   - research method -> can learn while doing 
-- practice reading & writing everyday
-- find your own competitive advantage, your niche -> climate change and sustainability -> green jobs
-- [career](career)
 - research:
   - the market of GPUs is accelerating, all the general purpose computer data center will have to replace with gpus
   - the effect of this to the environment
-- [machine learning](machine-learning)
 - you have 12 months, plan more carefully:
   - chinese
   - make money
