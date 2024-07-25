@@ -1,5 +1,17 @@
 # climate service
 
+## plans
+- you have 12 months, plan more carefully:
+  - chinese
+  - make money
+  - prepare a study career
+  - start business -> outsoure
+- things to study:
+  - chinese -> prioritize
+  - linear algebra
+  - textual data analysis -> learn while doing
+  - research method -> can learn while doing 
+
 ## category
 - [draft](draft)
 - [yu kai](yu-kai)
@@ -10,19 +22,6 @@
 ## draft
 - climate service data portal
 - write mail to say thank you to chi Hue
-- things to study:
-  - chinese -> prioritize
-  - linear algebra
-  - textual data analysis -> learn while doing
-  - research method -> can learn while doing 
-- research:
-  - the market of GPUs is accelerating, all the general purpose computer data center will have to replace with gpus
-  - the effect of this to the environment
-- you have 12 months, plan more carefully:
-  - chinese
-  - make money
-  - prepare a study career
-  - start business -> outsoure
 
 ```python
 title

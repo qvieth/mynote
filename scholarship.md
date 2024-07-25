@@ -1,4 +1,7 @@
 
+- research:
+  - the market of GPUs is accelerating, all the general purpose computer data center will have to replace with gpus
+  - the effect of this to the environment
 
 - NTU APPLY - 2024 February Entry (Graduate programs only) 
 - Scholarships for Current Students
