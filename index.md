@@ -1,5 +1,7 @@
 # climate service
 
+- topic modeling -> cluster article into topics(without topic label), you can print out the top term in than topics
+- classification -> give lavel to the short text title
 - [draft](draft)
 - climate service data portal
 - write mail to say thank you to chi Hue
