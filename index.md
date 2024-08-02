@@ -6,6 +6,7 @@
   - make money
   - prepare a study career
   - start business -> outsoure
+  - upwork -> web scraper
 - things to study:
   - chinese -> prioritize
   - linear algebra
