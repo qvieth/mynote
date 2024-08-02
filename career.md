@@ -1,5 +1,4 @@
 - 
-- find your own competitive advantage, your niche -> climate change and sustainability -> green jobs
 - https://www.indeed.com/career-advice/finding-a-job/what-are-green-jobs 
 - You can find most green jobs in
   - manufacturing,
