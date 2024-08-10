@@ -1,3 +1,26 @@
+## report
+- start from the last week question:
+  - the question:
+    1. whether can we use machine translation + topic modeling
+  - suggest why we should combine lexiconometrics or machine learning model into the research
+    1. improve current topic model, lexiconometrics result
+    2. improve the data source
+  - task i did
+    - see how other research related to working with vietnamese newspaper, how did they gathered the newspaper, their result
+
+- level 1 question: how to structure the research
+- there are little newspaper specifically about the climate service
+- review these newspaper to see how are these field being applied to other areas of vietnam, then enquiry why are tthese not being applied to the most critical part of vietnam mekong delta
+- newspapper will be related to:
+  - smart algriculture, trang trai thong minh
+  - quan trac moi truong
+  - mekong delta
+- what kind of result will be yeild by reading these newspaper: -> 
+  - identify framing
+  - 
+- topic model, lexiconometrics as a preliminary research -> we have the different topics, then...
+
+
 - send the relevant paper to yu-kai, suggesting the interesting method these paper use:
   - text mining the climate change doubt -> probabilistic topic modeling LDA
   - Overcoming Language Barriers: Assessing the Potential of Machine Translation and Topic Modeling for the Comparative Analysis of Multilingual Text Corpora
