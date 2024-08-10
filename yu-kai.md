@@ -16,9 +16,16 @@
   - quan trac moi truong
   - mekong delta
 - what kind of result will be yeild by reading these newspaper: -> 
-  - identify framing
+  - identify framing -> what kind of machine learning model to perform this task:
+    - text classification model: transformer bert, identify some frames, then train a supervise learning model to classifi articles into different frames
+  - text mining climate change doubt:
+    - compile the largest corpus of climate sceptic claims-making activity to date, collecting over 16,000 documents from 19 organizations over the period 1998 to 2013 tank counter-claims in nearly 15 years.
+    - providing the first systematic update of conservative think
+    - introduce methodology to measure key themes in the corpus
+    - see how this paper frame different articles into the cause of climate changeskepticism -> suggest similar way to frame our corpus 
   - 
-- topic model, lexiconometrics as a preliminary research -> we have the different topics, then...
+- topic model, lexiconometrics as a preliminary research -> i have generate the different topics, then...
+  - the question right now is how to make these result meaningful?
 
 
 - send the relevant paper to yu-kai, suggesting the interesting method these paper use:
