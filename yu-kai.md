@@ -1,4 +1,15 @@
 ## report
+- vietnamnet:
+  - dbscl 3058
+  - quan trac moi truong 276
+  - trang trai thong minh 30
+- zing:
+  - dbscl 290
+  - quan trac moi truong 365
+  - trang trai thong minh 17
+- tuoitre:
+  - dbscl 1850
+  - 
 - start from the last week question:
   - the question:
     1. whether can we use machine translation + topic modeling
