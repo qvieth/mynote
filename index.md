@@ -1,4 +1,10 @@
 # climate service
+- report:
+  - what i get from reading the 3 articles:
+  - data edge -> more like a person sitting in that situation
+  - hail insurance -> broad knowledge of the history
+    - let see how he conclude with these history
+  - qualitative discourse research
 - when reading the data edge article, i feel like there are many words, make me feel like:
   - if i am a computer scientist, or technical person, when reading this article i might thing about what kind of technology will be take advantage of here -> different kind of reader will have different problem framing for the same problem -> get this article read by different perspective -> maybe a set of standardize question to ask a pool of reader to see what insight can we have after that
 - mail to yukai:
