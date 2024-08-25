@@ -1,7 +1,14 @@
 # climate service
-
+- when reading the data edge article, i feel like there are many words, make me feel like:
+  - if i am a computer scientist, or technical person, when reading this article i might thing about what kind of technology will be take advantage of here -> different kind of reader will have different problem framing for the same problem -> get this article read by different perspective -> maybe a set of standardize question to ask a pool of reader to see what insight can we have after that
+- mail to yukai:
+  - publish paper idea
+  - tai's preference letter:
+    - mention he is lacking one reference letter
+    - promote him aobut his character, potential
 ## plans
 - you have 12 months, plan more carefully:
+  * publish a paper -> moe (vietnam and taiwan, project must relevant to vietnam and sustainablity)
   - chinese
   - make money
   - prepare a study career
