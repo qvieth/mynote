@@ -2,11 +2,18 @@
 - report:
   - what i get from reading the 3 articles:
   - data edge -> more like a person sitting in that situation
+    - even have picture, photos of the form of data collecting -> history
   - hail insurance -> broad knowledge of the history
     - let see how he conclude with these history
+    - history, picture, how it work
+    * conceptualize this business as a fragile network -> understand how central insurance office  govern/control this network of actors at distance
   - qualitative discourse research
 - when reading the data edge article, i feel like there are many words, make me feel like:
   - if i am a computer scientist, or technical person, when reading this article i might thing about what kind of technology will be take advantage of here -> different kind of reader will have different problem framing for the same problem -> get this article read by different perspective -> maybe a set of standardize question to ask a pool of reader to see what insight can we have after that
+- suggestion after reading : what might we achive in our research using the idea and methods from these paper
+
+
+
 - mail to yukai:
   - publish paper idea
   - tai's preference letter:
