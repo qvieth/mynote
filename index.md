@@ -1,4 +1,5 @@
 # climate service
+- euro -> most towards sustainbility -> think like a european researcher, what kind of research they want to do, how to link it to taiwan, asia
 - report:
   - what i get from reading the 3 articles:
   - data edge -> more like a person sitting in that situation
