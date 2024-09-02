@@ -1,4 +1,20 @@
 # climate service
+- [Driven by necessity, Bangladesh develops innovations to fight climate change](https://www.youtube.com/watch?v=e_az105J53g)
+  - the lowing nation of bangladesh emits just one half of one percent of the world carbon emission. but it suffer disproportionately from that polution
+  - social capital, even without phones, without radio, without television, we're able to get these flood warnings though this sort of human chain of communication
+  - in this village, which saw one of the worst flooding in 2022 that bangladesh had ever seen, every single person in the village survive
+  - what happened is: in dhaka, there's a flood forecasting and warning center and that's government facility. and those scientist are tracking meteorological data and analyzing them.
+  - one blood observation worker who has a side gig that is reading the river gauges in local river and sending that data by sms to the scientist. then the scientist plug that data to the model
+  - in the village many dn't have a mobile phone, but at at least one relative has it, then they spread out the information using the word of mouth
+  - the question from the interviewer:
+    - and what if any lesson can we in the US learn from these communities and potentially implement here
+    - there's a big debate right now about the responsibilities of countries who are responsible for more of these emissionnnns. what sort of assiatance exist for bangladesh from these big country
+
+
+what i'm doing:
+- research about the geogrpahy of bangladesh, their current situation
+
+
 - euro -> most towards sustainbility -> think like a european researcher, what kind of research they want to do, how to link it to taiwan, asia
 - report:
   - what i get from reading the 3 articles:
