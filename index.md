@@ -1,5 +1,8 @@
 # climate service
 - [Driven by necessity, Bangladesh develops innovations to fight climate change](https://www.youtube.com/watch?v=e_az105J53g)
+- [draft](draft)
+- [ipcs](ipcs)
+
   - the lowing nation of bangladesh emits just one half of one percent of the world carbon emission. but it suffer disproportionately from that polution
   - social capital, even without phones, without radio, without television, we're able to get these flood warnings though this sort of human chain of communication
   - in this village, which saw one of the worst flooding in 2022 that bangladesh had ever seen, every single person in the village survive
