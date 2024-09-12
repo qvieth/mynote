@@ -5,4 +5,11 @@
     - reflection no more than one page
   - midterm workshop week 10
   - endterm project build on midterm project : 2 more question
-- 
+
+## week 2
+
+- which research question matters? - before what and how is why - it shouold be related to your interest - choose project that matter to you and the world
+- why do you want to do this research(the context of discovery)
+
+- what is psychoanalysis?
+  - gone girl movie
