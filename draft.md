@@ -1,4 +1,43 @@
 # Threatening Dystopias: Development, Scientific Knowledge, and Adaptation to Climate Change
+
+## weekly report
+- THEORIZING IN SOCIAL SCIENCE The Context of Discovery
+- 1. from theory to theorizing
+  - the distinction between the context of discovery and context of justification
+  - the general structure of the process of theorizing
+  - the different of theorizing in social science
+  - the full research  process (the prestudy and mainstudy)
+  - observation
+  - more rules and steps
+  - the basic steps of theorizing in social science
+  - conclusion
+
+i need to write a one page a4 report. about reading the text Swedberg, R. (2014) From Theory to Theorizing. Pp. 1-28 in Theorizing in
+Social Science: The Context of Discovery, edited by R. Swedberg. California:
+Stanford University Press.
+and Margulies, J. D. (2023) Preface and Introduction. Pp. xi-25 
+ analyze it in the order of these sections of the chapter 1 that was covered in the book,
+- chapter 1. from theory to theorizing
+  - the distinction between the context of discovery and context of justification
+  - the general structure of the process of theorizing
+  - the different of theorizing in social science
+  - the full research  process (the prestudy and mainstudy)
+  - observation
+  - more rules and steps
+  - the basic steps of theorizing in social science
+  - conclusion
+
+- Catus hunter
+
+- I would suggest you
+  - first analyse the article structure
+  - summarise their arguments
+  - and their research method
+  - These articles will help you understand the [] industry.
+
+
+&&&
+
 - https://www.youtube.com/watch?v=9tl2I8phJEY
 
 ## rural uban transition
