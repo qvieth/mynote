@@ -1,4 +1,13 @@
 # Threatening Dystopias: Development, Scientific Knowledge, and Adaptation to Climate Change
+- I want to join NTUEDS because of my passion for debate and contributing to discussions on a variety of topics
+- in the past i have  educating myself with the 
+- Debating has always been an exciting way for me to engage with diverse perspectives, challenge ideas, and refine my understanding of complex issues
+- NTUEDS offers the perfect platform to explore important global and social topics, pushing me to think critically and broaden my knowledge
+- Furthermore, I aim to sharpen my argumentation skills, learning to construct and present logical, well-researched arguments that are persuasive and thought-provoking
+- These skills are essential not only for my academic journey but also for my future professional aspirations
+- Lastly, I am eager to participate in debates that cover a wide range of subjects, as this will deepen my knowledge and enable me to become a more well-rounded individual
+- NTUEDS presents a unique opportunity for growth, both intellectually and personally.
+  
 
 ## weekly report
 - THEORIZING IN SOCIAL SCIENCE The Context of Discovery
