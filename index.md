@@ -1,8 +1,20 @@
-# climate service
-- [Driven by necessity, Bangladesh develops innovations to fight climate change](https://www.youtube.com/watch?v=e_az105J53g)
 - [draft](draft)
 - [ipcs](ipcs)
+- ideas:
+  - aquaculture: working condition, hygiene, convinience -> will it affect the decision whether these student want to return, bring the technology back to their own countryyyy
 
+- summarize what i get from reading the chapter:
+- things that come to my minds, questions, ideas
+- Contrast the data collection and analysis methods of the 1930s with today’s advanced technologies 
+
+
+
+- transmitting data
+- bad data
+- a return to the air
+- : We could amplify this argument by discussing how climate data today (temperature rises, CO2 levels) is also subject to political “cleaning” or denial. This could include how climate skeptics or powerful interests manipulate data to delay action, much like how the Dust Bowl was minimized by bad data practices.
+
+- as an ethnographer, you are a data collection instrument
   - the lowing nation of bangladesh emits just one half of one percent of the world carbon emission. but it suffer disproportionately from that polution
   - social capital, even without phones, without radio, without television, we're able to get these flood warnings though this sort of human chain of communication
   - in this village, which saw one of the worst flooding in 2022 that bangladesh had ever seen, every single person in the village survive
