@@ -1,0 +1,5 @@
+- subjugate - conquer - vanish - defeat - gain control of 
+- ambivalence - mix feelings - contradictory ideas
+- exclude - except - prohibit - ban
+- acutely - intensely - seriously
+- entailing - necessitate - require - involve

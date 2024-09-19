@@ -1,7 +1,12 @@
 - [draft](draft)
+- [vocabulary](vocabulary)
 - [ipcs](ipcs)
+
+## nextwekk discussion
 - ideas:
-  - aquaculture: working condition, hygiene, convinience -> will it affect the decision whether these student want to return, bring the technology back to their own countryyyy
+  - geographer - wikipedia - human environment interaction
+  - aquaculture: working condition, hygiene, convinience -> will it affect the decision whether these student want to return, bring the technology back to their own country
+  - 
 
 - summarize what i get from reading the chapter:
 - things that come to my minds, questions, ideas
