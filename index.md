@@ -1,6 +1,7 @@
 - [draft](draft)
 - [vocabulary](vocabulary)
 - [ipcs](ipcs)
+- [ntudeb](ntudeb)
 
 ## nextwekk discussion
 - ideas:
