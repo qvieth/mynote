@@ -5,13 +5,14 @@
 
 ## nextwekk discussion
 
-- jobs: must find a job that give you knowledge in the next 2 months
-- research + class
-  - Situating knowledges: positionality, reflexivities and other tactics
-  - Troubling Positionality: Politics of “Studying Up” in Transnational Contexts
-- proposal + paper
+1. jobs/opportunity: must find a job that give you knowledge in the next 2 months -> leverage the experience from ntu research and english debate club
+2. proposal + paper
   - interview vietnamese student go back to vietnam studied aquaculture -> geographer paper
     - i remembered something about geographer paper describe [... process] of how human interact with the environment
+3. research + class
+  - Situating knowledges: positionality, reflexivities and other tactics
+  - Troubling Positionality: Politics of “Studying Up” in Transnational Contexts
+4. chasing h
 
 - ideas:
   - geographer - wikipedia - human environment interaction
