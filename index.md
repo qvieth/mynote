@@ -4,6 +4,15 @@
 - [ntudeb](ntudeb)
 
 ## nextwekk discussion
+
+- jobs: must find a job that give you knowledge in the next 2 months
+- research + class
+  - Situating knowledges: positionality, reflexivities and other tactics
+  - Troubling Positionality: Politics of “Studying Up” in Transnational Contexts
+- proposal + paper
+  - interview vietnamese student go back to vietnam studied aquaculture -> geographer paper
+    - i remembered something about geographer paper describe [... process] of how human interact with the environment
+
 - ideas:
   - geographer - wikipedia - human environment interaction
   - aquaculture: working condition, hygiene, convinience -> will it affect the decision whether these student want to return, bring the technology back to their own country
