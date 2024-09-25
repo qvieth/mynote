@@ -6,7 +6,13 @@
 ## nextwekk discussion
 
 
-- active reading: try to read 
+- generating methods:
+  1. analyze the title
+  2. ask question why the title is so
+  3. break down into smaller question -> when small enough -> generate final report
+
+- active reading: before reading, focus on the title, ask question why the title name so, go down from the top abstract idea to the lower idea
+
 1. jobs/opportunity: must find a job that give you knowledge in the next 2 months -> leverage the experience from ntu research and english debate club
 2. proposal + paper
   - interview vietnamese student go back to vietnam studied aquaculture -> geographer paper
