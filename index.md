@@ -4,7 +4,7 @@
 - [ntudeb](ntudeb)
 
 ## nextwekk discussion
-
+- active reading: try to read 
 1. jobs/opportunity: must find a job that give you knowledge in the next 2 months -> leverage the experience from ntu research and english debate club
 2. proposal + paper
   - interview vietnamese student go back to vietnam studied aquaculture -> geographer paper
