@@ -6,7 +6,7 @@
   - get the list first univeristy vietnam and taiwan that do aquaculture
     - evidence
       1. [X] literature review
-      2. [X] which department
+      2. [X] which department -> look into thesis -> see student name, research title, supervisor, year
       3. [X] thesis or paper publish by vietnamese student in taiwan
       4. [ ] how to recruit informants
       5. [ ] how to design interview question

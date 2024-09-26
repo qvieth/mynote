@@ -18,3 +18,29 @@
 ## week 3
 
 ## week 4
+- why do research ethics matter?
+  - think of more risky kind of research: surgency, nuclear, physics, ... natural science
+  - then what about social science? 
+
+- before your field work:
+  - procedural ethics:
+    - seek approval from ethics comittee -> protect basic rights and checklists
+  - ethics in practice
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
