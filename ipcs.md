@@ -13,3 +13,8 @@
 
 - what is psychoanalysis?
   - gone girl movie
+
+
+## week 3
+
+## week 4
