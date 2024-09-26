@@ -26,3 +26,8 @@ how to make an argument
 - impact: i can live drama free
 
 * try to figure out where to put some statement to different category
+
+
+## 2nd day Sep 26th
+
+- 
