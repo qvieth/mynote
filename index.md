@@ -7,6 +7,7 @@
 ## nextwekk discussion
 
 弄
+弄
 - generating methods:
   1. analyze the title
   2. ask question why the title is so
