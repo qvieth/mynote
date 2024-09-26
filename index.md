@@ -3,6 +3,7 @@
 - [ipcs](ipcs)
 - [ntudeb](ntudeb)
 - [research](research)
+- [chinese](chinese)
 ## nextwekk discussion
 
 
