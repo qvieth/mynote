@@ -6,6 +6,16 @@
 - [chinese](chinese)
 ## nextwekk discussion
 - rule (cause effect) -> deduction, induction, abduction
+- given:
+  - rule and cause : deduct effect
+  - cause and effect  : induct rule
+  - rule and effect : abduct cause
+
+grounded theory: include inductive reasoning
+- start with a question, collection of qualitative data
+
+
+
 - generating methods:
   1. analyze the title
   2. ask question why the title is so
