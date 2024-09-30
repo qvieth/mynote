@@ -5,7 +5,7 @@
 - [research](research)
 - [chinese](chinese)
 ## nextwekk discussion
-
+- rule (cause effect) -> deduction, induction, abduction
 - generating methods:
   1. analyze the title
   2. ask question why the title is so
