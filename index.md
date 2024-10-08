@@ -5,6 +5,13 @@
 - [research](research)
 - [chinese](chinese)
 ## nextwekk discussion
+
+### questioon to ask leauro
+- i need sometime to experience, learn, and use his advice. and now after a while i have new perspective, i want to ask more for his help
+
+- local entrepreneurial incubators: these places often shared workspace for early-stage startup entrepreneurs
+- the cleantech entrepreneurship reading text mentioned the local entrepreneurial incubators, 
+
 - rule (cause effect) -> deduction, induction, abduction
 - given:
   - rule and cause : deduct effect
