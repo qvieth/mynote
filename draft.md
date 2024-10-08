@@ -1,4 +1,7 @@
 # Threatening Dystopias: Development, Scientific Knowledge, and Adaptation to Climate Change
+
+
+
 - I want to join NTUEDS because of my passion for debate and contributing to discussions on a variety of topics
 - in the past i have  educating myself with the subject of programming and computer science, i sometimes wonder in the topics of philosophy, these subject help me realize being thinking logical, critical thinking is the key in making decision and to figure out the truth of life. therefore debate is a kind of critical thinking that allow you not just dealing with yourself but taking input from outside as well. 
 - mention i'm a timid and introvert person, in the past i didn't have much chance to discuss and talk with people, joining this club would be a perfect chance for me to sharpen my social and public speaking skill.
