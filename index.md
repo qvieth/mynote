@@ -4,6 +4,7 @@
 - [ntudeb](ntudeb)
 - [research](research)
 - [chinese](chinese)
+- [travel](travel)
 ## nextwekk discussion
 
 ### questioon to ask leauro
