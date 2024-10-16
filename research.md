@@ -1,5 +1,26 @@
 # research
 
+
+## report
+- first based on the reading of the paper Slovak doctor knowledge transfer
+  - drawing on 24 in depth interview with returnee and hospital manager
+    - 19 with docs who spent significant period working/studying abroad
+    - 5 with hospital managers, all have medical background
+- manager provide overviews of the value of international working/training experiences
+- first doctors were contacted through the recommendations of manager and others,
+  * $snowball method$ identified other returnee
+- interview were undertaken face to face
+- in common with most studies of returnees, we can't comment on the experience of those who have not yet returned
+- methodology and profile of interviewee:
+  - absense of list of returnee, the data is invisible in most national data set
+    - difficult if not impossible to distribute questionaires to this cohort
+    - therefore indepth interview
+
+- what to examine: working condition
+- whether they work in rural or urban areas, private or public sector
+- shaped by change in water, climate, environment
+- 
+
 - https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Ek1ggt/search#result
 - national library of thesis
 - priority
