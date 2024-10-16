@@ -7,6 +7,10 @@
 - [travel](travel)
 ## nextwekk discussion
 
+- search for univeristy that have aquaculture college/major
+- search for dissertation, thesis of that university that is about the aquaculture
+  - from this extract meta data about title, student name, professor, advisor name, year of publication,... or anyinformation that might beuseful to contact the student
+
 ### questioon to ask leauro
 - i need sometime to experience, learn, and use his advice. and now after a while i have new perspective, i want to ask more for his help
 
@@ -64,6 +68,7 @@ grounded theory: include inductive reasoning
   - one blood observation worker who has a side gig that is reading the river gauges in local river and sending that data by sms to the scientist. then the scientist plug that data to the model
   - in the village many dn't have a mobile phone, but at at least one relative has it, then they spread out the information using the word of mouth
   - the question from the interviewer:
+    - and what if any lesson can we in the US learn from these communities and potentially implement here
     - and what if any lesson can we in the US learn from these communities and potentially implement here
     - there's a big debate right now about the responsibilities of countries who are responsible for more of these emissionnnns. what sort of assiatance exist for bangladesh from these big country
 
@@ -152,7 +157,6 @@ local newspapers such as Báo VnExpress, Báo Cà Mau, Báo Bạc Liêu, and
 Báo Sóc Trăng to understand local industry issues
 ``` 
 - bloom's taxonomy
-- Self-regulated learning: monitor your learning and make adjustments
 -  Processing information: relationships, what is more and or less important, how it could be importantin real world, creating analogies for different groups of information, ask it examples then use own brain to (higher order:)evaluate if thats right.  then ability to retrieve and use the knowledge. To specific questions make it hard for gpt to be correct. Ask it in what order is best to learn things, like a syllabus, take control of your order. You can give it different relationships in a network of info and ask it if there are other relationships that might be missing, to look for those areas. Let it facilitate parts of your higher order learning
 
 ```prompt
