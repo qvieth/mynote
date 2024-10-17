@@ -1,5 +1,20 @@
 # research
+- 2 3 hours will be exhausting for the interviewee
+- do you change the question for different people: semi-structure vs structured
 
+# aquaculure knowledge transfer of vietnamese student studied abroad
+## literature review
+- learn from the slovak doctor:
+  - The authors delve into the literature on knowledge transfer, examining how professionals bring back not only knowledge but also skills, practices, and networks to their home country.
+  - The review also covers the learning process of professionals abroad, distinguishing between tacit (informal, experiential knowledge) and explicit knowledge (formal, codified knowledge).
+  - They explore how the context in which knowledge is acquired (in this case, the health care systems abroad) influences how well that knowledge can be transferred and adapted back in Slovakia.
+- explore several key themes that align with the research focus:
+  - return mobility and knowledge transfer
+  - international education and skill aquisition
+  - aquaculture and technologies transfer: it can be frustrating for aquaculture researchers, returnee when farmers, company do not adopt technologies that have been developed. the decision to adopt a new technologies is complex  and these farmers/ company must consider a wide variety of factors to determine if it is the best interest to adopt it in any given point in time. - Factors Driving Aquaculture Technology Adoption  doi: 10.1111/jwas.
+  - barier and facilitator of knowledge transfer: which factors?
+  - impact of returnees on local industry: focus on how returning experts have influenced sectors like aquaculture, agriculture.
+  - comparative studies: studies of returnees in other fields, especially those related to agriculture or environmental sciences
 
 ## report
 - first based on the reading of the paper Slovak doctor knowledge transfer
@@ -20,7 +35,7 @@
 - whether they work in rural or urban areas, private or public sector
 - shaped by change in water, climate, environment
 - 
-
+[draft](draft)
 - https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Ek1ggt/search#result
 - national library of thesis
 - priority
