@@ -1,3 +1,6 @@
+
+- FOCUS ON DOING 2 THINGS, CHINESE + READ MORE
+
 - [draft](draft)
 - [vocabulary](vocabulary)
 - [ipcs](ipcs)
