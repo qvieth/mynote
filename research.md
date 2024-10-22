@@ -39,13 +39,12 @@
 - https://etds.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/ccd=Ek1ggt/search#result
 - national library of thesis
 - priority
-  - get the list first univeristy vietnam and taiwan that do aquaculture
-    - evidence
-      1. [X] literature review
-      2. [X] which department -> look into thesis -> see student name, research title, supervisor, year
-      3. [X] thesis or paper publish by vietnamese student in taiwan
-      4. [ ] how to recruit informants
-      5. [ ] how to design interview question
+    1. [X] literature review
+    2. [X] get the list first univeristy vietnam and taiwan that do aquaculture - which department -> look into thesis -> see student name, research title, supervisor, year
+    3. [X] thesis or paper publish by vietnamese student in taiwan
+    4. [X] develope sameple research question 
+    5. [ ] how to recruit informants
+    6. [ ] how to design interview question
   - try to figure out some linkage
 
 - geographer - wikipedia - human environment interaction

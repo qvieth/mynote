@@ -3,9 +3,7 @@
 
 - [draft](draft)
 - [vocabulary](vocabulary)
-- [ipcs](ipcs)
-- [ntudeb](ntudeb)
-- [research](research)
+- [ntu](ntu)
 - [chinese](chinese)
 - [travel](travel)
 ## nextwekk discussion
