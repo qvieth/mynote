@@ -6,7 +6,26 @@
 - [ntu](ntu)
 - [chinese](chinese)
 - [travel](travel)
+
 ## nextwekk discussion
+- best historian friend is dead government
+find sources
+
+- Jiantizi biao: Di-yi pi 簡體字表: 第一批, comp. Guomin zhengfu jiaoyubu 國民政府 教育部 (Nanjing: Guomin zhengfu jiaoyubu, 1935), pp. 14–15.
+  - List of Simplified Chinese Characters published by the Ministry of Education of the Republic of China
+- Ferdinand de Saussure, Course in General Linguistics, ed. Perry Meisel and Haun Saussy, trans. Wade Baskin (1916; rpt., New York: Columbia University Press, 2011), p. 22
+  - books
+- Frederick J. Newmeyer, The Politics of Linguistics (Chicago: University of Chicago Press, 1986), p. 9
+  - books
+- William F. Hanks, “Pierre Bourdieu and the Practices of Language,” Annual Review of Anthropology 34 (2005): 75
+  - paper/ articles
+- Robert Culp, The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism (New York: Columbia University Press, 2019), p. 5
+  - books
+- Culp, Power of Print in Modern China;
+  - books
+- The Chinese Typewriter: A History
+  - books
+
 
 - search for univeristy that have aquaculture college/major
 - search for dissertation, thesis of that university that is about the aquaculture
