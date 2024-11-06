@@ -1,4 +1,36 @@
 # research
+
+## research proposal
+
+- context of discovery
+- develop a research proposal of climate service
+  - climate service
+    - climate datasets(models and observations) from
+      - national science and technology center for disaster reduction
+      - central weather bereau (cwb)
+      - RCEC academia senica
+      - coupled model intercomparison project phase 6(CMIP6)
+    - deliver cliamte service to diverse stakeholders for various kind of purpose
+
+- question:
+  1. What is the impact of climate change to the researched industry or activities?
+  2. Who are your targeted stakeholders? What are their concerns?
+  3. What climate dataset and social information can help you answer your research question?
+  4. How will you deliver climate services to your stakeholders (e.g. through particular kind of media or communications) and what is the business model?
+
+
+- discuss 1:
+  - what kind of climate services are needed for the development of cruise ship tourism:
+    - seasonal challenges
+    - floating ice
+  - what are the negative impact of cruise ship tourism(hint: society and environment)
+- discuss 2:
+  - what are the social changes for cruiseship tourism in nunavut region:
+    - economies
+    - regulations
+    - inuit culture
+    - infrastructure
+
 - 2 3 hours will be exhausting for the interviewee
 - do you change the question for different people: semi-structure vs structured
 
