@@ -2,6 +2,10 @@
 
 [draft](draft)
 
+## 
+what is wave, how scientist add wave in their research
+
+
 ## week 8 reading:
 
 - weng: PRC, CCP: chinese communist party, GMD: guomindang
