@@ -1,6 +1,31 @@
 # research
+- ideas:
+  - Localized Seasonal Forecasts for Small Farmers: Develop tailored seasonal forecasts for smallholder farmers to plan planting and harvest cycles. Gap: Lack of accessible, locally relevant seasonal climate information for small farmers.
+## presentation 
+
+Here’s a structure you might follow for your presentation to cover each dimension clearly:
+
+### 1. Context of Discovery
+- Define the Background: Start with the bigger picture or issue that makes your research relevant. Why is this topic important to study in the field of social science?
+- Identify Gaps in Knowledge: Highlight specific gaps in current research or real-world issues that your study seeks to address.
+- State the Purpose: Briefly summarize the purpose of your research, showing how it connects to the context you just explained.
+### 2. Research Question
+- Present the Core Question: Clearly state the main question guiding your research. This should be concise, directly related to the context of discovery, and demonstrate an open-ended inquiry that invites analysis.
+- Explain the Significance: Briefly explain why this question is central to understanding the issue and how it could contribute to the field.
+### 3. Research Design
+- Explain Your Methodology: Describe the methods you will use to gather data (e.g., surveys, interviews, observations). Highlight why you chose these methods and how they fit with your research question.
+- Outline Your Approach: Mention whether you’ll use a qualitative, quantitative, or mixed-methods approach and how it supports answering your research question.
+- Data Analysis Plan: Give a brief idea of how you’ll analyze the data. Will you be using thematic analysis, statistical tests, etc.?
+### Presentation Tips
+- Timing: Since you have 10 minutes, plan each section to last about 3 minutes, leaving a little time for transitions.
+- Anticipate Questions: Think of potential questions that might come up in the Q&A.
 
 ## research proposal
+- Students will present their proposals about the end-term project for 10 minutes. Each student will have 5 minutes for Q&A.
+  - The presentation should include the following dimensions:
+    - What is the context of discovery in your research?
+    - What is your research question? 
+    - How will/did you answer your research question? (Explain your research design)
 
 - context of discovery
 - develop a research proposal of climate service
