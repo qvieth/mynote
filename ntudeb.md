@@ -1,5 +1,10 @@
 # ntudeb
+- debatedata.io
+## november 7: closing stategy
 
+- for a statement to be well proven, spend 2-3 minutes to prove it
+
+---
 - toulmin
 - rogerian
 - british parliament debate
@@ -10,8 +15,43 @@ sometimes when i make argument, i think it is to the point but kinda short
 
 ## 1st day
 how to make an argument
-- i'm watching a cartoon: singing lyrics is about:
 
+- Extraterritorial sanctions hurt a country’s right to make its own decisions.
+
+- These sanctions damage local businesses and hurt regular people in many countries.
+
+* They create more conflict between nations and can lead to trade wars.
+* They disrupt global trade and harm economic growth worldwide.
+* These sanctions give more power to big, rich countries and leave weaker ones at a disadvantage.
+
+
+
+
+## 1. They create more conflict between nations and can lead to trade wars.
+- When one country imposes sanctions
+  - causes tension with other countries that may disagree with these actions or see them as overreach.
+  - These sanctions can force countries to take sides, which increases the risk of trade disputes or retaliatory measures, sparking trade wars that hurt all involved.
+In the long term, repeated use of extraterritorial sanctions can create an unstable environment where nations respond with their own restrictions or tariffs, leading to a cycle of escalating conflicts.
+## 2. They disrupt global trade and harm economic growth worldwide.
+Extraterritorial sanctions block certain businesses, banks, and industries from engaging with other countries, which disrupts the free flow of trade.
+By forcing companies to stop trading with sanctioned countries, these measures reduce opportunities for business and economic cooperation globally.
+The economic impact isn’t limited to the target country; countries that rely on trade with the sanctioned nation suffer, leading to slower growth, fewer jobs, and higher prices for consumers worldwide.
+## 3. These sanctions give more power to big, rich countries and leave weaker ones at a disadvantage.
+Wealthier countries have the power to enforce extraterritorial sanctions because they control major parts of the global financial and trade systems.
+This creates an imbalance where smaller, less wealthy nations have little choice but to comply with the powerful nation’s demands, even if they disagree.
+Over time, this weakens the political and economic independence of smaller countries, reducing their ability to pursue their own policies without fear of punishment. This reinforces global inequality and limits the voices of less powerful nations in international affairs.
+
+- Extraterritorial sanctions make it harder for countries to work together through global organizations.
+
+- They often harm vulnerable people by causing shortages of food and medicine.
+- Companies are confused by different laws, making it risky to do international business.
+
+
+- By acting alone, countries using these sanctions ignore other nations’ views and needs.
+
+- Extraterritorial sanctions can damage long-term diplomatic relationships between nations.
+
+- i'm watching a cartoon: singing lyrics is about:
 ### claim, context, reasoning, impact
  structure for building the argument: -> is there any better one?
   - your actions make me feel disrepected
