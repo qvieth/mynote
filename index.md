@@ -6,7 +6,10 @@
 - [ntu](ntu)
 - [chinese](chinese)
 - [travel](travel)
-- 
+
+
+- needs priority, climate change at what number?
+
 - Nguyen, Tran, Le, Pham, Huynh, Hoang, Phan, Vu, Vo, Dang, Bui, Do, Ho, Ngo, Duong, Ly, Van, To, Vuong, Quach, Cao, Diep, Dinh, Lam, La, Luu, Luong, Truong, Ta, Thach, Trieu, Uong, Chau, Khong, Liem, Ma, Phung, Quyen, Thai, Thoi, Ton, Ung
 
 ## nextwekk discussion
