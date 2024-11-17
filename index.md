@@ -7,7 +7,9 @@
 - [chinese](chinese)
 - [travel](travel)
 
-
+- http://vifep.com.vn/5/vi-VN/xuat-khau-tom-viet-nam-20-nam-nhin-lai.aspx
+- https://www.tinnhanhchungkhoan.vn/xuat-khau-thuy-san-nam-2022-huong-toi-moc-11-ty-usd-post309704.html
+- https://tepbac.com/tin-tuc/full/xuat-khau-tom-viet-nam-20-nam-nhin-lai-25577.html
 - needs priority, climate change at what number?
 
 - Nguyen, Tran, Le, Pham, Huynh, Hoang, Phan, Vu, Vo, Dang, Bui, Do, Ho, Ngo, Duong, Ly, Van, To, Vuong, Quach, Cao, Diep, Dinh, Lam, La, Luu, Luong, Truong, Ta, Thach, Trieu, Uong, Chau, Khong, Liem, Ma, Phung, Quyen, Thai, Thoi, Ton, Ung
