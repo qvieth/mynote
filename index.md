@@ -7,9 +7,13 @@
 - [chinese](chinese)
 - [travel](travel)
 
-- http://vifep.com.vn/5/vi-VN/xuat-khau-tom-viet-nam-20-nam-nhin-lai.aspx
-- https://www.tinnhanhchungkhoan.vn/xuat-khau-thuy-san-nam-2022-huong-toi-moc-11-ty-usd-post309704.html
-- https://tepbac.com/tin-tuc/full/xuat-khau-tom-viet-nam-20-nam-nhin-lai-25577.html
+- answered question 1:
+  - https://vietnambiz.vn/xuat-khau-thuy-san-chinh-thuc-can-moc-ky-luc-102-ty-usd-sau-11-thang-202212171615516.htm
+  - https://www.tinnhanhchungkhoan.vn/xuat-khau-thuy-san-nam-2022-huong-toi-moc-11-ty-usd-post309704.html
+  - https://tepbac.com/tin-tuc/full/xuat-khau-tom-viet-nam-20-nam-nhin-lai-25577.html
+  - co cau thuy san qua cac nam, co cau thi truong thuy san 
+  - https://siambrothersvn.com/cac-thi-truong-xuat-khau-thuy-san-lon-nhat-cua-viet-nam-nam-2022-432-26.html
+
 - needs priority, climate change at what number?
 
 - Nguyen, Tran, Le, Pham, Huynh, Hoang, Phan, Vu, Vo, Dang, Bui, Do, Ho, Ngo, Duong, Ly, Van, To, Vuong, Quach, Cao, Diep, Dinh, Lam, La, Luu, Luong, Truong, Ta, Thach, Trieu, Uong, Chau, Khong, Liem, Ma, Phung, Quyen, Thai, Thoi, Ton, Ung
