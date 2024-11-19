@@ -1,4 +1,5 @@
 ## report
+- https://vietnamcredit.com.vn/news/outlook-for-vietnams-seafood-industry-in-2022_14768
 - vietnamnet:
   - dbscl 3058
   - quan trac moi truong 276

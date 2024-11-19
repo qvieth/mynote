@@ -1,4 +1,11 @@
 # research
+
+- [yu kai](yu-kai)
+
+
+---
+
+
 - ideas:
   - Localized Seasonal Forecasts for Small Farmers: Develop tailored seasonal forecasts for smallholder farmers to plan planting and harvest cycles. Gap: Lack of accessible, locally relevant seasonal climate information for small farmers.
 ## presentation 
