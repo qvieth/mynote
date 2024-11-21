@@ -1,5 +1,28 @@
 # ntudeb
 - debatedata.io
+
+## 11/14
+
+BP strategy
+- reasoning by first principle
+- reasoning by analogy
+
+[steps](steps)
+1. identify clash
+- don't think about the arguemnt, think about the context.
+- common clashes:
+  - individualism vs collectivism
+  - integration vs preservation / diversity
+  - efficiency vs accountability
+  - means vs ends
+
+2. pick theory
+
+3. 
+
+https://monashdebaters.com/tim-sonnreichs-training-guide
+
+
 ## november 7: closing stategy
 
 - for a statement to be well proven, spend 2-3 minutes to prove it
