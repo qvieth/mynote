@@ -157,6 +157,10 @@ local newspapers such as Báo VnExpress, Báo Cà Mau, Báo Bạc Liêu, and
 Báo Sóc Trăng to understand local industry issues
 ``` 
 - bloom's taxonomy
+local newspapers such as Báo VnExpress, Báo Cà Mau, Báo Bạc Liêu, and 
+Báo Sóc Trăng to understand local industry issues
+``` 
+- bloom's taxonomy
 
 ```python
 title
@@ -167,7 +171,3 @@ pagemap.metatags.source
 pagemap.metatags.og:description
 pagemap.metatags.article:publisher
 pagemap.metatags.tt_list_folder_name
-pagemap.metatags.lastmod
-pagemap.metatags.article:tag
-pagemap.metatags.tt_article:id
-pagemap.metatags.news
