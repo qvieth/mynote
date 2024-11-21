@@ -1,13 +1,27 @@
 # ntudeb
 - debatedata.io
 
+
+- [Introduction to British Parliamentary Debate](https://www.youtube.com/watch?v=d1ype0Toqo4&list=PLC-iwNwZy96cBgPPPTTHr68xJ_64iibMT&index=2)
+  - role fulfillment:
+    - opening teams
+      - OG: set up the debate, provide a debatable situation for the house to debate
+        - >> require to talk about the most important issues and arguments in a debate
+      - OO: rebut the OG, bring out what the opposition side thinks
+        - >> tallk about the most important issues and arguments on their side
+    - closing teams: require full attention to the debate, the job is to extend the debate further, they need to contribute to the debate by analyzing the debate in a different perspective
+      - CG
+      - CO
+  - the ranking is based on role fulfillment and contribution to the debate
+
+
 ## 11/14
 
 BP strategy
 - reasoning by first principle
 - reasoning by analogy
 
-[steps](steps)
+steps
 1. identify clash
 - don't think about the arguemnt, think about the context.
 - common clashes:
