@@ -1,42 +1,11 @@
-
-- FOCUS ON DOING 2 THINGS, CHINESE + READ MORE
-
 - [draft](draft)
 - [vocabulary](vocabulary)
-- [ntu](ntu)
+- [ipcs](ipcs)
+- [ntudeb](ntudeb)
+- [research](research)
 - [chinese](chinese)
 - [travel](travel)
-
-- answered question 1:
-  - https://vietnambiz.vn/xuat-khau-thuy-san-chinh-thuc-can-moc-ky-luc-102-ty-usd-sau-11-thang-202212171615516.htm
-  - https://www.tinnhanhchungkhoan.vn/xuat-khau-thuy-san-nam-2022-huong-toi-moc-11-ty-usd-post309704.html
-  - https://tepbac.com/tin-tuc/full/xuat-khau-tom-viet-nam-20-nam-nhin-lai-25577.html
-  - co cau thuy san qua cac nam, co cau thi truong thuy san 
-  - https://siambrothersvn.com/cac-thi-truong-xuat-khau-thuy-san-lon-nhat-cua-viet-nam-nam-2022-432-26.html
-
-- needs priority, climate change at what number?
-
-- Nguyen, Tran, Le, Pham, Huynh, Hoang, Phan, Vu, Vo, Dang, Bui, Do, Ho, Ngo, Duong, Ly, Van, To, Vuong, Quach, Cao, Diep, Dinh, Lam, La, Luu, Luong, Truong, Ta, Thach, Trieu, Uong, Chau, Khong, Liem, Ma, Phung, Quyen, Thai, Thoi, Ton, Ung
-
 ## nextwekk discussion
-- best historian friend is dead government
-find sources
-
-- Jiantizi biao: Di-yi pi 簡體字表: 第一批, comp. Guomin zhengfu jiaoyubu 國民政府 教育部 (Nanjing: Guomin zhengfu jiaoyubu, 1935), pp. 14–15.
-  - List of Simplified Chinese Characters published by the Ministry of Education of the Republic of China
-- Ferdinand de Saussure, Course in General Linguistics, ed. Perry Meisel and Haun Saussy, trans. Wade Baskin (1916; rpt., New York: Columbia University Press, 2011), p. 22
-  - books
-- Frederick J. Newmeyer, The Politics of Linguistics (Chicago: University of Chicago Press, 1986), p. 9
-  - books
-- William F. Hanks, “Pierre Bourdieu and the Practices of Language,” Annual Review of Anthropology 34 (2005): 75
-  - paper/ articles
-- Robert Culp, The Power of Print in Modern China: Intellectuals and Industrial Publishing from the End of Empire to Maoist State Socialism (New York: Columbia University Press, 2019), p. 5
-  - books
-- Culp, Power of Print in Modern China;
-  - books
-- The Chinese Typewriter: A History
-  - books
-
 
 - search for univeristy that have aquaculture college/major
 - search for dissertation, thesis of that university that is about the aquaculture
@@ -188,17 +157,17 @@ local newspapers such as Báo VnExpress, Báo Cà Mau, Báo Bạc Liêu, and
 Báo Sóc Trăng to understand local industry issues
 ``` 
 - bloom's taxonomy
--  Processing information: relationships, what is more and or less important, how it could be importantin real world, creating analogies for different groups of information, ask it examples then use own brain to (higher order:)evaluate if thats right.  then ability to retrieve and use the knowledge. To specific questions make it hard for gpt to be correct. Ask it in what order is best to learn things, like a syllabus, take control of your order. You can give it different relationships in a network of info and ask it if there are other relationships that might be missing, to look for those areas. Let it facilitate parts of your higher order learning
 
-```prompt
-- hey chatgpt, i want you to act as an expert in Social Psychology and imamgine that i am a complete beginner. what do you think are the 20 most impoortant concepts from this subject to start with and in which order? give me a brief overview of those concepts and your reasoning as to why it's best to learn them in that order
-```
-
-
-- act as an expert data scientist and create an exploratory data analysis python data science project about naruto the anime
-  - then ask write the code for the project
-  - goals of the day : study ML, some chinese
-
--> what if i keep reading good prompt from other user?
-- energy captial -> invest on -> productive, spiritual, intellectual, social, and physical capital.
-- history of ... and its aim for the future
+```python
+title
+link
+displayLink
+snippet
+pagemap.metatags.source
+pagemap.metatags.og:description
+pagemap.metatags.article:publisher
+pagemap.metatags.tt_list_folder_name
+pagemap.metatags.lastmod
+pagemap.metatags.article:tag
+pagemap.metatags.tt_article:id
+pagemap.metatags.news
