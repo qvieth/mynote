@@ -1,6 +1,15 @@
 # ntudeb
 - debatedata.io
-
+- reason for punishing crime:
+  - retribution: when someone is victimize by crime, a feeling or need to exact revenge is invoked
+  - deterrence, discouraging to prevent
+  - rehabilitation
+  - incarceration, prision
+  - restitution, recompensation 
+- components of crimes:
+  - actus reus: guilty act
+  - mens rea: guilty mind
+- Norway's prison system, focused on rehabilitation, has one of the world's lowest recidivism rates (20%), while punitive systems like the U.S. exceed 50%."
 
 - [Introduction to British Parliamentary Debate](https://www.youtube.com/watch?v=d1ype0Toqo4&list=PLC-iwNwZy96cBgPPPTTHr68xJ_64iibMT&index=2)
   - role fulfillment:
@@ -115,7 +124,7 @@ Over time, this weakens the political and economic independence of smaller count
   1. [disprove] this is untrue -> their logic is bad/ they're factually wrong
   2. [mitigate] "the impact is smaller than what they say" -> the impact is not [likely] to happen/ won't affect people to large extend
   3. [flip] "this is actually an argument for our side" -> but still asume all the argument TH made are [true]
-- for each type of rebuttal it attack a different part of the argument
+- for each [type](type) of rebuttal it attack a different part of the argument
 
 - claim: damage self esteem of students from other university
 - context: many dream but not able
