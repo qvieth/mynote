@@ -1,4 +1,17 @@
 # ntudeb
+
+## 11/28
+
+- larger impacts require popularity, impact scales with exposure
+- good art vs bad art will never win a debate
+- representation:
+  - windows and mirrors:
+    - window to see the others to develop empathy
+    - mirrors to see themselfve and develop self-esteem
+  - bad represetation vs no representation: something is better than nothing
+
+---
+
 - debatedata.io
 - reason for punishing crime:
   - retribution: when someone is victimize by crime, a feeling or need to exact revenge is invoked
