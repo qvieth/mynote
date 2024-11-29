@@ -5,6 +5,7 @@
 - [research](research)
 - [chinese](chinese)
 - [travel](travel)
+- [business](business)
 ## nextwekk discussion
 
 - search for univeristy that have aquaculture college/major
