@@ -1,5 +1,10 @@
 # research proposal
 
+- final memo writing structure:
+  - short background/context
+  - rationale and justification for the study
+  - purpose and approach
+
 ## searching for the words AMD initiatives (in vietnamese) and watch some news and see what i kind of result i get:
 - research strategy:
   - AMD has many goals: X and climate services
