@@ -1,6 +1,18 @@
 # research proposal
 
 ## searching for the words AMD initiatives (in vietnamese) and watch some news and see what i kind of result i get:
+- research strategy:
+  - AMD has many goals: X and climate services
+  - give 1 example about X, how CGIAR transfer technology and help farmer with X
+  - specifically examine "climate services", its effectiveness, compared to guideline by WMO
+
+
+- https://www.cgiar.org/news-events/news/scaling-ricemore-revolutionizing-rice-production-monitoring-in-the-south-central-coast-of-vietnam/
+- https://www.cgiar.org/news-events/news/vietnams-mard-endorses-mechanized-direct-seeding-combined-with-fertilizer-deep-placement-as-an-advanced-technology-for-rice-cultivation/
+- https://www.cgiar.org/news-events/news/ricemore-launch-pioneering-digital-transformation-in-vietnams-agriculture-sector/
+- https://www.cgiar.org/news-events/news/a-community-led-approach-to-climate-resilience-the-cs-map-story/
+- [Delta Talks #11: Human-centered design in climate services: Insights from rice farmers in the Mek...](https://www.youtube.com/watch?v=2E76qK4aCkU)
+- 
 - https://nongnghiep.vn/giam-chi-phi-tang-nang-suat-nho-ung-dung-ban-tin-thoi-tiet-nong-vu-d409946.html
 
 - https://nongnghiep.vn/sang-kien-quoc-te-ho-tro-nong-dan-dbscl-thich-ung-voi-bien-doi-khi-hau-d370247.html
