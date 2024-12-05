@@ -1,7 +1,7 @@
 # ntudeb
 
 ## 11/28
-
+- this house as a political sartist living in a post conflic
 - larger impacts require popularity, impact scales with exposure
 - good art vs bad art will never win a debate
 - representation:
@@ -9,6 +9,23 @@
     - window to see the others to develop empathy
     - mirrors to see themselfve and develop self-esteem
   - bad represetation vs no representation: something is better than nothing
+  - can art actually change anything?
+    - point of connections: people knowing same piece of art might have some connection: batman
+  - marginalized, alienated
+  - least representative of who need help the mostt
+  - sensorship
+- why the art world sucks:
+  - most contract are exploitative: it's nearly impossible to survive as an independent artist
+  - visual artts: the only way to sucess is to cater to the rich
+  - film/music: require distribution, huge upfront cost
+  - museums have huge terrible funding issues
+    - have lots of art, but only display few of them
+    - can you acidently plagiarize someone
+  - conceptual art
+  - indigenous and ancient art:
+    - indigenous/folk (art) is often criticized or neglected:
+      - often not seen as high art and therefore not worth preserving
+      
 
 ---
 
