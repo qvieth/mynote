@@ -1,5 +1,57 @@
 # ntudeb
+## roll fulfilment
+- In British Parliamentary (BP) debate, role fulfillment refers to how well each speaker fulfills their responsibilities within their position. Adhering to these roles is crucial because it provides structure and clarity to the debate. Here’s a breakdown of the roles for each speaker in a BP debate:
 
+- Opening Government (OG)
+  - Prime Minister (PM) (1st Speaker for OG):
+    - Define the motion: Provide a clear and fair interpretation of the motion, setting up the debate.
+    - Provide a framework: Explain how the debate will be evaluated (principles, values, or metrics).
+    - Present the case: Introduce the team’s stance, outline arguments, and develop 1-2 key arguments in detail.
+    - Preempt opposition arguments: Predict likely opposition points and briefly address them.
+  - Deputy Prime Minister (DPM) (2nd Speaker for OG):
+    - Rebuild and defend: Respond to the arguments from the Leader of the Opposition.
+    - Extend arguments: Add depth to the PM’s arguments or introduce new arguments.
+    - Reinforce the framework: Reiterate the team’s framework and explain how their case fits it.
+    - Summarize the OG case: Ensure the team’s position is clear.
+- Opening Opposition (OO)
+- Leader of the Opposition (LO) (1st Speaker for OO):
+  - Respond to the definition: Challenge or accept the PM’s definition of the motion.
+  - Present the opposition’s case: Outline the team’s stance, provide counterarguments, and introduce 1-2 main arguments.
+  - Clash with the government: Directly engage with the PM’s arguments.
+  - Set a framework (if needed): Offer an alternative framework for evaluating the debate.
+- Deputy Leader of the Opposition (DLO) (2nd Speaker for OO):
+  - Rebuild and defend: Address points raised by the DPM and reinforce the LO’s case.
+  - Extend arguments: Deepen the analysis of the LO’s arguments or introduce new arguments.
+  - Engage in clash: Respond to key arguments made by OG.
+  - Summarize the OO case: Highlight the superiority of the opposition’s stance.
+- Closing Government (CG)
+- Member of Government (MG) (1st Speaker for CG):
+- Introduce an extension: Provide a new, unique argument that adds value to the debate.
+- The extension must not repeat points made by OG but should build upon them or introduce new perspectives.
+- Engage with opponents: Respond to key points from OO and CG.
+- Support OG: Show why OG’s case is still valid and strong.
+- Government Whip (GW) (2nd Speaker for CG):
+
+- Summarize the government case: Present a compelling overview of OG and CG arguments.
+- Highlight the extension: Emphasize the unique contribution of CG to the debate.
+- Engage minimally with opposition: Whips are not expected to introduce new arguments but can rebut key opposition points.
+- Closing Opposition (CO)
+- Member of Opposition (MO) (1st Speaker for CO):
+
+- Introduce an extension: Provide a new and unique argument that adds value to the opposition’s case.
+- Like the MG, the extension must be distinct from OO’s points.
+- Engage with CG: Respond to key points from CG.
+- Support OO: Reinforce why OO’s arguments are valid and relevant.
+- Opposition Whip (OW) (2nd Speaker for CO):
+
+- Summarize the opposition case: Provide a compelling overview of OO and CO arguments.
+- Highlight the extension: Emphasize CO’s unique contribution to the debate.
+- Engage minimally with OG/CG: Like the GW, the OW should not introduce new arguments but can rebut major points.
+- General Tips for Role Fulfillment
+- Stay in Role: Focus on the responsibilities of your position and avoid overstepping into roles of other speakers.
+- Be Clear and Organized: Structure your speech to ensure clarity and coherence.
+- Engage with the Debate: Address prior arguments and build upon the debate instead of starting from scratch.
+- Provide Unique Value: Closing teams, in particular, must ensure their contributions are distinct and significant.
 ## 11/28
 - this house as a political sartist living in a post conflic
 - larger impacts require popularity, impact scales with exposure
