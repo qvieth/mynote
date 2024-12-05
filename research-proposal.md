@@ -5,6 +5,10 @@
   - rationale and justification for the study
   - purpose and approach
 
+## searching for climate services current state
+- [2024 State of Climate Services](https://wmo.int/publication-series/2024-state-of-climate-services)
+  - The latest edition of the report explores the current state of play and also documents the progress that has been made in the last five years. It includes analyses and stories to explain how specific countries, including ** Seychelles, Mauritius, Laos, and Ireland, have succeeded in developing and using climate services to deliver a range of socioeconomic benefits and to advance climate action.
+
 ## searching for the words AMD initiatives (in vietnamese) and watch some news and see what i kind of result i get:
 - research strategy:
   - AMD has many goals: X and climate services
