@@ -2,6 +2,10 @@
 
 [draft](draft)
 
+## creative methods
+- 4 level of creativity
+
+
 ## 
 what is wave, how scientist add wave in their research
 
