@@ -4,6 +4,9 @@
 
 ## creative methods
 - 4 level of creativity
+- creative methods should:
+  - not just do report the current situation, but should be ** world-making
+  - questions of skill: who can conduct creative skills
 
 
 ## 
