@@ -1,4 +1,9 @@
 # ntudeb
+## econ motions:
+- effieciency vs accountability
+- meritocracy vs mobility
+- short-term vs long-term
+
 ## roll fulfilment
 - In British Parliamentary (BP) debate, role fulfillment refers to how well each speaker fulfills their responsibilities within their position. Adhering to these roles is crucial because it provides structure and clarity to the debate. Here’s a breakdown of the roles for each speaker in a BP debate:
 
