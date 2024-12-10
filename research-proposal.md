@@ -5,6 +5,22 @@
   - rationale and justification for the study
   - purpose and approach
 
+- research question:
+  - first answer the following quesion to get insight:
+    - who provide the ACS
+    - where
+    - when
+    - what methods/ analysis approach being used
+    - result might be
+    - context:
+      - statistics in these acs provided area
+      - o -> o -> o : remember this model : ( cause -> what -> impact ) context
+      - how many percent of mekong grow rice -> the important of rice
+      - how did acs help farmer -> extend to cattle, aquaculture -> give little bit of context then focus on rice
+      - 
+
+
+
 ## searching for climate services current state
 - [2024 State of Climate Services](https://wmo.int/publication-series/2024-state-of-climate-services)
   - The latest edition of the report explores the current state of play and also documents the progress that has been made in the last five years. It includes analyses and stories to explain how specific countries, including ** Seychelles, Mauritius, Laos, and Ireland, have succeeded in developing and using climate services to deliver a range of socioeconomic benefits and to advance climate action.
