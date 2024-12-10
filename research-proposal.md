@@ -17,8 +17,14 @@
       - o -> o -> o : remember this model : ( cause -> what -> impact ) context
       - how many percent of mekong grow rice -> the important of rice
       - how did acs help farmer -> extend to cattle, aquaculture -> give little bit of context then focus on rice
+      - acs in mekong and CGAIR intervention
+      - when the project start, when it ends, whether there is continuation
       - 
-
+      - research question: how can the government of vietnam learn from the existing climate service project, to enhance and come up with their own NFCS, therefore push the endeavor of climate change
+      - help acs sustain and scale by decreasing the uncertainty
+      - how can these different case of cliamte service being fit into the national framework of climate service
+      - Evaluation of existing policies and adaptation strategies.
+      - cross country 
 
 
 ## searching for climate services current state
