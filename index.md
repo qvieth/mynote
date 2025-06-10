@@ -15,7 +15,7 @@
 - cc prof email lecgure
 - emboding
 - look in differeent way
-
+- sushi
 - introduc yourself:
   - my name 
   - my major. i'm preparing for climate chage
