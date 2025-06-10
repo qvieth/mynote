@@ -1,0 +1,8 @@
+- people won't care about your personal life on youtuber
+- think of how you search a video, you won't search for personal life
+- you search for a specific key word that would help you
+- for example: how to gain muscle fast
+- do video about it
+- story line:
+  - mention you should read these book that would help you on
+  - but right in this video i will help teach you...
