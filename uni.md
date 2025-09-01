@@ -10,3 +10,5 @@
   - graduates careers
   - Mac shortcuts for AIs, NTU email
     - chatgpt, grok, gemini, notebooklm
+
+- regis course, find TA
