@@ -9,3 +9,4 @@
   - learning map
   - graduates careers
   - Mac shortcuts for AIs, NTU email
+    - chatgpt, grok, gemini, notebooklm
