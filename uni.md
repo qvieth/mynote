@@ -21,11 +21,17 @@
   - questions -> download
 
 - data:
-  - where is the data from
+  - where the data from?
   - what format
-  - how to remove unecessary dat
+  - how to remove unecessary data
 - calculation:
   - how to import?
   - what calculation method can use?
   - why choose this method
 - visulization
+
+- try to get A+
+
+- analyssi climate data: deadline December 2 
+  - do as soon as possible, submit in advance before deadline and ask for how to improve and get A+
+  - estimate climate risk
