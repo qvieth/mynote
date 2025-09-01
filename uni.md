@@ -12,3 +12,9 @@
     - chatgpt, grok, gemini, notebooklm
 
 - regis course, find TA
+
+- ... course
+- o
+
+- monday afternoon class:
+  - rcp in ipcc ar5, now ssp in ar6
