@@ -1,12 +1,13 @@
-
-
-test
-
-
-wow 
-ok
-
-
-67 is from station nha be
-
-last monday a Tuan pho giam doc
+- Climate pollutants
+  - acceleration of CO2 emmision from 1750- 1970 and 1750 to 2011
+  - so since 1970, the next 40 years the emssion already double compare to 220 years ago since 1750
+  - longevity of CO2, 55% of CO2 is removed within 10 years, but 45% remains for a century or longer, in this 45%, 20% persists for thousands of years.
+  - non C02 pollutant (e.g. methane, black carbon) contribute significantly to cliamte change therefore also need to be addressed
+- global warming measured and consequences:
+  - the planet has warm 1 degree Celcius since pre-industrial times.(by the time in this video)
+  - if 2030 continue to accumulate 1 more trillion tons of CO2, could push warming to 2 degree Celcius. This is a dangerous threshold
+  - he mentioned 130,000 years ago, 1 degree warming caused glaciers to melt and sea level rise by 5-6 meters. 2 degree rise could have even more severe impacts: flooding, ecosystem disruption, even more challenged for projected 9 billion population by 2050
+- Urgency of action:
+  - If emissions continue unabated, climate change could reach crisis level
+  - planet has inertia, meaning warming effects are delayed but inevitable without intervention
+  - need urgent solution to keep warming below 2 degree threshold.
