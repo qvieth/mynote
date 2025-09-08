@@ -13,8 +13,8 @@
 
 ```
 - TODO:
-  - current sem:
-    - CREATE TCCIP account and get data, check data class
+  * current sem:
+    * CREATE TCCIP account and get data, check data class
   - no rush
     - learning map
     - graduates careers
