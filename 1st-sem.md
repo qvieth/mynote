@@ -23,6 +23,13 @@
 
 # climate services class
 - new journal on climate service -> checkout
+- idea on 1min discussion:
+  - Trump action on against climate change, big beautiful bill
+    - use the ideas of climate communication article, altho there are some effort on trying to improve communication, this act even try to drive the communication to agagainst the effort and profit from this
+    - How does this affect global efforts on climate change?
+    - Who benefits from the bill? Who is harmed, especially when considering marginalized or low-income communities?
+    - This show the fragility of climate progress
+    - Consequences - how to prevent this from happening if later new president just appologize and comeback to the paris agreement
 
 # seminar 1
 - how to write good abstract: professor hsun show a good graph of hour glass of each sentence fit into broad to narrow
