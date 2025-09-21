@@ -1,3 +1,19 @@
+- Vulnerability of
+  - ecosystems and people
+    - to climate change differs substantially among and within regions
+      - driven by patterns of intersecting socio-economic development, unsustainable ocean, and land use, inequity, marginalization, historical and ongoing patterns of inequity
+        - such as colonialism, and governance. "
+
+
+- Assigning responsibility highlights that climate change isn't just a natural phenomenon but one amplified by human actions, particularly from high-emitting nations and industries historically tied to colonialism and industrialization
+- This recognition helps in practical ways: It justifies mechanisms like climate finance, where responsible parties fund adaptation and mitigation in affected areas (e.g., the Paris Agreement's goal of $100 billion annually from developed to developing countries).
+- common but differentiated responsibilities" (CBDR), a UN principle that ensures solutions aren't blindly "equal" but fair, preventing further marginalization.
+  - Pointing to the past is not a futile exercise in blame; it is a legal and political necessity. The principle of "Common but Differentiated Responsibilities and Respective Capabilities" (CBDR-RC), enshrined in the UNFCCC, is a direct result of this understanding.
+  - Shared Goal, Different Roles: This principle acknowledges that all countries share a common responsibility to address climate change. However, their individual responsibilities are different based on their historical contributions and their current economic capacity to act.
+  - The "Polluter Pays" Principle: CBDR-RC is a form of the "polluter pays" principle applied on a global scale. It is the framework that justifies why developed nations have a greater obligation to provide climate finance and technological support to developing nations, which is a key component of the Paris Agreement.
+- By examining historical patterns—such as how colonialism led to unsustainable land use (e.g., resource extraction in colonized regions) or ongoing inequities in governance—we can identify systemic drivers of vulnerability
+- Focusing solely on future solutions without this analysis risks superficial fixes that ignore underlying issues. For example, if we don't acknowledge how past inequities created fragile ecosystems or impoverished communities, new policies might perpetuate them
+
 - Climate pollutants
   - acceleration of CO2 emmision from 1750- 1970 and 1750 to 2011
   - so since 1970, the next 40 years the emssion already double compare to 220 years ago since 1750
