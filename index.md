@@ -11,6 +11,9 @@
 2. [package](package)
 3. [uni](uni)
 
+
+- learn about something, actively search for news, real case for example
+
 ---
 
 ## principles

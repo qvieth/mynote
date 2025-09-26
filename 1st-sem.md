@@ -31,5 +31,9 @@
     - This show the fragility of climate progress
     - Consequences - how to prevent this from happening if later new president just appologize and comeback to the paris agreement
 
+- 26th sep:
+  - think about timescale when doing climate services
+
 # seminar 1
 - how to write good abstract: professor hsun show a good graph of hour glass of each sentence fit into broad to narrow
+- 
