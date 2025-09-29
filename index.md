@@ -13,6 +13,9 @@
 
 
 - learn about something, actively search for news, real case for example
+- transcription model: TODO:
+  - improve accuracy
+  - more detail(number, )
 
 ---
 
