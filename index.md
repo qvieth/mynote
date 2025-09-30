@@ -17,6 +17,10 @@
   - improve accuracy
   - more detail(number, )
   - explain how did i come up with this results
+    - so i 
+
+
+- 
 
 ---
 
@@ -29,6 +33,6 @@
 - if you can't categorize, tag the ideas, you're not understanding it
 - do project(program) along category(package) <- intermediate packets
 workflow -> write lessons in vim -> move the most important points into ~/v 
-write lessons in vim is a must do -> it's help me to think (think of days that i skip doing this because of being lazy
+write lessons in vim is a must do -> it's help me to think (think of days that i skip d:quickjkjoing this because of being lazy
 the learning progress is becoming stagnant
 ```
