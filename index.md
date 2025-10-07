@@ -18,7 +18,9 @@
   - more detail(number, )
   - explain how did i come up with this results
     - so i 
-  - focus on one dimension
+  - focus on one dimension, dig deeper, focus on one or two
+  - more paper
+  - explain figure 1 more
 
 
 - 
