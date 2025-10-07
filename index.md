@@ -18,6 +18,7 @@
   - more detail(number, )
   - explain how did i come up with this results
     - so i 
+  - focus on one dimension
 
 
 - 
