@@ -22,6 +22,9 @@
   - more paper
   - explain figure 1 more
 
+- transcription:
+  - check words, findlink
+
 - what topic
 - context
 - issue, why important => research question
