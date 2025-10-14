@@ -22,6 +22,10 @@
   - more paper
   - explain figure 1 more
 
+- what topic
+- context
+- issue, why important => research question
+
 * question from monday class could use for the thesis: Using a specific, real-world example, illustrate the social or historical mechanisms that systematically place certain groups at a disproportionately greater risk.
 
 
