@@ -25,6 +25,9 @@
 - transcription:
   - check words, findlink
 
+- interview with RTI:
+  - potential market for carbon credit verification 3rd party man power
+
 - what topic
 - context
 - issue, why important => research question
