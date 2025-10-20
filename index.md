@@ -27,6 +27,7 @@
 
 - interview with RTI:
   - potential market for carbon credit verification 3rd party man power: need to go to developing country to verify
+- next week present
 
 - what topic
 - context
