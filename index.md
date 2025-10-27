@@ -12,6 +12,16 @@
 3. [uni](uni)
 
 
+# Draft
+- today:
+  - monday class BTC
+  - seminar thesis sharing
+  - send report to professor every saturday
+  - goo
+
+- ideas sharing:
+  - good starting point: https://www.perplexity.ai/search/i-need-to-do-research-about-cl-nVtr6gXkQ8.LruKrrtvuag#0
+
 - learn about something, actively search for news, real case for example
 - transcription model: TODO
   - improve accuracy
