@@ -13,6 +13,35 @@
 
 
 # Draft
+
+- Please add more discussion on the similarities and distinctiveness between this book and other
+critical works in the field of medical anthropology by
+(1) incorporating more research by Janis
+Jenkins, Junko Kitanaka, Tom Widger, and X Marsilli-Vargas, as the reviewer suggested, and
+jj(2)
+elaborating on the distinction between ethnography conducted at the national level and that at the
+city level. In addition, please consider whether China should be categorised as part of the Global
+South, as this remains debatable.
+
+
+CHES PET
+  Cultural
+
+  Historical
+
+  Environmental
+
+  Social
+
+  Technological
+
+  Political
+
+  Economic
+
+
+
+
 - today:
   - monday class BTC
   - seminar thesis sharing
