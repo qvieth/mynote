@@ -48,6 +48,7 @@ South, as this remains debatable.
   - compound, cascading diasters
   * national adaption framwork -> a slide of how to adapt
   - mitigation 1% still depends on 99% from other coutnry but adaptation is not 
+  - domain specialist
 
 
 CHES PET
