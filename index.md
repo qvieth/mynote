@@ -30,6 +30,7 @@ South, as this remains debatable.
   - how to estimate adaption options
   - NSTC: national science and technolgy council
   - taiwan have capicity to deal with disaster?
+  - impact important but what kind of impacts?
   - 
 
 
