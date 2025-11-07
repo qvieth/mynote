@@ -39,6 +39,8 @@ South, as this remains debatable.
     - academic support: RCEC, academia sinica, universities
   - applications: also different stakeholders, -> how to translate the data to these
   - tccip IV research teams and topics
+  - in ocean taiwan only have 7 station while rainfall more than 7 hundres
+  - taiwan choose 2 degree scenarios
   - 
 
 
