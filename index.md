@@ -25,8 +25,12 @@ South, as this remains debatable.
 
 
 - cliamte service class guess speaker
+  - climate change research in NCDR
   - NCDR: national science and technology center for disaster reduction
   - how to estimate adaption options
+  - NSTC: national science and technolgy council
+  - taiwan have capicity to deal with disaster?
+  - 
 
 
 CHES PET
