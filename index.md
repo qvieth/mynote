@@ -38,6 +38,7 @@ South, as this remains debatable.
     - coordinating team: NCDR
     - academic support: RCEC, academia sinica, universities
   - applications: also different stakeholders, -> how to translate the data to these
+  - tccip IV research teams and topics
   - 
 
 
