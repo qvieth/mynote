@@ -44,6 +44,7 @@ South, as this remains debatable.
   - TaiESM
   - NaMR: national academy of marine research
   - scenario -> impact -> adaptation : adaption is most important
+  - Question pop out while listening: learn from organiztion of taiwan to locate vietnam networks
   - 
 
 
