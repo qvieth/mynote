@@ -31,6 +31,7 @@ South, as this remains debatable.
   - NSTC: national science and technolgy council
   - taiwan have capicity to deal with disaster?
   - impact important but what kind of impacts?
+  - tccip
   - 
 
 
