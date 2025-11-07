@@ -32,6 +32,7 @@ South, as this remains debatable.
   - taiwan have capicity to deal with disaster?
   - impact important but what kind of impacts?
   - tccip : there is a team inside downscale data to taiwan
+  - more detail impact system
   - 
 
 
