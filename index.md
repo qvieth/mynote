@@ -43,6 +43,7 @@ South, as this remains debatable.
   - taiwan choose 2 degree scenarios
   - TaiESM
   - NaMR: national academy of marine research
+  - scenario -> impact -> adaptation : adaption is most important
   - 
 
 
