@@ -24,6 +24,11 @@ city level. In addition, please consider whether China should be categorised as 
 South, as this remains debatable.
 
 
+- cliamte service class guess speaker
+  - NCDR: national science and technology center for disaster reduction
+  - how to estimate adaption options
+
+
 CHES PET
   Cultural
 
