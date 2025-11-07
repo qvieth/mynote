@@ -50,6 +50,7 @@ South, as this remains debatable.
   - mitigation 1% still depends on 99% from other coutnry but adaptation is not 
     - customized portal: for various users -> domain specialist: adatation resources for...
     - regulation: standard method for unify differnt way, -> help compare differnt way..
+    - cliame change specialist: consider scenarios in future projection for a project
 
 
 CHES PET
