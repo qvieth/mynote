@@ -48,7 +48,8 @@ South, as this remains debatable.
   - compound, cascading diasters
   * national adaption framwork -> a slide of how to adapt
   - mitigation 1% still depends on 99% from other coutnry but adaptation is not 
-  - domain specialist
+    - customized portal: for various users -> domain specialist: adatation resources for...
+    - regulation: standard method for unify differnt way, -> help compare differnt way..
 
 
 CHES PET
