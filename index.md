@@ -46,6 +46,7 @@ South, as this remains debatable.
   - scenario -> impact -> adaptation : adaption is most important
   - Question pop out while listening: learn from organiztion of taiwan to locate vietnam networks, ways of adaptation
   - compound, cascading diasters
+  * national adaption framwork -> a slide of how to adapt
 
 
 CHES PET
