@@ -20,7 +20,7 @@
   - search in the book review where is it.
   - then try to incorporate that smoothly in that book review
 
-- now make incorporating and comparing/ distincitoning two authors,... less become repetitive. change words
+- NOW MAKE INCORPORATING AND COMPARING/ DISTINCITONING TWO AUTHORS,... LESS BECOME REPETITIVE. CHANGE WORDS
 
 - Please add more discussion on the similarities and distinctiveness between this book and other
 critical works in the field of medical anthropology by
