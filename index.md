@@ -14,6 +14,13 @@
 
 # Draft
 
+- for each:
+  - similarities
+  - distinction
+  - search in the book review where is it.
+  - then try to incorporate that smoothly in that book review
+- now make incorporating and comparing/ distincitoning two authors,... less become repetitive. change words
+
 - Please add more discussion on the similarities and distinctiveness between this book and other
 critical works in the field of medical anthropology by
 (1) incorporating more research by Janis
