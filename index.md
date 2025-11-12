@@ -21,8 +21,12 @@
   - then try to incorporate that smoothly in that book review
 
 - things i need:
-  - usbC to C port: for ps5 dock charger
-  - ally z1e: C to many C for charge and connect to MAC for steam link share
+  - a bag for putting all the cable
+  - buy 2:  usbC to C port: for ps5 dock charger
+  - ally z1e:
+    - C to many C for charge and connect to MAC for steam link share
+    - ethernet port
+    - >> laern how to do steam share
   - 
 - NOW MAKE INCORPORATING AND COMPARING/ DISTINCITONING TWO AUTHORS,... LESS BECOME REPETITIVE. CHANGE WORDS
 
