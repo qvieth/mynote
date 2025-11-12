@@ -20,6 +20,10 @@
   - search in the book review where is it.
   - then try to incorporate that smoothly in that book review
 
+- things i need:
+  - usbC to C port: for ps5 dock charger
+  - ally z1e: C to many C for charge and connect to MAC for steam link share
+  - 
 - NOW MAKE INCORPORATING AND COMPARING/ DISTINCITONING TWO AUTHORS,... LESS BECOME REPETITIVE. CHANGE WORDS
 
 - Please add more discussion on the similarities and distinctiveness between this book and other
