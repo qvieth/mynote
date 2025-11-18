@@ -14,6 +14,22 @@
 
 # Draft
 
+
+- v1
+- prof website:
+  - nav bar should be translate as well | also should blur and transparent like the website i gave
+  - photo album collage before contact section
+  - contact should have a google map view include
+  - supervision part should be more well spaced, the 4 steps should have a line that connect to show the process
+  - current students should in card mode with avatar of the students
+
+- v2
+  - navbar section now lost the section it point to
+  - maps part should point to Global Change Centre National Taiwan University No. 1, Sec. 4, Roosevelt Rd. Taipei 10617 Taiwan
+  - publication part, after each research ppaer titile should be pdf icon, if click in will download the pdf of that paper
+  - the photo collage should as a whole doesn't leave out empty square
+  - font design philosophy from title to content should follow best design principle. try use minimal and clean font like apple use, try use some color for block between section to easier to regconize at which section has past, still follow the minial and clean desgin principle, use color that fall in black white gray clean pallete
+
 - for each:
   - similarities
   - distinction
