@@ -28,6 +28,12 @@ folder/Book review 2 Viral Economies.pdf
 folder/Book review 3 Water 常態水與全球敘事.pdf
 folder/Book review 4 Material politics.pdf
 folder/photo.jpg
+folder/photo
+
+- the photo collage part will use all the photo in the photo folder
+- the publication part use the name in list mode, don't use the table mode.
+
+
 
 
 - v1
