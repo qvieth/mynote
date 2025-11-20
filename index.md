@@ -15,6 +15,21 @@
 # Draft
 
 
+folder/1. Shrimp economies.pdf
+folder/2. 再訪區域地理：越南研究的知識生產_廖昱凱.pdf
+folder/3. Hydrosocial geographies_廖昱凱.pdf
+folder/4. Shrimp in labs_廖昱凱.pdf
+folder/5. Green developmentalism_廖昱凱.pdf
+folder/6. 地理學中的量體轉向_廖昱凱.pdf
+folder/7. 點石成金.pdf
+folder/Book Chapter Path dependence.pdf
+folder/Book review 1 Underflows.pdf
+folder/Book review 2 Viral Economies.pdf
+folder/Book review 3 Water 常態水與全球敘事.pdf
+folder/Book review 4 Material politics.pdf
+folder/photo.jpg
+
+
 - v1
 - prof website:
   - nav bar should be translate as well | also should blur and transparent like the website i gave
