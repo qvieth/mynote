@@ -14,6 +14,14 @@
 
 # Draft
 
+## climate data class:
+
+- project 1:
+  - ntucool ->
+  - target -> edit code_full
+  - example -> code + data -> requirement -> what important is the figure
+  - requirement <-> figure
+
 
 folder/1. Shrimp economies.pdf
 folder/2. 再訪區域地理：越南研究的知識生產_廖昱凱.pdf
