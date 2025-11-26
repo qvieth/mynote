@@ -16,11 +16,43 @@
 
 ## climate data class:
 
+- what importnat right now is to understand tccip data
+  - go to their website. understand how the data is
 - project 1:
   - ntucool ->
   - target -> edit code_full
   - example -> code + data -> requirement -> what important is the figure
   - requirement <-> figure
+- scoretable for project 1
+  - max 16:
+    - add labels
+    - add title
+  - max 18:
+    - add regression line
+    - t-test
+  - max score 20:
+    - climate spiral or change variable
+- datasets
+  - 466920.txt
+    - Stno,Datatime,PP01,PS01,RH01,TX01,WD01,WD02
+    - 466920,1897/1/2 AM 12:00:00,0.0,1021.2,82,18.6,1.2,-9999,
+    - 466920,1897/1/3 AM 12:00:00,0.0,1020.6,86,18.3,1.4,-9999,
+    - 466920,2018/3/31 AM 12:00:00,0.0,1011.4,57,24.1,3.7,60.0,
+    - 466920,2018/4/1 AM 12:00:00,0.0,1009.8,52,24.9,2.8,50.0,
+  - 466921.txt
+    - Stno,Datatime,PP01,PS01,RH01,TX01,WD01,WD02
+    - 466921,1992/2/2 AM 12:00:00,0.0,1019.2,74,16.4,1.3,90.0,
+    - 466921,1992/2/3 AM 12:00:00,0.0,1014.4,79,18.0,0.7,360.0,
+    - 466921,1997/8/30 AM 12:00:00,0.1,1003.8,68,29.8,3.3,112.5,
+    - 466921,1997/8/31 AM 12:00:00,43.5,1007.0,81,27.5,1.6,180.0,
+- target
+  - p1.png
+- Hint
+  - Temperature
+  - 11-year running mean
+  - Baseline = 1980-1999
+- Fishball's code
+  - P1 code.png
 
 
 folder/1. Shrimp economies.pdf
