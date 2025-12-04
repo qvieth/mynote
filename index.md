@@ -16,6 +16,14 @@
 
 ## climate data class:
 
+- priority:
+  - ARC
+  - health report
+  - thesis presentation
+  - cliamte data class
+  - bike
+
+- ask for every project what kind of data
 - what importnat right now is to understand tccip data
   - go to their website. understand how the data is
 - project 1:
