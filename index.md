@@ -20,10 +20,15 @@
   - ARC: done
   - health report: done
   - so basically all the class will have report
-    - climate data -> code         5 projects
-    - climate issue ->         final report
-    - seminar ->               final report
+    - climate data          -> code         5 projects
+    - climate issue         -> final report
+    - seminar               -> final report
     - climate service class -> group report
+    - dfaf:            a
+      - fssfddfs:      sjf
+        - dkfjskfljfs: adkla
+          - sjd:       adfaj
+            - jdfksf:  dajfl
   - climate service class
   - thesis presentation
   - cliamte data class
