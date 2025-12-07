@@ -17,11 +17,21 @@
 ## climate data class:
 
 - priority:
-  - ARC
-  - health report
+  - ARC: done
+  - health report: done
+  - so basically all the class will have report
+    - climate data -> code 5 projects
+    - climate issue -> final report
+    - seminar -> final report
+    - climate service class -> group report
+  - climate service class
   - thesis presentation
   - cliamte data class
   - bike
+
+- climate service group report:
+  - move psmc report to after the tmsc of abrar, mention it also how it is related to ifrs and tnfd framework
+  - PSMC brief concerns on the background also
 
 - ask for every project what kind of data
 - what importnat right now is to understand tccip data
