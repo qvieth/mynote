@@ -29,6 +29,10 @@
   - cliamte data class
   - bike
 
+- thesis:
+  - stakeholder too much
+  - hypothesis?
+
 - climate service group report:
   - move psmc report to after the tmsc of abrar, mention it also how it is related to ifrs and tnfd framework
   - PSMC brief concerns on the background also
