@@ -32,6 +32,8 @@
   - next summer => 3 months holiday => collect data
   - must be really ready
   - use this winter write a better proposal in spring early next year -> then in spring apply for research grant -> apply in spring will be less competitive
+  - do something easy to explain
+  - EASY TO UNDERSTAND AVOID VAGUE
   - in 2nd year => must have preliminary result
 
 - priority:
