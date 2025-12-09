@@ -25,6 +25,9 @@
   - criteria for what a efficient climate servicd is
   - remove typhoon
   - critical gap -> make more concrete
+  - between slide 8 and 9: explain why you focus on multi level
+  - explain why more...
+  - explain **who** is providing climate services
 
 - priority:
   - ARC: done
