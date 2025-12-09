@@ -28,6 +28,7 @@
   - between slide 8 and 9: explain why you focus on multi level
   - explain why more...
   - explain **who** is providing climate services
+  - remove the slide of how i'm gonna analyze the data
 
 - priority:
   - ARC: done
