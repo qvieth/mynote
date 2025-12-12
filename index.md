@@ -21,7 +21,7 @@
   - frame i'm focusing more on communication side rather than modelling
   - what are climate services, temperture, precipitation
   - climate information
-  - what are climate variable you are looking at.
+  - what are climate **variable** you are looking at.
   - criteria for what a efficient climate servicd is
   - remove typhoon
   - critical gap -> make more concrete
