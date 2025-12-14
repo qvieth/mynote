@@ -18,17 +18,18 @@
 
 
 - thesis:
-  - frame i'm focusing more on communication side rather than modelling
-  - what are climate services, temperture, precipitation
-  - climate information
-  - what are climate **variable** you are looking at.
+  - try to frame: i'm focusing more on communication side rather than modelling -> as the audience (professors) will have background in atmospheric science so when talking about research about climate service try to frame it i'm about social science so it's more about social or communication side rather than doing modeling
+  - what are climate services, temperture, precipitation - climate information - what are climate **variable** you are looking at.
+    - salinity data: ob tain from 27 salinity stations from 20.. to 20.. obtain from southern center for hydro-meteological forecast center in VN
+    - precipitation data: obatain from AgERA5
   - criteria for what a efficient climate servicd is
-  - remove typhoon
+  - [done] remove typhoon
   - critical gap -> make more concrete
   - between slide 8 and 9: explain why you focus on multi level
   - explain why more...
   - explain **who** is providing climate services
   - remove the slide of how i'm gonna analyze the data
+- plan when in vn
   - next summer => 3 months holiday => collect data
   - must be really ready
   - use this winter write a better proposal in spring early next year -> then in spring apply for research grant -> apply in spring will be less competitive
