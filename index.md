@@ -17,6 +17,7 @@
 
 ## climate data class:
 - start from project 1 to 5, one at a time, to see progression
+- after got the file from antigravity: use this to compare with the orignal file, ask what changes have been made, how to explain the main differences i made compare to the original file to my professor
 - workflow to do:
   - keep opening the google collab, also check the scoretable and final result picture
   - try to open which "one" part of the code in charge of generate the plot
