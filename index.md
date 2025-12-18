@@ -16,7 +16,9 @@
 # Draft
 
 ## climate data class:
+- FOCUS ON THE DATA first, after understand where the data is missing, then load the data into the code, then edit the code with deepseek
 - start from project 1 to 5, one at a time, to see progression
+- try to describe the dat
 - after got the file from antigravity: use this to compare with the orignal file, ask what changes have been made, how to explain the main differences i made compare to the original file to my professor
 - workflow to do:
   - keep opening the google collab, also check the scoretable and final result picture
