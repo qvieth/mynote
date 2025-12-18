@@ -15,13 +15,39 @@
 # Draft
 
 ## climate data class:
+- start from project 1 to 5, one at a time, to see progression
+- workflow to do:
+  - keep opening the google collab, also check the scoretable and final result picture
+  - try to open which "one" part of the code in charge of generate the plot
+  - understand that and put it to the python
+  - edit the python -> may be the most important is the data
+  - after get the data, generate the chart and see what missing
+  - edit with AI -> finally run with nvim -> don't focus on nvim too early
+  - capture and submit
+  - che
+
+- BTC:
+  - what skills do you need questions:
+    - Mixed-Methods Research: To integrate quantitative (farmer surveys, service metrics) and qualitative (interviews, stakeholder mapping) data.
+      - Global Climate Change" - WEI-TING CHEN -> i found this course will give me more context at high level like the course climate change and issue i took in the fall semester. but this course expect this course will have a higher level concept on global scale, with more context and 
+      - "Climate change and extreme events - machine learning hands-on" - YU-CHIAO LIANG and MIN-HUI LO -> mention something about statistical and machine learning skill
+      - "Introductory Statistics for Geosciences" - Department of Geosciences i also consider this course to the machine learning course above, but this will also give me concepts of geosciences, this will be useful for me for comprehensive understanding of earth system
+      - "Computer Intensive Statistics in Ecology" - Available to Earth System Science, Oceanography, and other departments - i hope to achive the cocmputer skill and statistics skill in relate to ecology or biodiversity,...
+
+
 
 
 - thesis:
   - try to frame: i'm focusing more on communication side rather than modelling -> as the audience (professors) will have background in atmospheric science so when talking about research about climate service try to frame it i'm about social science so it's more about social or communication side rather than doing modeling
-  - what are climate services, temperture, precipitation - climate information - what are climate **variable** you are looking at.
-    - salinity data: ob tain from 27 salinity stations from 20.. to 20.. obtain from southern center for hydro-meteological forecast center in VN
-    - precipitation data: obatain from AgERA5
+  - 3 core inquiries:
+    - 
+  - data
+    - primary data: unique year panel survey data colletion
+    - what are climate services, temperture, precipitation - climate information - what are climate **variable** you are looking at.
+      - salinity data: ob tain from 27 salinity stations from 20.. to 20.. obtain from southern center for hydro-meteological forecast center in VN
+      - precipitation data: obatain from AgERA5
+      - study on use of digital tools in rice farming: quantitative study survey farmers and field agent regarding use of digital tech for farming advice  -> info on digital tool use(tv/radio, phonecalls, messaging apps like zalo, fb messenger,..)
+      - acbs(agro-climatic bulletins) implementation: service based on continuous data input which has been foramlly institutionalized in VN -> provide locally reccomendation based on seasonal, monthly, 10-days forecast
   - criteria for what a efficient climate servicd is
   - [done] remove typhoon
   - critical gap -> make more concrete
