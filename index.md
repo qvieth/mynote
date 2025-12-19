@@ -16,6 +16,7 @@
 # Draft
 
 ## climate data class:
+- project 4: download 6 station so to cover the entire taiwan
 - FOCUS ON THE DATA first, after understand where the data is missing, then load the data into the code, then edit the code with deepseek
 - start from project 1 to 5, one at a time, to see progression
 - try to describe the dat
