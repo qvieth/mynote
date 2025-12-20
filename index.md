@@ -16,6 +16,21 @@
 # Draft
 
 ## climate data class:
+- heatwave:
+  - prolonged period of abnormally hot weather
+    - relative to the local climate norms
+    -  often lasting multiple days
+  - vary by region and organization
+    - but generally emphasize **exceeding temperature thresholds**
+    - for a **minimum duration,**
+      - sometimes incorporating humidity or nighttime minima.
+  - The World Meteorological Organization (WMO)
+    - describes a heatwave as a period
+    - where the daily maximum temperature
+      - using a 1961–1990 baseline.
+
+
+
 - project 4: download 6 station so to cover the entire taiwan
 - FOCUS ON THE DATA first, after understand where the data is missing, then load the data into the code, then edit the code with deepseek
 - start from project 1 to 5, one at a time, to see progression
