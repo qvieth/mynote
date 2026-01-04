@@ -16,6 +16,10 @@
 # Draft
 
 ## climate data class:
+
+
+- draw diagram and words on the data
+
 - heatwave:
   - prolonged period of abnormally hot weather
     - relative to the local climate norms
