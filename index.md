@@ -20,6 +20,24 @@
 
 - draw diagram and words on the data
 
+
+- question to ask:
+  - who are these farmers
+  - how did you contacts them
+  - how did you decide how to send out the surveys
+  - the reason for choosing these areas
+- book about AI infrastructures:
+  - hardware technology for ai  takeo kawahara
+  - chip war chris miller
+  - nvidia way tae kim
+
+
+- prof yu hsien
+  - https://course.ntu.edu.tw/en/courses/114-2/51205
+- prof minhuilo
+- prof fishball
+- 
+
 - heatwave:
   - prolonged period of abnormally hot weather
     - relative to the local climate norms
