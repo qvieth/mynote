@@ -21,15 +21,20 @@
 - draw diagram and words on the data
 
 
-- question to ask:
-  - who are these farmers
-  - how did you contacts them
-  - how did you decide how to send out the surveys
-  - the reason for choosing these areas
+- reply her email today:
+  - question to ask:
+    - who are these farmers
+    - how did you contacts them
+    - how did you decide how to send out the surveys
+    - the reason for choosing these areas
 - book about AI infrastructures:
   - hardware technology for ai  takeo kawahara
   - chip war chris miller
   - nvidia way tae kim
+    - Key Hardware Topics
+      - Neural network LSIs and high-performance computing structures.
+      - Combinatorial optimization hardware and Ising machines.
+      - In-memory AI computing to reduce data movement overhead
 
 
 - prof yu hsien
