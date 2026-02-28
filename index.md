@@ -17,6 +17,21 @@
 
 ## climate data class:
 
+
+- flow to write the material to send to prof:
+  - ways to explore climate service:
+    - historical context of Mekong delta:
+      - "rice first" policy
+      - transformation of the delta from a river water society into hydraulic society
+    - agrarian transition and saline frontier
+    - Indegenious Knowledge(IK): paper of databases of over 260K document of IK
+      - IK is rapidly vanishing due to lack of conservation regulation and death of traditional elder
+      - can use this point if only found some evidence of effectiveness of IK
+      - 
+
+- current material & checklist:
+  - gemini current 2 deep research, use some of the result -> check facts& add references
+
 - https://www.youtube.com/watch?v=EV7WhVT270Q : 4 hours: State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast
   - ask comet summarize this video:
     * most important point: **10. Education, learning, and “struggle”**
