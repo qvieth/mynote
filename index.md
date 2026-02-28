@@ -17,6 +17,14 @@
 
 ## climate data class:
 
+- https://www.youtube.com/watch?v=EV7WhVT270Q : 4 hours: State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast
+  - ask comet summarize this video:
+    * most important point: **10. Education, learning, and “struggle”**
+      - Both guests argue you understand LLMs best by building a small transformer from scratch on a single GPU, then mapping those intuitions to industrial systems, and by deeply studying a narrow subtopic (e.g., RLHF, character training, evaluation).
+      - They repeatedly emphasize the value of struggle for learning—resisting the urge to let models solve everything, using them instead as tutors and exercise generators, and keeping some time for offline, distraction‑free study
+    * **13. Broader impact on civilization**
+The biggest under‑appreciated effect, in their view, is that LLMs make high‑quality explanations and tutoring accessible worldwide, dramatically lowering the barrier to learning almost any subject.
+
 
 - draw diagram and words on the data
 
