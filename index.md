@@ -17,6 +17,18 @@
 
 ## climate data class:
 
+- give these flow to ai, ask them to find story or evidence, ask find interesting stories or paper, could try to find vietnamese newspaper like vietnamnet, vnexpress or bao tuoi tre or anything like that mention the story
+
+- i asked perplex and the result looks good. now i need to paste these result into chatgpt, ask them to create a table to organize and manage links, title, year if have,... so i can comeback and reference later
+ 
+- prof YK flow:
+  - flow of technology into the field:
+    - how "salt-tolerant rice varieties" or "automated arrigation sensors" are develop in... or VN labs
+
+- key barriers?
+  - could it be financial capacity
+  - fragmented small scale operation
+  - roles of farmers organization
 
 - flow to write the material to send to prof:
   - ways to explore climate service:
@@ -29,6 +41,29 @@
       - can use this point if only found some evidence of effectiveness of IK
       - 
 
+```
+- give these flow to ai, ask them to find story or evidence, ask find interesting stories or paper, could try to find vietnamese newspaper like vietnamnet, vnexpress or bao tuoi tre or anything like that mention the story
+ 
+- prof YK flow:
+  - flow of technology into the field:
+    - how "salt-tolerant rice varieties" or "automated arrigation sensors" are develop in... or VN labs
+
+- key barriers?
+  - could it be financial capacity
+  - fragmented small scale operation
+  - roles of farmers organization
+
+- flow to write the material to send to prof:
+  - ways to explore climate service:
+    - historical context of Mekong delta:
+      - "rice first" policy
+      - transformation of the delta from a river water society into hydraulic society
+    - agrarian transition and saline frontier
+    - Indegenious Knowledge(IK): paper of databases of over 260K document of IK
+      - IK is rapidly vanishing due to lack of conservation regulation and death of traditional elder
+      - can use this point if only found some evidence of effectiveness of IK
+      - 
+```
 - current material & checklist:
   - gemini current 2 deep research, use some of the result -> check facts& add references
 
