@@ -17,6 +17,8 @@
 
 ## climate data class:
 
+- avoid using already have dataset impacts plot or result
+
 
 - need some open source model that can live transcibe what professor said to a text file
 
