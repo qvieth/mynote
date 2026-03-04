@@ -17,6 +17,9 @@
 
 ## climate data class:
 
+
+- need some open source model that can live transcibe what professor said to a text file
+
 - give these flow to ai, ask them to find story or evidence, ask find interesting stories or paper, could try to find vietnamese newspaper like vietnamnet, vnexpress or bao tuoi tre or anything like that mention the story
 
 - i asked perplex and the result looks good. now i need to paste these result into chatgpt, ask them to create a table to organize and manage links, title, year if have,... so i can comeback and reference later
