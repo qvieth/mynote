@@ -17,7 +17,9 @@
 
 ## climate data class:
 
-- avoid using already have dataset impacts plot or result
+- CMIP6: first learn about how latin alphabet, what notion each of them often stand for
+  
+- avoid recreaigng already have dataset impacts plot or result
 
 
 - need some open source model that can live transcibe what professor said to a text file
