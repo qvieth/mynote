@@ -17,6 +17,15 @@
 
 ## climate data class:
 
+- learn from kevin of how to manage things: sheets of task to do and time
+- three flow of things:
+  - thesis
+  - school homework and exam - study language
+  - personal project:
+    - beforethat:
+      - learn vibe coding courses -> some maths?
+  - 
+
 - CMIP6: first learn about how latin alphabet, what notion each of them often stand for
   
 - avoid recreaigng already have dataset impacts plot or result
