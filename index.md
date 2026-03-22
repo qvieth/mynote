@@ -17,6 +17,11 @@
 
 ## climate data class:
 
+
+- currently i have:
+  - cmip6: homework -> check data source
+  - workshop on human: risk assesment
+
 - learn from kevin of how to manage things: sheets of task to do and time
 - three flow of things:
   - thesis
