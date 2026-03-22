@@ -21,6 +21,7 @@
 - currently i have:
   - cmip6: homework -> check data source
   - workshop on human: risk assesment
+  - prepare somegood question to ask professor fishball tomorrow
 
 - learn from kevin of how to manage things: sheets of task to do and time
 - three flow of things:
