@@ -21,6 +21,11 @@
 - the plan for ppt slide:
   - slide for tccip data problem: -> got different variables, but the spatial scale is around 5km, the smallest one 1km is for rainfall only  
   - but the daxue village and its garden spatial scale is so small less than 1 km
+  - then mention landsat -> where, which landsat source to use
+  - should capture a map and clearly show where do we focus on studying
+  - climate risk assessment:
+    - rmit pdf + iso read these 2
+    - also read Strathclyde_University_Adaptation_Plan -> it identify climate risk to the country, then to the uni, could learn from this
 
 
 - currently i have:
