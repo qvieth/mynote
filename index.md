@@ -18,10 +18,18 @@
 ## climate data class:
 
 
+- the plan for ppt slide:
+  - slide for tccip data problem: -> got different variables, but the spatial scale is around 5km, the smallest one 1km is for rainfall only  
+  - but the daxue village and its garden spatial scale is so small less than 1 km
+
+
 - currently i have:
   - cmip6: homework -> check data source
   - workshop on human: risk assesment
   - prepare somegood question to ask professor fishball tomorrow
+  - How the answer might turn out: The answer will be a story of two risks: climatic risk and socio-political risk.
+    - **Climatic**: Under higher warming projections (e.g., SSP5-8.5), Taipei will have more extreme heat, longer dry spells, and more intense rainfall. This will make gardening more challenging (water stress, plant selection, heat stress on gardeners). The garden's utility (as a cooling refuge) will increase as the city gets hotter.
+    - **Socio-Political**: The biggest threat to a community garden in a dense city like Taipei is rarely climate—it's land use change. The garden likely exists on land with high development potential. Its long-term sustainability depends on community advocacy, formal land-use agreements, and institutional support (e.g., from the university or city government).
 
 - learn from kevin of how to manage things: sheets of task to do and time
 - three flow of things:
