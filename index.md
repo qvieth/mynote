@@ -27,6 +27,13 @@
     - rmit pdf + iso read these 2
     - also read Strathclyde_University_Adaptation_Plan -> it identify climate risk to the country, then to the uni, could learn from this
 
+ Progress report 1: Research Questions
+→ Requirements:
+1. Research Site Introduction
+2. Identifying climate risks for the Research Site from TCCIP's data
+3. Literature Review
+4. Your Research question(s)
+
 
 - currently i have:
   - cmip6: homework -> check data source
