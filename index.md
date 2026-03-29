@@ -17,6 +17,8 @@
 
 ## climate data class:
 
+- currently the deepseek and chatgpt(later perplex and gemini high chance not good) give out a good structure
+  - could revise this -> add more logic big part of structure (like rice context interesting history)
 
 - the plan for ppt slide:
   - slide for tccip data problem: -> got different variables, but the spatial scale is around 5km, the smallest one 1km is for rainfall only  
@@ -26,6 +28,8 @@
   - climate risk assessment:
     - rmit pdf + iso read these 2
     - also read Strathclyde_University_Adaptation_Plan -> it identify climate risk to the country, then to the uni, could learn from this
+
+- write smaller part as a time => start with seed tolerant, add articles and write with few of these focus on small part and improve it first
 
  Progress report 1: Research Questions
 → Requirements:
