@@ -16,6 +16,10 @@
 # Draft
 
 ## climate data class:
+
+- CMIP6 class
+  - send the entire slide to AI to ask how to do the last question homeowrk
+
 - taodigital
 - after reading the guidline for markdown
 - reading outlook -> team message ->
