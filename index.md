@@ -16,6 +16,10 @@
 # Draft
 
 ## climate data class:
+- taodigital
+- after reading the guidline for markdown
+- reading outlook -> team message ->
+- set up apple ID -> check the pdf
 
 - currently the deepseek and chatgpt(later perplex and gemini high chance not good) give out a good structure
   - could revise this -> add more logic big part of structure (like rice context interesting history)
