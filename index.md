@@ -17,8 +17,19 @@
 
 ## climate data class:
 
+- About the survey, they suggested that we look at existing papers as references. First, we should determine our expected results, then find studies with a similar structure that we can adapt
+@Jason - 傑森 Do you have any reference already? If so, maybe you can share it with us
+
+
 - CMIP6 class
-  - send the entire slide to AI to ask how to do the last question homeowrk
+  - send the entire slide to AI to ask how to do the last question homework
+  - flow:
+    - write down the path of data -> but ask only use 1 time period
+    - then paste the slide 
+    - ask solve homework question in the last slide
+      - => get the code
+    - => take the code back to AI ask explain and prepare presentaton
+
 
 - taodigital
 - after reading the guidline for markdown
