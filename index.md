@@ -17,6 +17,12 @@
 
 ## climate data class:
 
+- workshop analyze thedata:
+  - prof question: how do you control the variable for temperature change in different time: -> point out research on 1 to 2 degree drop affect the perception but other factors like wind,.. shade, scenery,.. could affect more
+  - therefore most people wouldn't notice -> suggest psychology of the different land use
+
+
+
 - About the survey, they suggested that we look at existing papers as references. First, we should determine our expected results, then find studies with a similar structure that we can adapt
 @Jason - 傑森 Do you have any reference already? If so, maybe you can share it with us
 
