@@ -21,6 +21,8 @@
 - You need to do literature review on peasant studies/political ecology of rice and digital farming
 - In addition, you will also need to write your research methods in more details so that reviewers can know how you will actaully conduct the fieldwork
 
+- => send the entire proposal, ask which part should fit the suggested material into, could fit each part with each object. also reviset the first context part a little bit so it incorporate quagmire
+
 - workshop analyze thedata:
   - prof question: how do you control the variable for temperature change in different time: -> point out research on 1 to 2 degree drop affect the perception but other factors like wind,.. shade, scenery,.. could affect more
   - therefore most people wouldn't notice -> suggest psychology of the different land use
