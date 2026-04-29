@@ -19,6 +19,7 @@
 
 
 before 12pm to send to prof Yu-kai
+a framework to organize all the material: 5 objects
 
 - Please see my comments in the document
 - You need to do literature review on peasant studies/political ecology of rice and digital farming
