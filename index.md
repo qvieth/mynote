@@ -17,6 +17,9 @@
 
 ## climate data class:
 
+
+before 12pm to send to prof Yu-kai
+
 - Please see my comments in the document
 - You need to do literature review on peasant studies/political ecology of rice and digital farming
 - In addition, you will also need to write your research methods in more details so that reviewers can know how you will actaully conduct the fieldwork
