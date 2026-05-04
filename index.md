@@ -17,6 +17,19 @@
 
 ## climate data class:
 
+- 
+- https://www.youtube.com/watch?v=EpGifgbNYiI => transribe this video
+  - first download it
+  - video -> audio 
+  - audio -> transcription
+- https://www.youtube.com/watch?v=CDEJbhcnN2o c.mp3
+
+- ChineseTaiwaneseWhisper: GitHub repo ( github.com/sandy1990418/ChineseTaiwaneseWhisper) with full fine-tuning support for Mandarin/Taiwanese Hokkien, Gradio UI, and streaming ASR; optimized for T4 GPUs.)
+- Whisper Large-v3 base: Strong multilingual baseline (99+ languages, including zh), best further tuned for Taiwanese via Hugging Face datasets.
+- Breeze-ASR-25: MediaTek's Whisper-large-v2 fine-tune enhancing Traditional Chinese and code-switching (zh-en).
+
+- 
+
 
 before 12pm to send to prof Yu-kai
 a framework to organize all the material: 5 objects
