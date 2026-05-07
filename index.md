@@ -16,8 +16,23 @@
 # Draft
 
 ## climate data class:
+- last prompt: now after reading all of these figure, what the point to notice about each figure, mentioned in the paper
+- the flow to present: explain what each figure is abuot: then the point that should be notice
+  - the interesting finding of each figure
 
-- 
+- The key on dates is presence: be in the moment, watch her reactions, mirror her subtle cues, and show that you notice and remember small details she mentioned hours before
+- Seduction always has a small element of danger or taboo (resistance, distance, the sense it “might not happen”); if there is zero friction or mystery, there is no erotic charge.
+- Seduction is mostly nonverbal: eye contact, body language, voice, pacing, where you take her, and how you create a story‑like experience matter more than exact words
+- His “final tweet” for modern relationships: “Be the person you can love” — build a life, character, and inner world you genuinely respect, instead of trying to fix or complete yourself through partners.
+- Real change usually starts when the pain of staying the same exceeds the pain of changing; no one else can want your growth more than you do, and external pushing (parents, friends) rarely works until the drive becomes internal.
+- He advises men not to make their female partner their main emotional support system for fears, doubts, and complaints; instead, share those with “other captains” (trusted male peers, mentors, or therapists) so you can remain solid and reassuring in the relationship.
+- Vulnerability is best expressed as sharing what moves and inspires you and what you love, not constant dumping of wounds and complaints.
+- He predicts more serial monogamy and shorter relationships overall, somewhat like modern careers where most people have many jobs instead of one lifelong employer.
+- As women earn their own money and basic needs are met by the market, they no longer need “a man” for survival and can choose based on desire and high standards rather than necessity
+- Big factors in losing desire: partners “let themselves go” physically, stop competing for each other, and make the relationship all about comfort and routine with no intentional erotic life.
+- Women more often cheat because of emotional dissatisfaction; affairs usually begin as emotional bonds (often with coworkers) that later turn sexual and may become the next primary relationship (“monkey‑branching”
+- uncertainty, novelty, mystery, and a bit of risk.
+- emotional maturity 
 - https://www.youtube.com/watch?v=EpGifgbNYiI => transribe this video
   - first download it
   - video -> audio 
