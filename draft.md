@@ -1,22 +1,333 @@
+- Different ways to tell the story
 
+Some object are not from the same level => think of how organizethem think of how put them to the box to organize
 
-record28
-record32
-record35
-record37
-record40
-record42
-record43
-record44
-record46
-record48
-record49
-record50
-record51
+Methodology => temporality should be more detail
 
+===== Page 5 =====
 
-1209
-1027
+What need to do : research question, literature review(framework)(do this last), methods of how they link back to the research questions In next meeting the methodology tel Iproof how i initiate the contact to the farmers
+
+2. Literature Review
+2.0 Historical Context to the current state of Development
+Agriculture, particularly rice farming, is a cornerstone of Vietnam's economy, providing food and livelihoods for millions. Approximately 
+82
+%
+82% of the country's arable land is dedicated to rice cultivation, supporting over 15 million smallholder farmers in key regions such as the Mekong River Delta (MRD) (Food and Agriculture Organization [FAO], 2018). Annually, the MRD produced about an average of 26 - 28 million tons million metric tons of rice, accounting for over 
+50
+%
+50% of the nation's rice production and approximately 
+90
+%
+90% of its rice exports, solidifying its reputation as the "Rice Bowl" of Vietnam (Nhung & Wang, 2022). This remarkable productivity is the outcome of a long historical transformation in which the Mekong Delta's challenging natural landscape was gradually reshaped through successive waves of political intervention, hydraulic engineering, and agrarian reform. Initially, the delta was only sparsely cultivated, characterized by flood- prone plains, deep- water ecosystems, and limited human settlement. Early Vietnamese migrants in the eighteenth century adapted to these conditions by settling along natural levees and practicing small- scale, rainfed rice cultivation, with minimal state support and highly uneven access to land and resources (Le Coq et al., 2001). Large- scale transformation began under French colonial rule in
+
+===== Page 6 =====
+
+the late nineteenth and early twentieth centuries, when an extensive network of canals, nearly 1,800 kilometers by the 1930s, was constructed to enable drainage, transportation, and land reclamation across the delta (Le Coq et al., 2001). However, this colonial engineering was driven by an extractive, high- modernist logic that treated the delta's fluid ecology as an obstacle to be conquered rather than a system to be understood. French administrators deployed massive steam- powered dredges to cut arrow- straight canals through the swamps, built prefabricated iron bridges, and strung telegraph wires to bypass the unpredictable natural environment (Biggs, 2010). The rigid hydraulic grid fundamentally disrupted the natural tidal flushing of the wetlands, triggering severe ecological and social crises: devastating floods, the buildup of toxic acidic soil (dát phen), and the rapid spread of cholera. Economically, the colonial plantation system forced thousands of Vietnamese peasants into abusive tenant- farming (tá điền) contracts, sparking widespread unrest.
+
+A striking illustration of the conceptual divide between imperial engineers and local inhabitants is the phenomenon of tidal silt bars. When French canals connected different river systems, the delta's extreme flatness caused ocean tides to push water into both ends of a canal simultaneously. Where the opposing currents met, the water stilled and dropped its sediment, forming massive sandbars. Colonial engineers viewed these features as "dead points" (dos d'ane), frustrating navigational hazards that stranded deep- hulled European gunboats, and spent decades and millions of francs trying to eradicate them. In contrast, the delta's native residents understood these same sandbars as "meeting points" (giáp nước) and embraced them as economic
+
+===== Page 7 =====
+
+opportunities. Traveling in shallow- draft boats and moving with the natural flow of the tides, they used the shallow areas as natural resting stops and, while waiting for the tide to turn, transformed them into bustling marketplaces for exchanging agricultural goods (Biggs, 2010). While the French saw a quagmire to be mastered by machines, local people worked with the rhythms of mud, monsoon, and tide.
+
+By the First Indochina War (1945- 1954), the colonial state's failures had caused the delta to "balkanize" into heavily fortified enclaves controlled by competing factions, including the French, the Việt Minh, and politico- religious sects such as the Hòa Hảo and Cao Đài. Instead of attempting to conquer the landscape, the Việt Minh allied with it: they intentionally destroyed infrastructure and allowed colonial canals to fill with silt, regenerating the protective wetlands and swamps that stranded heavy French military convoys (Biggs, 2010). This early example of using the "quagmire" as a strategic asset foreshadowed later adaptive practices rooted in living with nature.
+
+Subsequent land reforms and technological changes in the mid- twentieth century further restructured the agrarian system. Policies such as the "land- to- the- tiller" reform redistributed land to smallholders, while the introduction of high- yielding rice varieties and improved irrigation techniques initiated a shift toward intensified, multi- cropping systems (Le Coq et al., 2001). However, it was only after the economic liberalization reforms (Đổi Mới) in the late 1980s that these historical foundations fully translated into
+
+===== Page 8 =====
+
+rapid production growth. By restoring farmers' control over land and enabling access to inputs, markets, and mechanization, the state effectively unlocked an already well- developed hydraulic and agrarian infrastructure, allowing smallholders to intensify production through double and triple rice cropping (Le Coq et al., 2001).
+
+However, the very hydraulic and policy framework that enabled this agricultural success has also rendered the Mekong Delta increasingly vulnerable to contemporary climate change impacts. In particular, the extensive system of high dikes, constructed to facilitate triple rice cropping through the complete control of seasonal floods, has fundamentally undermined the delta's natural resilience (Tran et al., 2019). By preventing the natural inundation of floodplains, these structures have sharply reduced the system's water retention capacity and disrupted critical ecological functions, including the deposition of fertile sediment, the flushing of salinity, and the recharge of groundwater (Tran et al., 2019). As a result, the loss of natural flood storage not only diminishes agricultural sustainability but also amplifies climate- related risks. During extreme rainfall events, reduced floodplain storage increases downstream flood exposure, while in periods of drought and sea- level rise, diminished dry- season flows allow salinity to penetrate further inland, threatening both rice cultivation and aquaculture production (Tran et al., 2019).
+
+In this sense, policies and infrastructure that prioritized short- term gains in rice intensification have locked the delta into a structurally fragile system, in which climate- induced extremes, more intense floods, prolonged droughts, and accelerating sea- level rise, directly magnify the unintended consequences of past engineering choices. The 2015–2016 El Niño- driven drought and historic saltwater intrusion made
+
+===== Page 9 =====
+
+this fragility visible, as the Mekong Delta experienced the most severe drought and salinisation in over 60 years, with saltwater penetrating up to around 90 km inland in some areas and arriving earlier than in previous years (United Nations Development Programme [UNDP], 2016). Across coastal provinces such as Cà Mau, Bạc Liêu, Sóc Trăng and Hậu Giang, planned rice- shrimp areas fell short of targets, thousands of hectares of winter- spring rice and rice- shrimp fields were damaged or lost, and farmers faced rising production costs due to pests, salinity, and the need to replant and purchase more agrochemicals (ThienNhien, 2015; VietnamNet, 2022a). Many smallholders who had borrowed for seed and fertilizer struggled to repay debts, while some communities were forced to buy fresh water at high prices as local water sources either dried up or became saline (UNDP, 2016).
+
+These crises were not isolated shocks but early signals of a new normal. Studies of salinity and drought cycles in the Mekong Delta show that the El Niño events of 2015–2016 and 2019–2020 both produced historically severe drought and saltwater intrusion, with dry- season salinity now tending to arrive 1–1.5 months earlier, penetrating further inland, and sustaining peak salinity for longer periods compared with 2004–2012 (VietnamNet, 2022b). This shift is driven by the interaction of global climate change, altered dry- season flows due to upstream hydropower operations, and internal development choices in the delta itself, including intensive dike systems and large- scale groundwater extraction (VietnamNet, 2022b). As a result, extreme salinity and drought are increasingly understood as recurring, structurally embedded risks rather than one- off anomalies, intensifying political debate over the long- term costs and viability of
+
+===== Page 10 =====
+
+2016; VietnamNet, 2022b).
+
+In the face of these escalating threats, the state has sought to manage the crisis and simultaneously upgrade rice quality for export by promoting a "collective economy" model, pressuring farmers into agricultural cooperatives and contract- farming arrangements with large agribusinesses (Ho & Shattuck, 2025). In principle, these contracts are meant to provide stable prices, advanced inputs such as certified seeds and biopesticides, and access to global markets. In practice, however, the schemes heavily favor agribusinesses and transfer both market and environmental risks directly onto farmers. Companies mandate strict compliance with farming practices and pesticide limits, but when unpredictable weather or pest damage causes harvests to fall short of quality standards, firms frequently refuse to purchase the rice entirely, leaving farmers with unsellable grain and deep in debt for the inputs the companies supplied (Ho & Shattuck, 2025). Compounding this vulnerability, the state rigorously enforces land- use zoning that prevents many farmers from abandoning failing rice crops for more resilient livelihoods such as shrimp farming, thus trapping them within the very "rice- first" framework that the environmental crisis is calling into question (Ho & Shattuck, 2025).
+
+Another contrast between top- down, contract- driven compliance and bottom- up adaptive experimentation could be found in the political sociology of digital agriculture work by Michael Carolan's in which he distincted between "strong" and "weak" data assemblages, the agribusiness- led contract- farming model that pressures Mekong Delta farmers into standardized, high- input rice production can be understood as a "strong
+
+===== Page 11 =====
+
+data" regime: access to certified seeds, biopesticides and market channels is narrowly controlled, and the system remains deeply anti- political, enforcing a productivist status quo while turning farmers into "active citizens" who follow corporate scripts and absorb the risks, not unlike the proprietary John Deere tractors that reduce owners to mere license holders. In contrast, the rice- shrimp rotations and the wider turn toward "thuan thien" (living- with- nature) adaptation embody "weak data" principles: they open space for inclusive experimentation, privilege critical questions over blind correlations, and constitute what Carolan would recognize as an "activist" re- scripting of farming, one that asks why salinity must be resisted rather than harnessed. Democratizing tools such as the Plantix diagnostic app, which makes machine- learning crop science available scale- neutrally to anyone with a smartphone, hint at how weak data platforms could support this shift, whereas the myth of "raw" data and the "end of theory" embedded in many corporate smart- farming initiatives threaten to lock the Delta back into a rice- first logic that avoids questioning its own blind spots. Crucially, the experience of the Open Food Network shows that opening code alone does not guarantee justice; the emerging adaptive models in the Mekong demand data assemblages that, like a community commons, share not only software but the time, knowledge and collective capacity to keep rewriting what resilience on this landscape can mean.
+
+At the same time, farmers and policymakers have begun experimenting with adaptive livelihood models that depart from strict rice monoculture. In saline- prone coastal belts, rice- shrimp rotation systems (lúa- tôm) have expanded to roughly 162,000 ha, particularly in provinces such as Kiên Giang, Cà Mau, Bạc Liêu and Sóc
+
+===== Page 12 =====
+
+Trang, where households combine one crop of brackish- water shrimp in the dry season with one crop of rainfed rice in the wet season (VietnamNet, 2021). These "thuân thiên" (living- with- nature) systems can generate relatively high incomes, often around 100 million VND per hectare per year, by taking advantage of seasonal salinity instead of fighting it, improving soil fertility through organic matter from shrimp production, and supporting diversified portfolios of shrimp, rice, and other aquatic species (VietnamNet, 2021). The growing promotion of such models, alongside calls from hydrology experts to shift toward "controlled adaptation" that works with rather than against new water regimes, reflects an emerging policy reorientation away from maximizing rice output at all costs toward more flexible, climate- resilient forms of agriculture in the Mekong Delta (UNDP, 2016; VietnamNet, 2022b).
+
+[The following subsections are reordered to follow the timescale continuum: starting with Policy Frameworks (longest timescale), then Seed (breeding cycles 5-10 years), then Planting Calendar (seasonal), then Digital App (real-time), then Indigenous Knowledge (generational, now eroding). The original text for each object is kept intact, only moved and with short bridging sentences added.]
+
+2.1 Policy Frameworks: Decadal Planning and the Political Economy of Lock‑in
+[This section synthesizes existing material on policy from the historical context and the contract farming discussion. Original text from pages 10-11 and elsewhere is used.]
+
+At the longest timescale – decades – adaptation is shaped by state policies that set land‑use zoning, contract farming rules, and infrastructure investment. As noted in the historical context, the Vietnamese state has responded to escalating climate threats by promoting a "collective economy" model, pressuring farmers into agricultural cooperatives and contract‑farming arrangements with large agribusinesses (Ho & Shattuck, 2025). These policies operate on a planning horizon of 5 to 10 years (e.g., the one‑million‑hectare low‑emission rice project), but their effects lock farmers into rigid production systems for even longer. When companies mandate strict compliance with farming practices and then refuse to purchase rice damaged by unpredictable weather, farmers absorb the risk. Meanwhile, land‑use zoning enforced by the state prevents farmers from switching to shrimp or other livelihoods, trapping them within a "rice‑first" framework (Ho & Shattuck, 2025). From a timescale perspective, policy frameworks designed for stability and legibility generate temporal lock‑in: they outlive the seasonal and daily decisions that farmers need to make, and they conflict with the faster rhythms of salinity pulses and market fluctuations. This is the slowest, most structural layer of adaptation – and the hardest to change once set in motion.
+
+2.2 The Seed as Adaptation Object: Three Pipelines of Salt-Tolerant Rice (5‑10 year timescale)
+Moving down the timescale continuum, from decades to breeding cycles of 5–10 years, the seed represents a genetic‑material response to salinity. Just as the Mekong Delta's native residents once recognised the "meeting points" (giáp nước) of tidal currents as economic opportunities rather than navigational hazards, the search for salt- tolerant rice varieties embodies a genetic version of the "living- with- nature" (thuân thiên) logic, seeking to harness rather than resist the delta's changing salinity. Yet, like the colonial canal grid, formal breeding pipelines risk imposing standardised solutions that may not fit the heterogeneous conditions of farmers' fields. Among the five adaptation objects examined in this study, salt- tolerant rice varieties represent a central site where climate adaptation is materialized,
+
+===== Page 13 =====
+
+1.1 Upstream: Problem- framing and sources of genetic material
+
+Three distinct seed pipelines shape the production and circulation of salt- tolerant rice in the Mekong Delta: the farmer- breeder pipeline (exemplified by Hoa St Hien's TC7), the national research pipeline (exemplified by Professor Nguyen Thi Lang's OM series and AS996), and the international- linked pipeline (exemplified by HATRI 200). These pipelines differ not only in technical approach but in where adaptation knowledge originates, whose authority legitimises it, and what institutional infrastructures enable or constrain its movement.
+
+The farmer- breeder or non- institutional pipeline, in particular, foregrounds a form of innovation that emerges outside formal research systems, rooted instead in lived experience and crisis- driven experimentation. This dynamic is exemplified through the story of Hoa St Hien, a 51- year- old farmer in Tan Chau, An Giang. He has spent nearly 15 years researching and cross- breeding rice. Working on just 
+4000
+m
+2
+4000m 
+2
+  of experimental land, he has developed about 50 rice varieties. His early varieties (TC1- TC4) addressed brown planthopper and blast disease. When he learned about saltwater
+
+===== Page 14 =====
+
+intrusion in Cà Mau and Kiên Giang around 2009, he began breeding for salinity tolerance. Lacking institutional resources, he asked a friend to bring four litres of seawater 
+(
+40
+%
+)
+(40%) salinity) from Phú Quốc and bought additional table salt from a local grocery. He applied increasing salinity to his plots, "killing several thousand seedlings" until only survivors remained. Experts who visited initially thought his soil had become saline; he then admitted he had deliberately salinised it to select for tolerance. The resulting TC7 variety tolerates salinity up to 
+4
+%
+4% and was officially recognised by the Crop Production Department for trial production in January 2019. Hiền's upstream framing is directly crisis- driven: he breeds in response to experienced salinity events, and he continues to test higher salinity levels, stating, "If we cannot solve the difficulty, that would be wrong – we must create multiple adaptive solutions to survive." (Phạm & Hoàng, 2020)
+
+The national research pipeline, exemplified by the work of Professor Nguyễn Thị Lang and her engagement with "ghost rice," represents a form of adaptation grounded in formal scientific institutions while selectively incorporating vernacular genetic resources. Professor Nguyễn Thị Lang, a senior scientist at the Mekong Delta Rice Institute (later the High Agricultural Technology Research Institute for the Mekong Delta, HATRI), has over 25 years of experience in rice genetics and breeding. She has successfully created 73 rice varieties, of which 31 have been nationally recognised and released for production across the Mekong Delta. A signature achievement is the AS996 and OM series (OM4498, OM5930, OM4900, OM6073), derived from lúa ma ("ghost rice"), a wild landrace growing in the deep floodplains of Đồng Tháp Mười. Lang and her husband, also a rice scientist, travelled to Đồng Tháp Mười to study this rice,
+
+===== Page 15 =====
+
+which rises above floodwaters to flower and bear grain, sustaining communities during wartime and famine. Lang's upstream problem- framing operates through formal institutions - her PhD in genetics, postdoctoral training, and use of molecular markers - but it also deliberately incorporates vernacular genetic resources. The resulting varieties combine the resilience of lúa ma with high- yield traits. (Nguyễn Tuân, 2019)
+
+The international- linked pipeline, exemplified by the development of HATRI 200, reflects a mode of adaptation that is institutionally coordinated and increasingly embedded within global climate- change frameworks. The High Agricultural Technology Research Institute for the Mekong Delta (HATRI), directed by Nguyễn Thị Lang, introduced HATRI 200 in February 2023. Research began in 2017, with trial planting in Bến Tre and Trà Vinh provinces. The variety tolerates salinity up to 
+5
+%
+5% - compared to 
+2
+%
+2% for many other Vietnamese rice strains - and yields stably at 6.5- 7 tonnes per hectare. HATRI 200 is described as "one of the most salt- tolerant rice varieties in the delta" (Vietnam News Agency, 2023).
+
+Three pipelines, then, do not simply deliver different seed varieties; they organise adaptation in fundamentally different ways. The farmer- breeder pipeline is immediate, improvisational, and rooted in lived crisis, but remains constrained by limited scale and fragile recognition. The national research pipeline stabilises and legitimises adaptation through scientific authority and state infrastructure, yet translates local resilience into standardised forms that may distance it from the conditions that produced it. The international- linked pipeline extends reach and technical capacity, embedding
+
+===== Page 16 =====
+
+adaptation within global climate agendas, but risks prioritising scalability and metrics over situated knowledge. Taken together, these pipelines reveal not a linear progression of innovation, but a layered and sometimes uneasy coexistence of epistemologies, authorities, and infrastructures shaping how salt- tolerant rice moves through the Mekong Delta.
+
+2.2.2 Midstream: Infrastructures, access, and bureaucratic lag
+Institutional bottlenecks within the national research pipeline reveal how regulatory infrastructures can delay the circulation of urgently needed climate- adaptive varieties. A Tuổi Trẻ newspaper investigation (Quốc Thanh & Chí Quốc, 2016) documents how six OM salt- tolerant lines remained trapped in the national registration system even as salinity destroyed winter- spring rice across thousands of hectares. Multi- location trials could not be completed because the saline conditions required for testing were unpredictable; variety release criteria had not been updated for accelerated climate change. The result is a temporal mismatch: breeding cycles of 5–10 years versus salinity pulses of weeks. This is the central timescale problem that the seed object makes visible.
+
+Meanwhile, the farmer- breeder pipeline, although capable of producing locally effective varieties, faces significant constraints in achieving wider recognition and distribution beyond informal networks. Whereas TC7 was approved for trial production and out- yielded local popular varieties in Sóc Trăng, Bạc Liêu, and Kiên Giang, it has not been widely adopted. Dr. Huỳnh Quang Tín (MDI, Cần Thơ University) explains: "The difficulty is that this rice variety has only been approved for trial production, and
+
+===== Page 17 =====
+
+traders don't know about it, so they rarely buy it - as a result, farmers rarely plant it" (Pham & Hoang, 2020). Hien's own dissemination relies on word- of- mouth and direct farmer- to- farmer sharing. His experimental field has become an informal training site for hundreds of students, who learn through embodied practices - "soi" (scanning) rice, smelling soil - rather than formal extension.
+
+The international- linked pipeline, in contrast, relies on formalised dissemination pathways that promise scale but may simultaneously reproduce new forms of exclusion. For HATRI 200, the midstream pathway is still unfolding, but it is already embedded within an institutional system oriented toward large- scale varietal development, testing, and provincial rollout. HATRI 200 demonstrated high salinity tolerance and stable yields, positioning it as a climate- adaptive variety suited for delta- wide deployment. Yet its movement depends on formal procedures of licensing, multi- location trials, and integration into state- supported seed systems, processes that are inherently time- intensive and selective. Dissemination is expected to occur through provincial planning frameworks and extension networks, where varieties are scaled according to agro- ecological zoning and state development priorities rather than farmer- led demand. While this infrastructure enables wide reach and alignment with national and international climate agendas, it could risk excluding farmers who lack access to certified seed systems or who operate outside formal value chains, therefore might further risk reinforcing uneven access to adaptation.
+
+===== Page 18 =====
+
+2.2.3 Downstream: Market frictions and economic viability
+
+The thick husk problem. Farmers who grew TC7 for multiple years reported good yield and quality, but traders complained that the husk was too thick and offered lower prices. Many farmers switched to other varieties and then lost crops to salinity. Hiên notes that now, after repeated salinity events, "TC7 will no longer be criticised." Dr. Huỳnh Quang Tín adds that if production were coordinated with traders, the variety could be scaled up (Phạm & Hoàng, 2020). This friction reveals how downstream actors (traders, millers) who face no direct salinity exposure can penalise resilience- conferring traits.
+
+Rice- shrimp systems and varietal choice. In saline- prone coastal provinces such as Cà Mau, Bạc Liêu, Sóc Trăng, and Hậu Giang, rice- shrimp rotation systems (lúa- tôm) have expanded to roughly 162,000 ha. Households combine one crop of brackish- water shrimp in the dry season with one crop of rainfed rice in the wet season (Le, 2023). These "living- with- nature" systems take advantage of seasonal salinity. Farmers in these zones could face choices between high- salinity- tolerant but lower- yield landraces and newer commercial lines like TC7 or OM varieties. The downstream viability of any salt- tolerant variety depends not only on its genome but on its integration into local value chains, trader networks, and complementary livelihood activities.
+
+2.3 The Planting Calendar and "Salt‑Avoidance" Advisory as Adaptation Object: Temporal Coordination and Epistemic Friction (Seasonal timescale)
+[Bridge from seed to calendar: moving from 5‑10 year breeding cycles to seasonal coordination]
+If salt‑tolerant seeds operate on a breeding timescale of years, the planting calendar compresses adaptation into a single season. This third adaptation object – the state‑issued "Lịch Thời Vụ" – does not alter the rice plant or measure water; it governs when farmers should act. Emerging with heightened urgency after the 2015–2016 El Niño crisis, the calendar reflects a practical shift encapsulated by Professor Nguyễn Thị Lang's assertion that instead of confronting salinity head‑on with tolerant varieties, it is often more important to "né mặn" (avoid salt) by changing the time of sowing (Chí Quốc, 2018).
+
+===== Page 24 =====
+
+The official planting calendar for the critical Winter- Spring (Đông Xuân) crop is a product of institutionalized environmental forecasting. As detailed in Le et al. (2025), provincial Departments of Agriculture and Rural Development (DARD) issue recommended sowing windows, typically 10 to 14 days, based on long- range hydro- meteorological models, salinity monitoring station data, and assessments of upstream Mekong flows. These calendars are disseminated through a cascade of directives: from province to district, from district to commune, and finally to farmers via extension workers, cooperative meetings, or even the companies own's commercial websites. The explicit logic is one of collective synchronization: by aligning sowing dates across a region, farmers can "né mặn" (avoid peak salinity during vulnerable growth stages) and "né rầy" (break pest cycles by starving brown planthopper populations). The Tuổi Trẻ article featuring Professor Lang captures the scientific logic underpinning this shift. She notes that while breeding for 
+4
+−
+5
+%
+4−5% salinity tolerance is a long- term goal (requiring 5- 10 years), "né mặn" is an immediate, pragmatic necessity. She observes, critically, that local agricultural agencies remain overly focused on plant protection (pesticide application) rather than on the nuanced agronomy of timing, "canh tác, né cho phù hợp thời vụ thì chưa được chú trọng" (Chí Quốc, 2018).
+
+Yet the calendar's efficacy is not universal. The analysis by Le et al. (2025) provides the most rigorous evidence to date: compliance with government- recommended planting dates is associated with significant increases in yield (+687 kg/ha) and profit (+4.4 million VND/ha), but only for fields protected by salinity barrier gates. For fields outside these hard infrastructure systems, compliance shows no statistically significant benefit.
+
+===== Page 25 =====
+
+The descriptive in that study also told: farmers outside gates are actually more likely to comply with the calendar 
+(
+40.7
+%
+)
+(40.7%) vs. 
+32.3
+%
+32.3% inside gates), yet they experience lower yields and profits. This suggests a form of maladaptation by compliance: advice designed for gated areas ends up leaving farmers outside the gates exposed and follow it.
+
+This finding exposes a critical hidden dependency. The calendar appears calibrated to the controlled hydrology of gated zones, where freshwater can be stored, saltwater can be blocked, and the relationship between forecasted river levels and field conditions is relatively legible. Outside the gates, where fields are directly exposed to unmediated tidal dynamics and natural water flows, hydrological conditions become far less predictable and controllable. Without the regulatory function of salinity barrier gates, these areas are significantly more vulnerable to salinity intrusion, with empirical evidence showing that salinity has a markedly stronger negative impact on field performance in unprotected zones. While gated areas are often located in regions facing higher baseline salinity pressure, the effectiveness of these infrastructures in blocking saltwater means that the actual damaging effects of salinity are far more severe outside the gates. In such contexts, the standardized "né mặn" window may be fundamentally misaligned with local environmental conditions. (Le et al, 2025). The calendar, in this sense, is not a universal adaptation tool but an infrastructure- contingent one: its value is co‑produced by the dikes and sluice gates that make its temporal prescriptions actionable.
+
+[From a timescale perspective, the calendar introduces a seasonal synchronisation that works well where infrastructure stabilises the environment, but fails where hydrological variability is high. Its 10‑14 day sowing window cannot accommodate the week‑to‑week fluctuations that characterise ungated areas – a mismatch between the calendar's temporal resolution and the actual pace of salinity change.]
+
+2.4 The Digital Advisory App as Adaptation Object: Assemblages of Sensor, Platform, and Data (Real‑time timescale)
+[Bridge from calendar to app: moving from seasonal windows to real‑time responsiveness]
+If the planting calendar operates at a seasonal scale (weeks to months), digital advisory apps compress adaptation to real time – minutes, hours, and days. Where the French colonial administration built straight canals and telegraph lines to bypass the delta's unpredictable environment, digital advisory apps promise to manage water and salinity from a distance through sensors and cloud platforms. Three distinct sensor- based assemblages have emerged to support water and soil management for climate adaptation in Mekong Delta rice farming: the donor- backed Internet of Things Alternate Wetting and Drying (IoT AWD) system (exemplified by the World Bank- Korea pilot using MimosaTEK water level sensors and cloud- based pump control), the commercial smart irrigation and salinity monitoring platform (exemplified by Vietnamese companies offering remote readings of salinity, pH, and water levels via smartphone), and the state- linked geo- information and data collection app (exemplified by IRRI's FarMoRe tool, which tracks field- level water use and soil conditions within Vietnam's national RiceMoRe system).
+
+Donor- backed IoT- AWD signals that the system emerged from an international partnership (World Bank, Korea, Trà Vinh University, MimosaTEK) with explicit goals of water saving and emission reduction, but its scalability depends on continued external support and specific preconditions (electricity, mobile networks, flat terrain). Commercial smart irrigation platform signals that private Vietnamese technology firms are developing sensor- linked systems that allow "farming from a distance" for water and
+
+===== Page 19 =====
+
+salinity management, yet these systems create new dependencies on proprietary hardware, app updates, and technical support, while favouring cooperative members and better- off households who can afford smartphones and group investment. State- linked geo- information app signals that tools like FarMoRe are designed not only for farmer decision- making about water but also for monitoring and reporting water use and soil conditions to state authorities, raising questions about data ownership, surveillance, and whose priorities shape what gets measured. Together, these three assemblages restructure the relationship between farmers, water, soil, and authority - replacing traditional farming practice with remote sensors and app dashboards.
+
+Donor- backed IoT- AWD: water level sensors and remote pump control
+
+The first assemblage is illustrated by a pilot project co- funded by the World Bank and the Korean government, implemented by Trà Vinh University, with technology developed by the Vietnamese company MimosaTEK. The project addressed a paradox: Alternate Wetting and Drying (AWD) – a technique that reduces water use by 28% and methane emissions by 48% – had not been widely adopted because manual AWD is complex. Farmers must measure water levels frequently, time irrigation precisely, and have flat fields and separate irrigation/drainage systems. Without financial incentives (most farmers do not pay for water), they lacked motivation. The IoT solution worked as follows: sensors measured water levels in the field and sent data to cloud- based management software. Farmers could view actual and recommended water levels on a
+
+===== Page 20 =====
+
+smartphone app, determining optimal timing and volume for irrigation. They could operate pumps remotely via the app. The pilot required mobile or internet connectivity, electricity, and a smartphone. Results showed water consumption was 
+13
+−
+20
+%
+13−20% lower than with traditional AWD. Farmer Pham Van Tuan in Can Tho reported: "This technology is very convenient. I can observe the water level in my field and turn the pump on or off even when I'm at home. It also saves electricity and water." Among 80 farmers over two seasons, 
+95
+%
+95% wanted to continue using the IoT system, and over 
+90
+%
+90% were willing to pay for it. However, the pilot also revealed critical preconditions: flat terrain, large fields, electricity, mobile connectivity, and smartphone ownership. Farmers with prior AWD experience adapted faster. Using IoT technology cannot overcome the inherent limitations of topography - meaning farmers on uneven, small, or remote fields were excluded. (Choudhary & Fock, 2020)
+
+Commercial smart irrigation platform: salinity, pH, and water level monitoring
+
+The second assemblage is represented by Vietnamese companies providing sensor- linked irrigation and salinity monitoring systems that allow "farming from a distance." A 2023 article in Khoa học Công nghệ describes how smart sensor systems in rice fields enable farmers to monitor salinity, pH, and water levels anytime, anywhere via smartphone. In Đồng Tháp province, farmer Trịnh Văn Bô in Tháp Mười district reported that since the winter- spring crop of 2020, he no longer needs to go to the field to check water conditions. From anywhere, he can see salinity, pH, and water level
+
+===== Page 21 =====
+
+readings on his phone and act promptly. "Before, during the dry season, many farmers had to stay up late, wake early to monitor tides and measure water indicators to block salinity or bring fresh water to the field. But now everything has changed," he said. Another farmer, Nguyễn Văn Đồng, a member of Mỹ Đông 2 Cooperative in Tháp Mười, cultivates 4.3 hectares. Using AWD via sensor tubes connected to his phone, he has reduced pumping frequency and saved water. At Dân Tiến Agricultural Cooperative in Trà Vinh province, the system uses salinity and water level sensors, smart pumping, and AWD water management. Pumps are controlled via smartphone without requiring farmer presence in the field. Yet these systems create new dependencies. They require group- based investment models – cooperatives or production clusters of roughly 120–150 hectares to make IoT irrigation financially viable. Farmers need digital literacy, smartphone ownership, and proximity to extension services – conditions that systematically favour cooperative members and better- off households over marginal smallholders. (Kim, 2023)
+
+State- linked geo- information app: FarMoRe and RiceMoRe for water and soil data
+
+The third assemblage is exemplified by FarMoRe (Farm Monitoring and Reporting), a tool developed by IRRI and installed on smartphone applications to connect technical officers and farmers. FarMoRe collects seasonal rice cultivation information at the field level – including water use, soil conditions, and irrigation practices – and stores data to enable tracking and comparison across seasons, years,
+
+===== Page 22 =====
+
+farmers, and regions. The tool provides greenhouse gas emission indicators (tCO2e/ha) linked to water management practices such as AWD. It integrates into Vietnam's national RiceMoRe (Rice Monitoring and Reporting) system, creating a database from field to central level. FarMoRe supports the Ministry of Agriculture and Rural Development's one- million- hectare low- emission rice project, which depends on monitoring water use and soil carbon. Farmers can track their water input and compare with local averages; technical officers can monitor field- level water practices and adjust guidance. However, FarMoRe raises unresolved issues of data governance, as it remains unclear who owns the water and soil data generated by farmers – whether ownership resides with the farmer, the cooperative, IRRI, or the state. The tool is designed for upward reporting, not just farmer decision support, meaning data flows to provincial and central authorities. Farmers thus become data suppliers to a hierarchical monitoring system with limited control over their own information. (Bạch Hân et al., 2024)
+
+These three sensor- based assemblages differ not only in their technological components but in their underlying logics of funding, governance, and inclusion. The donor- backed IoT- AWD system derives its legitimacy from international development partnerships and quantified outcomes (water savings, emission reductions), yet its scalability remains contingent on external funding and physical preconditions (flat terrain, electricity, mobile networks) that systematically exclude smallholders on marginal lands. The commercial smart irrigation platform offers convenience and remote control, but creates new dependencies on private technology providers and group investment models, favouring cooperative members and better- off households who can
+
+===== Page 23 =====
+
+afford smartphones and cooperative fees. [The original text cuts off here; it continues with the calendar section originally, but we have moved that earlier. The app section ends as above. We add a bridging sentence:]
+From a timescale perspective, apps operate at the fastest temporal resolution – hours and days. They promise to match the speed of salinity pulses (which can change within a tide cycle) and to give farmers instantaneous feedback. Yet their real‑time responsiveness is only as good as the infrastructure (electricity, data, sensors) that underpins it. When that infrastructure fails, the app’s timescale collapses; farmers revert to slower heuristics or to the calendar. This creates a hierarchy of temporalities that farmers must navigate.
+
+2.5 Indigenous and Traditional Ecological Knowledge (Generational timescale, now eroding)
+[Bridge from app to IK: from real‑time to generational knowledge]
+At the longest human timescale – generations – indigenous knowledge (IK) has historically provided farmers with flexible, embodied heuristics for reading the delta’s rhythms. Yet this is the timescale now under greatest threat. In this discussion, the term "Indigenous knowledge" (IK) is used loosely, following the body of Mekong Delta scholarship that applies it to the accumulated, orally transmitted environmental expertise of the delta's long- settled farming communities (Pham & Ngo, 2018; Nguyen et al., 2022). These farmers are overwhelmingly ethnic Kinh, not members of Vietnam's officially recognised indigenous minorities, so their knowledge would more accurately be described as traditional ecological knowledge (TEK) or farmers' practice- based knowledge, a repertoire of situated, experience- based heuristics rather than a formal indigenous knowledge system in the ethno- political sense. Yet the label "IK" persists in the literature because this knowledge exhibits many of the qualities commonly associated with indigenous knowledge systems: it is relational, cumulative, adaptive, and transmitted outside formal institutions, woven into the rhythms of flood and cultivation. For consistency with the sources on which this analysis draws, I retain the term "IK" while problematising its use, and treat it throughout as synonymous with farmers' local environmental knowledge. Taken together, interactions with the other four adaptation objects reveal IK as a kind of epistemic mirror: seeds extract IK's genetic heritage while rendering its associated practices obsolete; apps replace IK's embodied observation with remote sensing; calendars impose a standardized temporality that overwrites IK's flexible, tide- attuned rhythms. In each case, the formal object promises a more precise, scalable, and governable form of adaptation, but it does so by displacing a knowledge system that was fundamentally relational, decentralized, and attuned to local variability.
+
+===== Page 27 =====
+
+IK is not a singular object produced by a specific institution; rather, it is a cumulative, embodied, and orally transmitted system of environmental reading, livelihood practice, and risk management that has enabled communities to live with the delta's volatile hydrology for centuries (Pham & Ngo, 2018; Nguyen et al., 2022).
+
+Indigenous knowledge offers a situated, observational system for timing agricultural decisions. Research by Pham and Ngo (2018) in An Giang province documented a rich repertoire of IK- based forecasting heuristics: reading the number of segments on reed shoots, the nesting height of ants and termites, the color of river water, and the behavior of birds and fish to anticipate the magnitude and arrival of floods. These indicators enabled farmers to adjust planting schedules, move livestock, and prepare fishing gear in advance of the annual flood pulse. IK in this context functioned as a flexible temporal compass, not a fixed calendar date, but a set of signs that allowed farmers to align their actions with the delta's own rhythms.
+
+Crucially, this knowledge system has historically been adaptive and flexible. The seasonal calendars documented by Pham and Ngo (2018, Table 3) show how farmers in different flood zones adjust their rice cropping schedules not according to a fixed date, but in response to the behavior of the flood itself, planting earlier in years of anticipated high water, later in years of low water, and switching to floating rice or vegetables when conditions demand. This flexibility is a hallmark of IK: it is a set of heuristics for navigating variability, not a prescription for controlling it. As one elder in the Pham and Ngo study explained, the flood is not an enemy to be defeated but a
+
+===== Page 28 =====
+
+"flooding season" (mùa nước nổi) to be lived with, exploited, and sometimes "avoided" (né lũ) through timely action.
+
+The interviews and surveys conducted in the late 2010s and early 2020s reveal a consistent and troubling narrative: IK is losing its predictive reliability at precisely the moment it is most needed. Pham and Ngo (2018) found that nearly 
+90
+%
+90% of respondents in An Giang believed that floods were "no longer predictable" using traditional indicators. Specific folk markers, the "Year of the Dragon brings big floods," the correlation between bamboo shoot height and water level, were cited as increasingly unreliable. The 2015 flood, historically small, defied multiple traditional signs that had pointed toward a larger event (Pham & Ngo, 2018, p. 22). This erosion is not a failure of IK per se, but a consequence of the fundamental transformation of the delta's hydrology. The same high dikes that enabled triple rice cropping (Tran et al., 2019) have severed the connection between upstream flood pulses and the seasonal rhythms that IK was calibrated to read. Upstream dam operations and climate- altered rainfall patterns have further scrambled the signals. The "environmental text" that farmers learned to read over generations is being rewritten by forces operating at scales far beyond the village landscape. This erosion places farmers in a profound epistemic bind. The knowledge system that once guided their timing decisions is becoming unreliable, yet the official calendar that purports to replace it proves ineffective in precisely those areas where farmers are most vulnerable, the un- gated, saline- exposed margins. Faced with this double inadequacy, farmers do not simply abandon one system for the other. Instead, they develop strategies of epistemic navigation that deserve closer analytical attention.
+
+===== Page 29 =====
+
+How do farmers actually make timing decisions in this contested terrain? The available evidence, drawn from the Le et al. (2025) panel data, the Pham and Ngo (2018) surveys, and Professor Lang's observations, suggests a pattern of dual epistemology. Farmers engage in performative compliance with the state calendar while simultaneously relying on situated reading of their immediate environment for critical, field- level actions.
+
+The descriptive statistics from Le et al. (2025) provide the first clue. Farmers outside salinity gates are more likely to comply with the official calendar than those inside gates (40.7% vs. 32.3% compliance rate). Yet, as noted, this compliance yields no significant production benefit for them. Why would farmers follow a calendar that doesn't help them? The answer could suggest the social and institutional functions of compliance. Registering one's sowing date within the official window signals cooperation with local authorities, maintains access to extension services, subsidized inputs, and agricultural credit, and avoids the risk of being labeled a "backward" or "uncooperative" farmer. Compliance, in this context, is not primarily an agronomic decision; it is a political and bureaucratic performance that secures a farmer's standing within the local governance structure.
+
+Beneath this surface of compliance, however, farmers continue to practice forms of situated, IK- informed decision- making. Professor Lang's observation that farmers "plant reflexively according to the tides" (trong theo phản xạ tùy vào nước triều) points to an
+
+===== Page 30 =====
+
+alternative temporality at work (Chí Quốc, 2018). Farmers outside gates may officially "comply" by sowing within the state's two- week window, but the precise day, the moment when the sluice gate is opened, the pump is turned on, the seed hits the mud, is determined by a granular reading of local conditions. This is tactical timing, a form of IK that has been compressed from seasonal forecasting to daily, even hourly, responsiveness.
+
+The relationship between these two knowledge systems is not one of simple conflict or replacement. Rather, it resembles a productive coexistence in which different ways of knowing rub against each other, each revealing the limits of the other. The state calendar offers a legible, defensible temporal framework that works well for controlled, infrastructured spaces. IK offers a flexible, attuned responsiveness that is essential in the uncontrolled, heterogeneous spaces where the calendar fails. Farmers navigate between them not by choosing one and discarding the other, but by maintaining both in tension, deploying each strategically according to context and audience.
+
+This practice of epistemic agility, outward compliance with the state calendar, inward reliance on situated, tide- attuned reading, reveals farmers as sophisticated navigators of conflicting knowledge systems. Yet this navigation occurs against a backdrop of institutional action that sends a profoundly mixed signal. At the precise historical moment when farmers report that their traditional indicators are failing, when the high dikes have severed the ecological cues that IK depended upon, and when the official calendar is proving ineffective for the most vulnerable fields, the Vietnamese state and
+
+===== Page 31 =====
+
+its academic partners have launched an effort to document, digitize, and officially value IK. The database, in this sense, functions less as a tool for empowering farmers than as a repository for a way of knowing that is being rendered obsolete. The project described by Nguyen et al. (2022) represents a deliberate institutional response to the perceived threat of knowledge loss. With funding from Vietnam National University, researchers collaborated with provincial agricultural departments to collect 267 IK documents across five agro- ecological zones and build a publicly accessible online database complete with a web- based GIS interface (https://mekongdelta.vn). Farmers' oral traditions about reading fish and snails, water color, and cloud formations were translated into standardized text entries, geo- tagged, and made searchable by "farming model" and "climate risk type."
+
+===== Page 32 [text layer] =====
+
+[The original includes a Vietnamese farmer interview excerpt on pages 32-34; I keep it as is but do not reprint here for brevity. The content remains.]
+
+===== Page 33 =====
+
+Chuyên canh cây ăn trái với xoài 3 màu trong khu vực đê bao vì giá cả đầu ra ổn định; sử dụng kỹ thuật tưới phun hằng ngày vào mùa khô; sử dụng phân hữu cơ để nâng cao độ phì/độ tơi xốp của đất, giữ ẩm tốt
+
+Sâu bệnh trên cây xoài: đốm đen xì mủ, ruồi gây hại vào mùa mưa, sâu đục thân, sâu đục trái
+
+Thuận lợi/khó khăn của mô hình: Kỹ thuật trồng đơn giản; cây nhanh phát triển; được thương lái tiêu thụ ngay sau khi thu hoạch; phụ thuộc vào thị trường Trung Quốc nên giá cả có thời điểm cao, thời điểm thấp
+
+Ảnh hưởng của thời tiết: vào mùa mưa, cây mắc nhiều dịch và bệnh hại; vào mùa nắng cây thiếu nước; nhiệt độ tăng cao, nắng nóng bất thường nên chi phí tưới tăng cao và ảnh hưởng đến sinh trưởng của cây
+
+Dấu hiệu mưa nắng: quan sát sao (Sao mau thì mưa, sao thưa thì nắng)
+
+Dấu hiệu dông bão: gió hướng Tây Bắc thì sắp tới có bão tố
+
+Hạn hán: Mây màu đỏ khi mặt trời lặn báo hiệu nắng nóng, khô hạn
+
+Giải pháp thích ứng với thay đổi thời tiết: cải tạo đất khi hết mùa vụ, tia cành, dọn cỏ, phát quang cây; thường xuyên cung cấp lượng nước tưới tiêu; điều chỉnh thời vụ phù hợp với điều kiện thời tiết; đắp đập, đê bao trong khu vực canh tác
+
+IK is simultaneously celebrated as a valuable heritage, documented in state-funded databases, and integrated into policy discourse on "community-based adaptation". The high dikes that enabled Vietnam's rice intensification have severed the ecological cues that IK was calibrated to read. The sensor apps and calendars that promise precision have replaced the embodied, daily attunement to the river's moods that sustained
+
+===== Page 34 =====
+
+generations of farmers. And the very act of archiving IK in a searchable database transforms a flexible, orally transmitted skill into a static object, implicitly devaluing its dynamic, context- sensitive nature. From a timescale perspective, IK operated on a generational timescale: it was refined over decades and passed down through families. But that timescale is now mismatched with the accelerated rate of environmental change driven by dams, dikes, and climate shifts. IK’s historical reliability depended on a relatively stable relationship between indicators (e.g., ant nesting height) and flood magnitude. As that relationship breaks down, farmers cannot wait a generation to recalibrate their knowledge. They are forced to patch together faster, shallower sources of information – calendars, apps, word‑of‑mouth – creating a temporal patchwork that is both inventive and precarious. Adaptation in a profoundly uncertain environment requires not a single, authoritative knowledge system, but the capacity to hold multiple ways of knowing in productive tension. Yet the institutional response – archiving IK rather than investing in its regeneration – may inadvertently accelerate its erosion.
+
+[End of restructured literature review. The original methodology section (pages 35-38) remains unchanged, as the user only asked to reorder and add framework justification to the literature review. I will append it below for completeness.]
+
+3. Methodology
+This study employs a qualitative, multi- site research design to investigate how five adaptation objects, salt- tolerant rice varieties, digital management applications, government- issued planting calendars, indigenous knowledge, and large- scale policy frameworks, shape climate adaptation possibilities for rice farmers in Vietnam's Mekong Delta. Because the research questions focus on processes of inclusion, exclusion, knowledge negotiation, and temporal mismatches, a qualitative approach will be choosen. Direct observation and in- depth interviews will allow me to understand not only what farmers do, but also why they make the choices they do when faced with conflicting information from different adaptation tools.
+
+The fieldwork will be conducted over approximately three months across three provinces, each selected for its distinct exposure to salinity and its particular mix of adaptation infrastructure. Trà Vinh province hosts an active World Bank- Korea pilot project on Internet of Things- based Alternate Wetting and Drying irrigation, making it an ideal site to study digital advisory apps. Sóc Trăng province has experienced high
+
+===== Page 35 =====
+
+salinity intrusion and was one of the locations where the farmer- bred TC7 salt- tolerant rice variety was trialled; importantly, it contains both gated fields (protected by salinity barriers) and ungated fields, which will allow me to compare how the same adaptation objects function under different infrastructural conditions. An Giang province, located further upstream, is home to the farmer- breeder Hoa St Hien and to communities where traditional flood- reading knowledge has been documented as eroding, making it a critical site for studying indigenous knowledge and the farmer- breeder pipeline.
+
+I will recruit participants from four groups. The first group consists of 30 to 40 smallholder rice farmers who actively manage at least two hectares of rice. These farmers are the primary end- users of all five adaptation objects, and their daily practices will reveal the gaps between how these tools are designed and how they are actually used. I will sample farmers purposively, ensuring variation by location (inside versus outside salinity gates), by cooperative membership (member versus independent), and by access to technology (smartphone owner versus non- owner). The second group comprises 15 to 20 intermediaries, including agricultural extension workers, cooperative managers, seed traders, and technical support staff for the digital applications. My literature review demonstrates that adaptation objects rarely reach farmers directly; they depend on these intermediaries to function, and intermediaries therefore shape who gets access and whose knowledge is valued. The third group includes 10 to 15 designers and institutional actors, such as rice breeders from the Mekong Delta Rice Institute, developers of the MimosaTEK and FarMoRe applications, provincial officials who issue the official planting calendars, and policy staff managing the
+
+===== Page 36 =====
+
+one- million- hectare low- emission rice project. These individuals hold the answers to my first research question about the origins, problem- framings, and future imaginaries embedded in each adaptation object. The fourth group consists of 10 to 15 elder farmers, aged sixty or older, who practiced rice farming before the construction of high dikes in the 1990s. These farmers possess comparative knowledge of how indigenous forecasting indicators worked in the past and can explain why those indicators are now failing, which directly addresses my third research question about knowledge politics.
+
+The primary data collection method will be semi- structured individual interviews. For farmers, I will ask practical questions that translate each research question into concrete, field- based inquiries. I will also conduct targeted participant observation, spending days with a small subset of farmers during critical decision periods such as sowing, salinity monitoring, or harvest sale. This observation will allow me to see what farmers actually do, rather than relying solely on what they say they do. Access to the field will be established through the connection with Mekong Delta Development Research Institute at Cần Thơ University, which will provide letters of introduction and has existing relationships with provincial Departments of Agriculture and Rural Development. I will formally meet with the Department in each province to explain the research objectives and to request lists of agricultural cooperatives willing to participate. Farmers will be recruited primarily through these cooperatives.
+
+This methodology is designed to answer each research question directly. Conversations with designers and examination of policy documents will reveal the origins and
+
+===== Page 37 =====
+
+imaginaries embedded in each adaptation object. Comparing the experiences of
+farmers inside and outside salinity gates, cooperative members and independents, and
+smartphone owners and non‑owners will illuminate which infrastructures and
+intermediaries enable or block access. Asking farmers to resolve conflicts between the
+calendar, the app, and their own observation of tides will uncover the knowledge politics
+at play. Finally, tracing the different timescales of breeding cycles, project cycles, app
+updates, and salinity pulses will expose the temporal mismatches that create lags,
+frictions, and unintended opportunities for adaptation. By grounding the inquiry in the
+actual practices of farmers, intermediaries, and designers, this study will move beyond
+what adaptation tools promise on paper to understand how they are reshaping rice
+farming, water management, and rural livelihoods in the vulnerable Mekong Delta.
 
 - Vulnerability of
   - ecosystems and people

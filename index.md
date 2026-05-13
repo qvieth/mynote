@@ -15,7 +15,17 @@
 
 # Draft
 
+- [proposal](proposal)
+
 ## climate data class:
+
+0:00 ─────────────────────────────────────────────────────────────────── 9:15
+
+[Intro]  →  [Salty crispy chicken] → [New Year’s KTV] → [Gift for boss] → [Date / Girl] → [Broken heart] → [Win lottery]
+0:00-0:16   0:16-1:50                2:30-3:15          3:18-4:58         5:35-6:45       7:49-8:23        8:23-9:15
+
+- https://www.youtube.com/watch?v=sDEisvH2QYA : project timestamp & categorize
+  - speaker diarization & timestamp
 - last prompt: now after reading all of these figure, what the point to notice about each figure, mentioned in the paper
 - the flow to present: explain what each figure is abuot: then the point that should be notice
   - the interesting finding of each figure
