@@ -13,11 +13,16 @@
 3. [uni](uni)
 
 
+- https://garc.ntu.edu.tw/%e7%8d%8e%e5%8a%a9%e9%87%91/%e8%be%a6%e6%b3%95/ NTU Social science scholarship
+- 
+
+
 # Draft
 
 - [proposal](proposal)
 
 ## climate data class:
+- define persona:
 
 0:00 ─────────────────────────────────────────────────────────────────── 9:15
 

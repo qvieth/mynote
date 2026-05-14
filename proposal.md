@@ -27,6 +27,7 @@
     - → IK (farmer/local)
       - Shows how adaptation is a struggle over epistemic authority.
 
+https://www.tandfonline.com/doi/full/10.1080/26395916.2024.2396912
 3. Timescale continuum <-------------------------------------------------------------------------------------------
   - Arrange by the temporal horizon each object operates on:
     - policy (decadal plans)
