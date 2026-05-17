@@ -18,11 +18,20 @@
 
 frontier cliamter service34 -> microcliamte look into CWA
 
+
+- what to do in the morning - write an email explain the change you made:
+  - mention about the framework:
+    - how you edit to his suggestion:
+      - how you resolve his comment and some comment haven't been resolve
+      - add 1 reference for Pham and Ngo
+
 # Draft
 
 - [proposal](proposal)
 
 ## climate data class:
+- prof make some notes comment: the 5 object currently is not quite on the same level. so if want to write: try to put everything in a framework: the rigid way to put everything together, right now the seed, apps, calendar, TEK, policy, the level of them is not on the same level. so must find a way or frame work to group things into many sub groups or tree so it the logic can be rigid and make sense
+ 
 - define persona:
 
 0:00 ─────────────────────────────────────────────────────────────────── 9:15
