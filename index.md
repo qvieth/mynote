@@ -43,7 +43,10 @@ CLIMATE ADAPTATION IN THE MEKONG DELTA
  - introduction need to revise
  - 4 question: make it into 3 -> think about core question
  - 4th question: -> remove
- - need catchy phrase/ diagram and maps
+ - need catchy phrase/ diagram and maps(people don't know much about mekong delta so use map)
+ - if the answer is same same then it probably the reality -> interveiw sample numer
+
+- field work preparation: find contacts - how to initiate
 
 frontier cliamter service34 -> microcliamte look into CWA
 
