@@ -47,6 +47,7 @@ CLIMATE ADAPTATION IN THE MEKONG DELTA
  - if the answer is same same then it probably the reality -> interveiw sample numer
 
 - field work preparation: find contacts - how to initiate
+- might need to go back in the winter -> or establish the contact first and inteview them online later
 
 frontier cliamter service34 -> microcliamte look into CWA
 
