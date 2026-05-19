@@ -16,6 +16,35 @@
 - https://garc.ntu.edu.tw/%e7%8d%8e%e5%8a%a9%e9%87%91/%e8%be%a6%e6%b3%95/ NTU Social science scholarship
 - 
 
+
+```
+CLIMATE ADAPTATION IN THE MEKONG DELTA
+│
+├── GOVERNANCE LAYER (macro): State policy, planning targets,
+│   land-use zoning, the 1-million-ha low-emission rice project
+│
+├── KNOWLEDGE POLITICS & INTERMEDIATION LAYER (meso, cross-cutting)
+│   │
+│   ├── Indigenous / Traditional Ecological Knowledge
+│   │   (farmers’ heuristics, flood-reading, tide-attuned practice)
+│   │
+│   └── Institutional knowledge translation
+│       (intermediary actors—extensionists, researchers, ODA project staff, regional expert;
+│       informal brokerage; translation chains; “papereality”;
+│       regional experts’ agenda-setting)
+│
+└── PRACTICE LAYER (micro): Concrete adaptation objects
+    ├── Salt-tolerant rice varieties
+    ├── Digital advisory apps (IoT-AWD, MimosaTEK, FarMoRe)
+    └── Official planting calendars & salt-avoidance advisories
+ ```   
+ 
+ 
+ - introduction need to revise
+ - 4 question: make it into 3 -> think about core question
+ - 4th question: -> remove
+ - need catchy phrase/ diagram and maps
+
 frontier cliamter service34 -> microcliamte look into CWA
 
 
