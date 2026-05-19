@@ -49,7 +49,8 @@ CLIMATE ADAPTATION IN THE MEKONG DELTA
 - field work preparation: find contacts - how to initiate
 - might need to go back in the winter -> or establish the contact first and inteview them online later
 
-- 2things to focus on rightnow funding proposal and fieldwork
+- 2 things to focus on rightnow funding proposal and field work
+- 8 to 10 pages with diagrams 
 
 frontier cliamter service34 -> microcliamte look into CWA
 
