@@ -51,6 +51,7 @@ CLIMATE ADAPTATION IN THE MEKONG DELTA
 
 - 2 things to focus on rightnow funding proposal and field work
 - 8 to 10 pages with diagrams 
+- proposal: 5 pages
 
 frontier cliamter service34 -> microcliamte look into CWA
 
