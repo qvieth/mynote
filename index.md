@@ -16,6 +16,29 @@
 - https://garc.ntu.edu.tw/%e7%8d%8e%e5%8a%a9%e9%87%91/%e8%be%a6%e6%b3%95/ NTU Social science scholarship
 - 
 
+- finished
+  - 1
+  - 2
+  - 4
+  - 6
+  - 7
+- downloaded
+  - 3 doing back later
+  - 8
+- havent
+  - 5 done
+  - 9
+  - 90
+  - 91
+  - 92
+
+- flow of working:
+  1. download video
+  2. open with macwhisper v2 + v3 turbo language chinese
+  3. grammar check in whisper
+  4. export to pdf
+  5. copy paste to docs
+  6. final prompt: make any simplified chinese to traditional chiense, also add punctuation so it make sense, don't change any words or order
 
 - slide tonight human workshop may 19th:  acclimate -> how they adapt to cliamte find this
 
