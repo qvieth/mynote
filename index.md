@@ -23,15 +23,15 @@
   - 6
   - 7
 - downloaded
-  - 3 doing back later
 - havent
-  - 9
-  - 90 doing
-  - 91
-  - 92
 - done need merge
+  - 3 doing back later
   - 5
   - 8
+  - 9
+  - 90 
+  - 91 
+  - 92
 
 - flow of working:
   1. download video
