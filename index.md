@@ -17,6 +17,7 @@
 - 
 
 - use AI to generate schematic AI figure, each  video file one figure
+  - everything next friday
   - FIGURE => represent the content
   - represent the main concepts so the reader catch the main idea of the video
   - rearrange the excel later so look into the 5th video we just need to get the 10 second to 20 seconds
