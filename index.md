@@ -17,7 +17,7 @@
 - 
 
 - use AI to generate schematic AI figure, each  video file one figure
-- represent the main concepts so the reader catch the main idea of the video
+  - represent the main concepts so the reader catch the main idea of the video
 
 - Lama_CMIP7
   - 039A5934
