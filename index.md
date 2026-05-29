@@ -16,6 +16,19 @@
 - https://garc.ntu.edu.tw/%e7%8d%8e%e5%8a%a9%e9%87%91/%e8%be%a6%e6%b3%95/ NTU Social science scholarship
 - 
 
+- use AI to generate schematic AI figure, each  video file one figure
+- represent the main concepts so the reader catch the main idea of the video
+
+- Lama_CMIP7
+  - 039A5934
+  - 039A5935
+  - 039A5936
+  - 039A5937
+  - 039A5938
+  - 039A5939
+  - 039A5940
+  - 039A5941
+
 - finished
   - 1
   - 2
