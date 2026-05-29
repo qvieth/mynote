@@ -18,6 +18,8 @@
 
 - use AI to generate schematic AI figure, each  video file one figure
   - represent the main concepts so the reader catch the main idea of the video
+  - rearrange the excel later so look into the 5th video we just need to get the 10 second to 20 seconds
+  - arrange video file
 
 - Lama_CMIP7
   - 039A5934
