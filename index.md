@@ -14,6 +14,9 @@
 
 
 - https://garc.ntu.edu.tw/%e7%8d%8e%e5%8a%a9%e9%87%91/%e8%be%a6%e6%b3%95/ NTU Social science scholarship
+
+
+- different objects layers, then climate service how are they play a role in this cross level
 - 
 
 - use AI to generate schematic AI figure, each  video file one figure
@@ -82,6 +85,17 @@ CLIMATE ADAPTATION IN THE MEKONG DELTA
     ├── Digital advisory apps (IoT-AWD, MimosaTEK, FarMoRe)
     └── Official planting calendars & salt-avoidance advisories
  ```   
+ 
+ 
+ - ask ai if i can have one cheat sheet what should i bring
+ 
+ 
+- folder:
+  - 20260422_Lama_CМIР7
+  - 20260422_WL_present_discuss
+  - 20260424_HHH_A206_interview
+  - 20260424_MIPs_A206
+  - 20260424_WL_A206_interview
  
  
  - introduction need to revise
