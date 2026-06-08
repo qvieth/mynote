@@ -18,6 +18,14 @@
 
 
 - different objects layers, then climate service how are they play a role in this cross level
+
+
+- 
+- https://us.humankinetics.com/blogs/excerpt/major-movements
+  - Major Movements
+  - Although thousands of movements occur in a single tennis match, a certain number of movements are common to the sport of tennis. Becoming proficient in these major movements will help you become a better mover on the tennis court and therefore a better overall player. Training for tennis requires that you repeat good quality movement patterns on a regular basis. Having a clear understanding of the correct movement patterns and how best to train to improve them will speed your improvement and make you more efficient on the court. Over time it can also reduce the chance of injury resulting from inefficient movements, poor loading patterns, and overuse as a result of inappropriate mechanics.
+
+
 - 
 
 - use AI to generate schematic AI figure, each  video file one figure
