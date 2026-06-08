@@ -12,6 +12,7 @@
 2. [package](package)
 3. [uni](uni)
 
+- think of how to got the data for now
 
 - https://garc.ntu.edu.tw/%e7%8d%8e%e5%8a%a9%e9%87%91/%e8%be%a6%e6%b3%95/ NTU Social science scholarship
 
@@ -25,6 +26,17 @@
   - represent the main concepts so the reader catch the main idea of the video
   - rearrange the excel later so look into the 5th video we just need to get the 10 second to 20 seconds
   - arrange video file
+
+
+- 039A5922李威
+- 039A5923李威良
+- 039A5924李威层
+- 039A5925李威层
+- 039A5926李威层
+- 039A5927李威良
+- 039A5928李威良
+- 039A5929.MP4
+- 039A5931 許晃公
 
 - Lama_CMIP7
   - 039A5934
