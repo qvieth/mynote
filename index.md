@@ -12,6 +12,13 @@
 2. [package](package)
 3. [uni](uni)
 
+
+# ideas that could help explain the insight from interview
+- Many smallholders are credit‑constrained: they cannot borrow enough, or only at very high interest, to adopt better technology or scale up. Studies find that credit‑constrained farmers often farm more land but still have lower consumption and income per capita than unconstrained farmers, because they can’t afford quality inputs or risk‑management tools.
+- => could raise question about why some farmers think this seed has better advantage but they still haven't change to it
+
+
+# draft
 - think of how to got the data for now
 - mimosatek: office in Thu Duc
 - farmers in soctrang:
@@ -22,6 +29,12 @@
   - 
   - 
 - 
+
+
+- chinh sach khuyen nong
+- thuc tien canh tac va bao ve dat, nong nghiep ben vung
+- cong cu ki thuat so, do do man, cam bien dat -> rao can?
+- giong lua co thay doi qua nhieu nam khong?
 
 
 
