@@ -16,6 +16,7 @@
 # ideas that could help explain the insight from interview
 - Many smallholders are credit‑constrained: they cannot borrow enough, or only at very high interest, to adopt better technology or scale up. Studies find that credit‑constrained farmers often farm more land but still have lower consumption and income per capita than unconstrained farmers, because they can’t afford quality inputs or risk‑management tools.
 - => could raise question about why some farmers think this seed has better advantage but they still haven't change to it
+- For reasoning later: if you notice farmers not adopting obviously beneficial technologies, don’t assume they’re “irrational” — it may be that credit constraints, collateral problems, or risk make adoption too dangerous. A policy or project that relaxes those constraints (better collateral, tailored rural finance, crop insurance) can unlock big productivity gains.
 
 
 # draft
