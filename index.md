@@ -12,6 +12,8 @@
 2. [package](package)
 3. [uni](uni)
 
+-STUDY BA
+
 
 # ideas that could help explain the insight from interview
 - To connect this to your own thinking: imagine you advise a government that wants to help Mekong Delta rice farmers. If you had to choose one lever to focus on first (for example: making it easier for new mills/traders to enter, or investing in farmer cooperatives, or improving price information), which would you choose and why do you think that one might be most effective?
