@@ -20,7 +20,7 @@
   - => think about this when interviewing companies, cooperatives, how do they empower farmers(selling market power)
   - so the word empower is also about market power
 
-- tra vinh, an giang, nhieu itnh
+- tra vinh, an giang, nhieu itnh, long an: du an cua quy bao ton, wwf
 - wwfund..
 
 - an giang: htx son hoa,
