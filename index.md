@@ -19,7 +19,9 @@
 - To connect this to your own thinking: imagine you advise a government that wants to help Mekong Delta rice farmers. If you had to choose one lever to focus on first (for example: making it easier for new mills/traders to enter, or investing in farmer cooperatives, or improving price information), which would you choose and why do you think that one might be most effective?
   - => think about this when interviewing companies, cooperatives, how do they empower farmers(selling market power)
   - so the word empower is also about market power
+
 - tra vinh, an giang, nhieu itnh
+- wwfund..
 
 - Many smallholders are credit‑constrained: they cannot borrow enough, or only at very high interest, to adopt better technology or scale up. Studies find that credit‑constrained farmers often farm more land but still have lower consumption and income per capita than unconstrained farmers, because they can’t afford quality inputs or risk‑management tools.
 - => could raise question about why some farmers think this seed has better advantage but they still haven't change to it
