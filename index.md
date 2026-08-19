@@ -22,6 +22,7 @@
 
 - 
 - tra vinh, an giang, nhieu itnh, long an: du an cua quy bao ton, wwf
+- an ginag -> long an : 3 xa 40-50 nguoi
 - wwfund..
 
 - an giang: htx son hoa, htx vinh loi , htx nguyen loc
