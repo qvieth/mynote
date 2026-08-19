@@ -21,7 +21,8 @@
   - so the word empower is also about market power
 
 - 
-- tra vinh, an giang, nhieu itnh, long an: du an cua quy bao ton, wwf
+- huy co the giup: tra vinh, an giang, long an( cung co the dong thap)
+- thay co o dai hoc can tho nghien cuu ra giong
 - an ginag -> long an : 3 xa 40-50 nguoi
 - wwfund..
 
