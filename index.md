@@ -22,6 +22,7 @@
 
 - 
 - huy co the giup: tra vinh, an giang, long an( cung co the dong thap)
+- anh duoc du an lua huu co dai hoc can tho gioi thieu vo phong van, anh giang va qunag huy
 - thay co o dai hoc can tho nghien cuu ra giong
 - an ginag -> long an : 3 xa 40-50 nguoi
 - wwfund..
