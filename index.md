@@ -20,10 +20,12 @@
   - => think about this when interviewing companies, cooperatives, how do they empower farmers(selling market power)
   - so the word empower is also about market power
 
+- 
 - tra vinh, an giang, nhieu itnh, long an: du an cua quy bao ton, wwf
 - wwfund..
 
-- an giang: htx son hoa,
+- an giang: htx son hoa, htx vinh loi , htx nguyen loc
+- so nong nghiep ca mau
 - ho tro nong dan ve: phan bon, ki thuat trong
 
 - Many smallholders are credit‑constrained: they cannot borrow enough, or only at very high interest, to adopt better technology or scale up. Studies find that credit‑constrained farmers often farm more land but still have lower consumption and income per capita than unconstrained farmers, because they can’t afford quality inputs or risk‑management tools.
