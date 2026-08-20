@@ -27,6 +27,7 @@
 - an giang -> 1 ngay tra vinh -> long an : 3 xa 40-50 nguoi
 - xuong van phong phuong trang, oc eo -> de gap htx son hoa
 - xin Huy cac tai lieu...
+- a Bac lam tu nam 15 tuoi
 - 
 - 
 - wwfund..
