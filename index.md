@@ -18,6 +18,7 @@
 # ideas that could help explain the insight from interview
 
 
+- take urban class
 - sem 2 and 4 next sem
 - To connect this to your own thinking: imagine you advise a government that wants to help Mekong Delta rice farmers. If you had to choose one lever to focus on first (for example: making it easier for new mills/traders to enter, or investing in farmer cooperatives, or improving price information), which would you choose and why do you think that one might be most effective?
   - => think about this when interviewing companies, cooperatives, how do they empower farmers(selling market power)
