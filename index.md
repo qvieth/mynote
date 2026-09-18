@@ -12,60 +12,75 @@
 2. [package](package)
 3. [uni](uni)
 
--STUDY BA
 
+# Draft
 
-# ideas that could help explain the insight from interview
+- Linh 37 15 22 24 34
+- An 32 2 18 42 12
+- A Le 17 17 14 15 33
+- Huong 26 27 21 20 32
+- NA 10 18 10 8 29
 
-
-- 3 things this morning:
-  - transcription
-  - game ideas don't get got
-  - class register
-
-- take urban class
-- sem 2 and 4 next sem
-- To connect this to your own thinking: imagine you advise a government that wants to help Mekong Delta rice farmers. If you had to choose one lever to focus on first (for example: making it easier for new mills/traders to enter, or investing in farmer cooperatives, or improving price information), which would you choose and why do you think that one might be most effective?
-  - => think about this when interviewing companies, cooperatives, how do they empower farmers(selling market power)
-  - so the word empower is also about market power
-
-- 
-- huy co the giup: tra vinh, an giang, long an( cung co the dong thap)
-- anh duoc du an lua huu co dai hoc can tho gioi thieu vo phong van, anh giang va qunag huy
-- thay co o dai hoc can tho nghien cuu ra giong
-- an giang -> 1 ngay tra vinh -> long an : 3 xa 40-50 nguoi
-- xuong van phong phuong trang, oc eo -> de gap htx son hoa
-- xin Huy cac tai lieu...
-- a Bac lam tu nam 15 tuoi
-- 
-- 
-- wwfund..
-
-- an giang: htx son hoa, htx vinh loi , htx nguyen loc
-- so nong nghiep ca mau
-- ho tro nong dan ve: phan bon, ki thuat trong
-
-- Many smallholders are credit‑constrained: they cannot borrow enough, or only at very high interest, to adopt better technology or scale up. Studies find that credit‑constrained farmers often farm more land but still have lower consumption and income per capita than unconstrained farmers, because they can’t afford quality inputs or risk‑management tools.
-- => could raise question about why some farmers think this seed has better advantage but they still haven't change to it
-- For reasoning later: if you notice farmers not adopting obviously beneficial technologies, don’t assume they’re “irrational” — it may be that credit constraints, collateral problems, or risk make adoption too dangerous. A policy or project that relaxes those constraints (better collateral, tailored rural finance, crop insurance) can unlock big productivity gains.
-
-
-# draft
-- think of how to got the data for now
-- mimosatek: office in Thu Duc
-- farmers in soctrang:
-  - gated and ungated
+- data:
+  - address
+  - data 1-5
   - 
-  - Consider adding a short household survey (even 20–30 questions on smartphone ownership, cooperative membership, plot gating status, income) alongside your 15–30 qualitative interviews, since it would let you contextualize your qualitative sample against broader village-level patterns without much added time cost.
-  - understand a little bit about the time of season/ salinity season/ time of sowing,... everything that related to rice farming season
-  - 
-  - 
-- 
+- future agenda:
+  - develop questionaire
+  - a week depends on the fieldsite
+  - ask for hot to intiate contact
+
+## climate data class:
+- heatwave:
+  - prolonged period of abnormally hot weather
+    - relative to the local climate norms
+    -  often lasting multiple days
+  - vary by region and organization
+    - but generally emphasize **exceeding temperature thresholds**
+    - for a **minimum duration,**
+      - sometimes incorporating humidity or nighttime minima.
+  - The World Meteorological Organization (WMO)
+    - describes a heatwave as a period
+    - where the daily maximum temperature
+      - using a 1961–1990 baseline.
 
 
-- chinh sach khuyen nong
-- thuc tien canh tac va bao ve dat, nong nghiep ben vung
-- cong cu ki thuat so, do do man, cam bien dat -> rao can?
+
+- project 4: download 6 station so to cover the entire taiwan
+- FOCUS ON THE DATA first, after understand where the data is missing, then load the data into the code, then edit the code with deepseek
+- start from project 1 to 5, one at a time, to see progression
+- try to describe the dat
+- after got the file from antigravity: use this to compare with the orignal file, ask what changes have been made, how to explain the main differences i made compare to the original file to my professor
+- workflow to do:
+  - keep opening the google collab, also check the scoretable and final result picture
+  - try to open which "one" part of the code in charge of generate the plot
+  - understand that and put it to the python
+  - edit the python -> may be the most important is the data
+  - after get the data, generate the chart and see what missing
+  - edit with AI -> finally run with nvim -> don't focus on nvim too early
+  - capture and submit
+  - che
+
+- BTC:
+  - what skills do you need questions:
+    - Mixed-Methods Research: To integrate quantitative (farmer surveys, service metrics) and qualitative (interviews, stakeholder mapping) data.
+      - Global Climate Change" - WEI-TING CHEN -> i found this course will give me more context at high level like the course climate change and issue i took in the fall semester. but this course expect this course will have a higher level concept on global scale, with more context and 
+      - "Climate change and extreme events - machine learning hands-on" - YU-CHIAO LIANG and MIN-HUI LO -> mention something about statistical and machine learning skill
+      - "Introductory Statistics for Geosciences" - Department of Geosciences i also consider this course to the machine learning course above, but this will also give me concepts of geosciences, this will be useful for me for comprehensive understanding of earth system
+      - "Computer Intensive Statistics in Ecology" - Available to Earth System Science, Oceanography, and other departments - i hope to achive the cocmputer skill and statistics skill in relate to ecology or biodiversity,...
+
+
+
+
+- thesis:
+  - try to frame: i'm focusing more on communication side rather than modelling -> as the audience (professors) will have background in atmospheric science so when talking about research about climate service try to frame it i'm about social science so it's more about social or communication side rather than doing modeling
+  - 3 core inquiries:
+    - 
+  - data
+    - primary data: unique year panel survey data colletion
+    - what are climate services, temperture, precipitation - climate information - what are climate **variable** you are looking at.
+      - salinity data: ob tain from 27 salinity stations from 20.. to 20.. obtain from southern center for hydro-meteological forecast center in VN
+      - precipitation data: obatain from AgERA5
 - giong lua co thay doi qua nhieu nam khong?
 
 
@@ -236,560 +251,6 @@ graph TD
         subgraph TaiESM發展["🟩 TaiESM 發展歷程"]
             H6["🎬 C176 — 為何發展 TaiESM？\n問：為什麼要發展 TaiESM？"]
             H6 --> H6A["台灣過去幾乎沒有氣候模式，落後日韓中更遑論歐美\n2011 年國科會提供契機，決定以 CESM 為基礎自行改造\n→ 不只是使用者，更要成為開發者，建立台灣品牌"]
-            H6 --> H6B["成立氣候變遷研究聯盟，歷時約十年完成 TaiESM 第一版\n台灣首次有能力參與 IPCC 國際氣候推估，間接貢獻國際"]
-            H7["🎬 C177 — TaiESM 的成果\n問：有沒有特別有成就感的例子？"]
-            H7 --> H7A["國際多模式評比排名前列，亞洲頂尖\n→ 以少於 10 人、10 年時間，超越原版 CESM 表現（福特→法拉利）"]
-            H7 --> H7B["高解析 25km 大氣模式可模擬颱風及劇烈天氣\n→ 與日本合作，西北太平洋颱風模擬全球表現優異\n→ 可推估未來颱風數量減少、雨量風速增加"]
-            H8["🎬 C178 — 東亞模擬為何較好？\n問：你們做了什麼讓東亞模擬更好？"]
-            H8 --> H8A["目標是讓氣候變異（年際變化）模擬更好\n→ 放入好的模組後，結果比預期佳，但難以完全解釋原因\n→「有好的初心＋大量努力，最終得到不錯的回報」"]
-        end
-
-        subgraph 開發挑戰["🟥 開發挑戰與心路歷程"]
-            H9["🎬 C179 — 開發中的挑戰\n問：有沒有覺得弄不出來、交不出去的時刻？"]
-            H9 --> H9A["改進某處往往造成其他地方變壞（牽一髮而動全身）\n→ 最終接受「不完美但改善最多」的妥協版本\n→ 全世界沒有任何模式是完美的"]
-            H9 --> H9B["硬體困境：計算資源不足、網路傳輸慢、儲存空間小\n→ 曾每週開車去台中國網中心抽換硬碟帶回資料\n→ 壓力大到晚上睡不著，但事後視為甜蜜回憶"]
-            H10["🎬 C180 — 補充感受\n問：有想補充的嗎？"]
-            H10 --> H10A["團隊個性平和、感情好，遇問題就好好處理\n→ 沒有火爆場面，開設局再載資料是具象化的團隊默契"]
-        end
-    end
-
-    subgraph Lama["📄 20260422_Lama_CMIP7.docx — 8 段影片（039A5934–5941）"]
-        direction TB
-
-        subgraph CESM進度["🟦 CESM3 版本與技術進度"]
-            L1["🎬 039A5934–5936 — 模式會議進度報告\n報告者：梁信謙（Lama）\n中研院環境變遷中心"]
-            L1 --> L1A["追蹤 CESM3 版本：Beta07 → Beta08\n→ 預計以 Beta08 進行新測試"]
-            L1 --> L1B["LUH3 土地利用資料已全部轉成 CLM4 格式\n→ 確認 LUH1→LUH3 計算邏輯正確性"]
-            L1 --> L1C["58 層大氣方案測試中（目前有爆掉問題）\n低解析大氣配高解析海洋實驗：目前卡關中"]
-        end
-
-        subgraph CMIP時程["🟩 CMIP7 時程與實驗策略"]
-            L2["🎬 039A5937–5939 — 實驗方向與時程\n討論者：梁信謙、李威良、許晃雄等"]
-            L2 --> L2A["CMIP7 時程：目前落在 2026 年 4 月\n→ 預計年終開始 Run，尚有機會趕上"]
-            L2 --> L2B["傾向採用 Concentration Driven 實驗\n（過去數次會議均傾向此方向）"]
-        end
-
-        subgraph EmissionVsConc["🟨 Emission Driven vs. Concentration Driven 討論"]
-            L3["🎬 039A5940–5941 — 核心議題討論\n問：要用哪種驅動方式？"]
-            L3 --> L3A["Emission Driven：更符合真實世界，未來氣候模擬多樣性大\nConcentration Driven：資源需求較小，為目前傾向選擇"]
-            L3 --> L3B["計畫主辦 Hackathon，邀請國內大學生與研究生參與\n→ 禮拜五再討論各 MIP 興趣，請有興趣者事先寄出"]
-        end
-    end
-
-    F2 --> WL_present
-    F4 --> MIPs
-    F5 --> WL
-    F3 --> HHH
-    F1 --> Lama
-
-```
-
-
-- flow of working:
-  1. download video
-  2. open with macwhisper v2 + v3 turbo language chinese
-  3. grammar check in whisper
-  4. export to pdf
-  5. copy paste to docs
-  6. final prompt: make any simplified chinese to traditional chiense, also add punctuation so it make sense, don't change any words or order
-
-- slide tonight human workshop may 19th:  acclimate -> how they adapt to cliamte find this
-
-
-```
-CLIMATE ADAPTATION IN THE MEKONG DELTA
-│
-├── GOVERNANCE LAYER (macro): State policy, planning targets,
-│   land-use zoning, the 1-million-ha low-emission rice project
-│
-├── KNOWLEDGE POLITICS & INTERMEDIATION LAYER (meso, cross-cutting)
-│   │
-│   ├── Indigenous / Traditional Ecological Knowledge
-│   │   (farmers’ heuristics, flood-reading, tide-attuned practice)
-│   │
-│   └── Institutional knowledge translation
-│       (intermediary actors—extensionists, researchers, ODA project staff, regional expert;
-│       informal brokerage; translation chains; “papereality”;
-│       regional experts’ agenda-setting)
-│
-└── PRACTICE LAYER (micro): Concrete adaptation objects
-    ├── Salt-tolerant rice varieties
-    ├── Digital advisory apps (IoT-AWD, MimosaTEK, FarMoRe)
-    └── Official planting calendars & salt-avoidance advisories
- ```   
- 
- 
- - ask ai if i can have one cheat sheet what should i bring
- 
- 
-- folder:
-  - 20260422_Lama_CМIР7
-  - 20260422_WL_present_discuss
-  - 20260424_HHH_A206_interview
-  - 20260424_MIPs_A206
-  - 20260424_WL_A206_interview
- 
- 
- - introduction need to revise
- - 4 question: make it into 3 -> think about core question
- - 4th question: -> remove
- - need catchy phrase/ diagram and maps(people don't know much about mekong delta so use map)
- - if the answer is same same then it probably the reality -> interveiw sample numer
-
-- field work preparation: find contacts - how to initiate
-- might need to go back in the winter -> or establish the contact first and inteview them online later
-
-- 2 things to focus on rightnow funding proposal and field work
-- 8 to 10 pages with diagrams 
-- proposal: 5 pages highlight most important things
-- introdctuion: think of why important 
-- literature review
-- method: help you understand those 3 question => seems doable
-- ramework -> focus on this
-- method: make it doable
-- literaturereview:  
-- don't go into too detail
-
-frontier cliamter service34 -> microcliamte look into CWA
-
-
-- what to do in the morning - write an email explain the change you made:
-  - mention about the framework:
-    - how you edit to his suggestion:
-      - how you resolve his comment and some comment haven't been resolve
-      - add 1 reference for Pham and Ngo
-
-# Draft
-
-- [proposal](proposal)
-
-## climate data class:
-- prof make some notes comment: the 5 object currently is not quite on the same level. so if want to write: try to put everything in a framework: the rigid way to put everything together, right now the seed, apps, calendar, TEK, policy, the level of them is not on the same level. so must find a way or frame work to group things into many sub groups or tree so it the logic can be rigid and make sense
- 
-- define persona:
-
-0:00 ─────────────────────────────────────────────────────────────────── 9:15
-
-[Intro]  →  [Salty crispy chicken] → [New Year’s KTV] → [Gift for boss] → [Date / Girl] → [Broken heart] → [Win lottery]
-0:00-0:16   0:16-1:50                2:30-3:15          3:18-4:58         5:35-6:45       7:49-8:23        8:23-9:15
-
-- https://www.youtube.com/watch?v=sDEisvH2QYA : project timestamp & categorize
-  - speaker diarization & timestamp
-- last prompt: now after reading all of these figure, what the point to notice about each figure, mentioned in the paper
-- the flow to present: explain what each figure is abuot: then the point that should be notice
-  - the interesting finding of each figure
-
-- The key on dates is presence: be in the moment, watch her reactions, mirror her subtle cues, and show that you notice and remember small details she mentioned hours before
-- Seduction always has a small element of danger or taboo (resistance, distance, the sense it “might not happen”); if there is zero friction or mystery, there is no erotic charge.
-- Seduction is mostly nonverbal: eye contact, body language, voice, pacing, where you take her, and how you create a story‑like experience matter more than exact words
-- His “final tweet” for modern relationships: “Be the person you can love” — build a life, character, and inner world you genuinely respect, instead of trying to fix or complete yourself through partners.
-- Real change usually starts when the pain of staying the same exceeds the pain of changing; no one else can want your growth more than you do, and external pushing (parents, friends) rarely works until the drive becomes internal.
-- He advises men not to make their female partner their main emotional support system for fears, doubts, and complaints; instead, share those with “other captains” (trusted male peers, mentors, or therapists) so you can remain solid and reassuring in the relationship.
-- Vulnerability is best expressed as sharing what moves and inspires you and what you love, not constant dumping of wounds and complaints.
-- He predicts more serial monogamy and shorter relationships overall, somewhat like modern careers where most people have many jobs instead of one lifelong employer.
-- As women earn their own money and basic needs are met by the market, they no longer need “a man” for survival and can choose based on desire and high standards rather than necessity
-- Big factors in losing desire: partners “let themselves go” physically, stop competing for each other, and make the relationship all about comfort and routine with no intentional erotic life.
-- Women more often cheat because of emotional dissatisfaction; affairs usually begin as emotional bonds (often with coworkers) that later turn sexual and may become the next primary relationship (“monkey‑branching”
-- uncertainty, novelty, mystery, and a bit of risk.
-- emotional maturity 
-- https://www.youtube.com/watch?v=EpGifgbNYiI => transribe this video
-  - first download it
-  - video -> audio 
-  - audio -> transcription
-- https://www.youtube.com/watch?v=MWZPG9vpN_8
--  c.mp3
-
-- ChineseTaiwaneseWhisper: GitHub repo ( github.com/sandy1990418/ChineseTaiwaneseWhisper) with full fine-tuning support for Mandarin/Taiwanese Hokkien, Gradio UI, and streaming ASR; optimized for T4 GPUs.)
-- Whisper Large-v3 base: Strong multilingual baseline (99+ languages, including zh), best further tuned for Taiwanese via Hugging Face datasets.
-- Breeze-ASR-25: MediaTek's Whisper-large-v2 fine-tune enhancing Traditional Chinese and code-switching (zh-en).
-
-- 
-
-
-before 12pm to send to prof Yu-kai
-a framework to organize all the material: 5 objects
-
-- Please see my comments in the document
-- You need to do literature review on peasant studies/political ecology of rice and digital farming
-- In addition, you will also need to write your research methods in more details so that reviewers can know how you will actaully conduct the fieldwork
-
-- => send the entire proposal, ask which part should fit the suggested material into, could fit each part with each object. also reviset the first context part a little bit so it incorporate quagmire
-
-- workshop analyze thedata:
-  - prof question: how do you control the variable for temperature change in different time: -> point out research on 1 to 2 degree drop affect the perception but other factors like wind,.. shade, scenery,.. could affect more
-  - therefore most people wouldn't notice -> suggest psychology of the different land use
-
-
-
-- About the survey, they suggested that we look at existing papers as references. First, we should determine our expected results, then find studies with a similar structure that we can adapt
-@Jason - 傑森 Do you have any reference already? If so, maybe you can share it with us
-
-
-- CMIP6 class
-  - send the entire slide to AI to ask how to do the last question homework
-  - flow:
-    - write down the path of data -> but ask only use 1 time period
-    - then paste the slide 
-    - ask solve homework question in the last slide
-      - => get the code
-    - => take the code back to AI ask explain and prepare presentaton
-
-
-- taodigital
-- after reading the guidline for markdown
-- reading outlook -> team message ->
-- set up apple ID -> check the pdf
-
-- currently the deepseek and chatgpt(later perplex and gemini high chance not good) give out a good structure
-  - could revise this -> add more logic big part of structure (like rice context interesting history)
-
-- the plan for ppt slide:
-  - slide for tccip data problem: -> got different variables, but the spatial scale is around 5km, the smallest one 1km is for rainfall only  
-  - but the daxue village and its garden spatial scale is so small less than 1 km
-  - then mention landsat -> where, which landsat source to use
-  - should capture a map and clearly show where do we focus on studying
-  - climate risk assessment:
-    - rmit pdf + iso read these 2
-    - also read Strathclyde_University_Adaptation_Plan -> it identify climate risk to the country, then to the uni, could learn from this
-
-- write smaller part as a time => start with seed tolerant, add articles and write with few of these focus on small part and improve it first
-
- Progress report 1: Research Questions
-→ Requirements:
-1. Research Site Introduction
-2. Identifying climate risks for the Research Site from TCCIP's data
-3. Literature Review
-4. Your Research question(s)
-
-
-- currently i have:
-  - cmip6: homework -> check data source
-  - workshop on human: risk assesment
-  - prepare somegood question to ask professor fishball tomorrow
-  - How the answer might turn out: The answer will be a story of two risks: climatic risk and socio-political risk.
-    - **Climatic**: Under higher warming projections (e.g., SSP5-8.5), Taipei will have more extreme heat, longer dry spells, and more intense rainfall. This will make gardening more challenging (water stress, plant selection, heat stress on gardeners). The garden's utility (as a cooling refuge) will increase as the city gets hotter.
-    - **Socio-Political**: The biggest threat to a community garden in a dense city like Taipei is rarely climate—it's land use change. The garden likely exists on land with high development potential. Its long-term sustainability depends on community advocacy, formal land-use agreements, and institutional support (e.g., from the university or city government).
-
-- learn from kevin of how to manage things: sheets of task to do and time
-- three flow of things:
-  - thesis
-  - school homework and exam - study language
-  - personal project:
-    - beforethat:
-      - learn vibe coding courses -> some maths?
-  - 
-
-- CMIP6: first learn about how latin alphabet, what notion each of them often stand for
-  
-- avoid recreaigng already have dataset impacts plot or result
-
-
-- need some open source model that can live transcibe what professor said to a text file
-
-- give these flow to ai, ask them to find story or evidence, ask find interesting stories or paper, could try to find vietnamese newspaper like vietnamnet, vnexpress or bao tuoi tre or anything like that mention the story
-
-- i asked perplex and the result looks good. now i need to paste these result into chatgpt, ask them to create a table to organize and manage links, title, year if have,... so i can comeback and reference later
- 
-- prof YK flow:
-  - flow of technology into the field:
-    - how "salt-tolerant rice varieties" or "automated arrigation sensors" are develop in... or VN labs
-
-- key barriers?
-  - could it be financial capacity
-  - fragmented small scale operation
-  - roles of farmers organization
-
-- flow to write the material to send to prof:
-  - ways to explore climate service:
-    - historical context of Mekong delta:
-      - "rice first" policy
-      - transformation of the delta from a river water society into hydraulic society
-    - agrarian transition and saline frontier
-    - Indegenious Knowledge(IK): paper of databases of over 260K document of IK
-      - IK is rapidly vanishing due to lack of conservation regulation and death of traditional elder
-      - can use this point if only found some evidence of effectiveness of IK
-      - 
-
-```
-- give these flow to ai, ask them to find story or evidence, ask find interesting stories or paper, could try to find vietnamese newspaper like vietnamnet, vnexpress or bao tuoi tre or anything like that mention the story
- 
-- prof YK flow:
-  - flow of technology into the field:
-    - how "salt-tolerant rice varieties" or "automated arrigation sensors" are develop in... or VN labs
-
-- key barriers?
-  - could it be financial capacity
-  - fragmented small scale operation
-  - roles of farmers organization
-
-- flow to write the material to send to prof:
-  - ways to explore climate service:
-    - historical context of Mekong delta:
-      - "rice first" policy
-      - transformation of the delta from a river water society into hydraulic society
-    - agrarian transition and saline frontier
-    - Indegenious Knowledge(IK): paper of databases of over 260K document of IK
-      - IK is rapidly vanishing due to lack of conservation regulation and death of traditional elder
-      - can use this point if only found some evidence of effectiveness of IK
-      - 
-```
-- current material & checklist:
-  - gemini current 2 deep research, use some of the result -> check facts& add references
-
-- https://www.youtube.com/watch?v=EV7WhVT270Q : 4 hours: State of AI in 2026: LLMs, Coding, Scaling Laws, China, Agents, GPUs, AGI | Lex Fridman Podcast
-  - ask comet summarize this video:
-    * most important point: **10. Education, learning, and “struggle”**
-      - Both guests argue you understand LLMs best by building a small transformer from scratch on a single GPU, then mapping those intuitions to industrial systems, and by deeply studying a narrow subtopic (e.g., RLHF, character training, evaluation).
-      - They repeatedly emphasize the value of struggle for learning—resisting the urge to let models solve everything, using them instead as tutors and exercise generators, and keeping some time for offline, distraction‑free study
-    * **13. Broader impact on civilization**
-The biggest under‑appreciated effect, in their view, is that LLMs make high‑quality explanations and tutoring accessible worldwide, dramatically lowering the barrier to learning almost any subject.
-
-
-- draw diagram and words on the data
-
-
-- reply her email today:
-  - question to ask:
-    - who are these farmers
-    - how did you contacts them
-    - how did you decide how to send out the surveys
-    - the reason for choosing these areas
-- book about AI infrastructures:
-  - hardware technology for ai  takeo kawahara
-  - chip war chris miller
-  - nvidia way tae kim
-    - Key Hardware Topics
-      - Neural network LSIs and high-performance computing structures.
-      - Combinatorial optimization hardware and Ising machines.
-      - In-memory AI computing to reduce data movement overhead
-
-
-- prof yu hsien
-  - https://course.ntu.edu.tw/en/courses/114-2/51205
-- prof minhuilo
-- prof fishball
-- 
-
-- heatwave:
-  - prolonged period of abnormally hot weather
-    - relative to the local climate norms
-    -  often lasting multiple days
-  - vary by region and organization
-    - but generally emphasize **exceeding temperature thresholds**
-    - for a **minimum duration,**
-      - sometimes incorporating humidity or nighttime minima.
-  - The World Meteorological Organization (WMO)
-    - describes a heatwave as a period
-    - where the daily maximum temperature
-      - using a 1961–1990 baseline.
-
-
-
-- project 4: download 6 station so to cover the entire taiwan
-- FOCUS ON THE DATA first, after understand where the data is missing, then load the data into the code, then edit the code with deepseek
-- start from project 1 to 5, one at a time, to see progression
-- try to describe the dat
-- after got the file from antigravity: use this to compare with the orignal file, ask what changes have been made, how to explain the main differences i made compare to the original file to my professor
-- workflow to do:
-  - keep opening the google collab, also check the scoretable and final result picture
-  - try to open which "one" part of the code in charge of generate the plot
-  - understand that and put it to the python
-  - edit the python -> may be the most important is the data
-  - after get the data, generate the chart and see what missing
-  - edit with AI -> finally run with nvim -> don't focus on nvim too early
-  - capture and submit
-  - che
-
-- BTC:
-  - what skills do you need questions:
-    - Mixed-Methods Research: To integrate quantitative (farmer surveys, service metrics) and qualitative (interviews, stakeholder mapping) data.
-      - Global Climate Change" - WEI-TING CHEN -> i found this course will give me more context at high level like the course climate change and issue i took in the fall semester. but this course expect this course will have a higher level concept on global scale, with more context and 
-      - "Climate change and extreme events - machine learning hands-on" - YU-CHIAO LIANG and MIN-HUI LO -> mention something about statistical and machine learning skill
-      - "Introductory Statistics for Geosciences" - Department of Geosciences i also consider this course to the machine learning course above, but this will also give me concepts of geosciences, this will be useful for me for comprehensive understanding of earth system
-      - "Computer Intensive Statistics in Ecology" - Available to Earth System Science, Oceanography, and other departments - i hope to achive the cocmputer skill and statistics skill in relate to ecology or biodiversity,...
-
-
-
-
-- thesis:
-  - try to frame: i'm focusing more on communication side rather than modelling -> as the audience (professors) will have background in atmospheric science so when talking about research about climate service try to frame it i'm about social science so it's more about social or communication side rather than doing modeling
-  - 3 core inquiries:
-    - 
-  - data
-    - primary data: unique year panel survey data colletion
-    - what are climate services, temperture, precipitation - climate information - what are climate **variable** you are looking at.
-      - salinity data: ob tain from 27 salinity stations from 20.. to 20.. obtain from southern center for hydro-meteological forecast center in VN
-      - precipitation data: obatain from AgERA5
-      - study on use of digital tools in rice farming: quantitative study survey farmers and field agent regarding use of digital tech for farming advice  -> info on digital tool use(tv/radio, phonecalls, messaging apps like zalo, fb messenger,..)
-      - acbs(agro-climatic bulletins) implementation: service based on continuous data input which has been foramlly institutionalized in VN -> provide locally reccomendation based on seasonal, monthly, 10-days forecast
-  - criteria for what a efficient climate servicd is
-  - [done] remove typhoon
-  - critical gap -> make more concrete
-  - between slide 8 and 9: explain why you focus on multi level
-  - explain why more...
-  - explain **who** is providing climate services
-  - remove the slide of how i'm gonna analyze the data
-- plan when in vn
-  - next summer => 3 months holiday => collect data
-  - must be really ready
-  - use this winter write a better proposal in spring early next year -> then in spring apply for research grant -> apply in spring will be less competitive
-  - do something easy to explain
-  - EASY TO UNDERSTAND AVOID VAGUE
-  - in 2nd year => must have preliminary result
-
-- priority:
-  - ARC: done
-  - health report: done
-  - so basically all the class will have report
-    - climate data          -> code         5 projects
-    - climate issue         -> final report
-    - seminar               -> final report
-    - climate service class -> group report
-  - climate service class
-  - thesis presentation
-  - cliamte data class
-  - bike
-
-- thesis:
-  - stakeholder too much
-  - hypothesis?
-
-- climate service group report:
-  - move psmc report to after the tmsc of abrar, mention it also how it is related to ifrs and tnfd framework
-  - PSMC brief concerns on the background also
-
-- ask for every project what kind of data
-- what importnat right now is to understand tccip data
-  - go to their website. understand how the data is
-- project 1:
-  - ntucool ->
-  - target -> edit code_full
-  - example -> code + data -> requirement -> what important is the figure
-  - requirement <-> figure
-- scoretable for project 1
-  - max 16:
-    - add labels
-    - add title
-  - max 18:
-    - add regression line
-    - t-test
-  - max score 20:
-    - climate spiral or change variable
-- datasets
-  - 466920.txt
-    - Stno,Datatime,PP01,PS01,RH01,TX01,WD01,WD02
-    - 466920,1897/1/2 AM 12:00:00,0.0,1021.2,82,18.6,1.2,-9999,
-    - 466920,1897/1/3 AM 12:00:00,0.0,1020.6,86,18.3,1.4,-9999,
-    - 466920,2018/3/31 AM 12:00:00,0.0,1011.4,57,24.1,3.7,60.0,
-    - 466920,2018/4/1 AM 12:00:00,0.0,1009.8,52,24.9,2.8,50.0,
-  - 466921.txt
-    - Stno,Datatime,PP01,PS01,RH01,TX01,WD01,WD02
-    - 466921,1992/2/2 AM 12:00:00,0.0,1019.2,74,16.4,1.3,90.0,
-    - 466921,1992/2/3 AM 12:00:00,0.0,1014.4,79,18.0,0.7,360.0,
-    - 466921,1997/8/30 AM 12:00:00,0.1,1003.8,68,29.8,3.3,112.5,
-    - 466921,1997/8/31 AM 12:00:00,43.5,1007.0,81,27.5,1.6,180.0,
-- target
-  - p1.png
-- Hint
-  - Temperature
-  - 11-year running mean
-  - Baseline = 1980-1999
-- Fishball's code
-  - P1 code.png
-
-
-folder/1. Shrimp economies.pdf
-folder/2. 再訪區域地理：越南研究的知識生產_廖昱凱.pdf
-folder/3. Hydrosocial geographies_廖昱凱.pdf
-folder/4. Shrimp in labs_廖昱凱.pdf
-folder/5. Green developmentalism_廖昱凱.pdf
-folder/6. 地理學中的量體轉向_廖昱凱.pdf
-folder/7. 點石成金.pdf
-folder/Book Chapter Path dependence.pdf
-folder/Book review 1 Underflows.pdf
-folder/Book review 2 Viral Economies.pdf
-folder/Book review 3 Water 常態水與全球敘事.pdf
-folder/Book review 4 Material politics.pdf
-folder/photo.jpg
-folder/photo
-
-- the photo collage part will use all the photo in the photo folder
-- the publication part use the name in list mode, don't use the table mode.
-
-
-
-
-- v1
-- prof website:
-  - nav bar should be translate as well | also should blur and transparent like the website i gave
-  - photo album collage before contact section
-  - contact should have a google map view include
-  - supervision part should be more well spaced, the 4 steps should have a line that connect to show the process
-  - current students should in card mode with avatar of the students
-
-- v2
-  - navbar section now lost the section it point to
-  - maps part should point to Global Change Centre National Taiwan University No. 1, Sec. 4, Roosevelt Rd. Taipei 10617 Taiwan
-  - publication part, after each research ppaer titile should be pdf icon, if click in will download the pdf of that paper
-  - the photo collage should as a whole doesn't leave out empty square
-  - font design philosophy from title to content should follow best design principle. try use minimal and clean font like apple use, try use some color for block between section to easier to regconize at which section has past, still follow the minial and clean desgin principle, use color that fall in black white gray clean pallete
-
-- for each:
-  - similarities
-  - distinction
-  - search in the book review where is it.
-  - then try to incorporate that smoothly in that book review
-
-- things i need:
-  - a bag for putting all the cable
-  - buy 2:  usbC to C port: for ps5 dock charger
-  - ally z1e:
-    - C to many C for charge and connect to MAC for steam link share
-    - ethernet port
-    - >> laern how to do steam share
-  - 
-- NOW MAKE INCORPORATING AND COMPARING/ DISTINCITONING TWO AUTHORS,... LESS BECOME REPETITIVE. CHANGE WORDS
-
-- Please add more discussion on the similarities and distinctiveness between this book and other
-critical works in the field of medical anthropology by
-(1) incorporating more research by Janis
-Jenkins, Junko Kitanaka, Tom Widger, and X Marsilli-Vargas, as the reviewer suggested, and
-jj(2)
-elaborating on the distinction between ethnography conducted at the national level and that at the
-city level. In addition, please consider whether China should be categorised as part of the Global
-South, as this remains debatable.
-
-
-- DS form revision fill looks good
-- add a top paragraph mention I added 8 paragraph in total => point out the number of the paragraph
-- fill in the form
-
-
-- cliamte service class guess speaker
-  - climate change research in NCDR
-  - NCDR: national science and technology center for disaster reduction -> national think tank
-  - how to estimate adaption options
-  - NSTC: national science and technolgy council
-  - taiwan have capicity to deal with disaster?
-  - impact important but what kind of impacts?
-  - tccip : there is a team inside downscale data to taiwan
-    - more detail impact system
-  - stakeholders:
-    - government: water resources agency
-    - coordinating team: NCDR
-    - academic support: RCEC, academia sinica, universities
-  - applications: also different stakeholders, -> how to translate the data to these
-  - tccip IV research teams and topics
-  - in ocean taiwan only have 7 station while rainfall more than 7 hundres
-  - taiwan choose 2 degree scenarios
-  - TaiESM
-  - NaMR: national academy of marine research
-  - scenario -> impact -> adaptation : adaption is most important
-  - Question pop out while listening: learn from organiztion of taiwan to locate vietnam networks, ways of adaptation
-  - compound, cascading diasters
-  * national adaption framwork -> a slide of how to adapt
-  - mitigation 1% still depends on 99% from other coutnry but adaptation is not 
-    - customized portal: for various users -> domain specialist: adatation resources for...
     - regulation: standard method for unify differnt way, -> help compare differnt way..
     - cliame change specialist: consider scenarios in future projection for a project in addtion to current time consideration from different specialist
 
