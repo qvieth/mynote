@@ -19,6 +19,8 @@
 - ipcs proposal -> how the interview gonna help into this plan
 - 8 interview, mainly farmers in different area, 1 scientist -> transcription -> can feed to deepse.. ask for 
 - 1 researcher from can tho university, handle project..  -> explain the connection with him, how he link in this chain of project
+- oopen map to check the location of where i went
+- Nguyen truong quang huy - can tho univeristy - check profile from facebook
 - 
 
 - data:
