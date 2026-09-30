@@ -22,6 +22,7 @@
   - skull: 8 
   - pickleball: 4
   - one night werewolf
+  - avalon
   - love letter: 4
     - catan: 4
     - monopoly: 4
