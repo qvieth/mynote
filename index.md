@@ -18,6 +18,15 @@
 
 ----------------------------------------------------------------------------------------------------------------------------------------
 
+- game: 
+  - skull: 8 
+  - pickleball: 4
+  - one night werewolf
+  - love letter: 4
+    - catan: 4
+    - monopoly: 4
+    - poker: 8
+
 - thesis chapter -> result
 
 - the result -> how it connect to the theory -> then how the result could explain all the other literature on the field?
