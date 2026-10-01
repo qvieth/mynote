@@ -28,6 +28,10 @@
     - monopoly: 4
     - poker: 8
 
+- poster presentation:
+  - apply model to ... logic model,... only one person present is ok
+  - choose 1 model to analyze liufu case
+
 - thesis chapter -> result
 
 - the result -> how it connect to the theory -> then how the result could explain all the other literature on the field?
