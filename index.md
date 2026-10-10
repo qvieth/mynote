@@ -32,6 +32,10 @@
   - focus later on discussing the next part from the matter ones
   - dicussing the gaps of which data, transcription is missing
 
+
+- big ideas: rewrite methodology(where, why choose what) to match with transcription result 
+- also the current methodology already fixed interviewed locaiton -> update it to match to the transcription locaiton -> could also try to rewrite the logic and way of thinking from the start to match with the result of the writing
+
 - analytical framework:
   - translation chain + boundary object
   - paperiality
