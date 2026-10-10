@@ -16,6 +16,8 @@
 # Draft
 - problem - solution
 
+- the transcrition file doesn't incorporate the location of these interviewee
+
 - big file 700mb ptx -> how to disgest with ai
 
 - mention in the report: as first the plans was like this...
