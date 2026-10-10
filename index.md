@@ -14,6 +14,11 @@
 
 
 # Draft
+- problem - solution
+
+- big file 700mb ptx -> how to disgest with ai
+
+- huy does: take all the summarize, sent  to AI : the proposal + the summarize, ask which file should i look into to get the info that useful and relevant -> then feed whole these file into AI
 
 
 - the summarize of the transcription -> factcheck whether each is true
@@ -26,11 +31,12 @@
     - the ipcs proposal: it have literature review, methods,
     - location of interview -> this is important -> why choose where, reasons. how to connect these with the framework and result
 
-
+[[[
 - To investigate how these interventions govern, are produced, and are experienced across scales, and why they generate such **unequal adaptive outcomes**, this study asks three sub-questions:
   - How do different adaptation interventions emerge from particular institutional problem‑framings, which shape future envisions?
   - What infrastructures, intermediaries, and resources are necessary for each intervention to function?
   - How do farmers navigate between, combine, or resist the different knowledge systems embedded in these interventions when faced with conflicting environmental signals?
+]]]
 
 - what matter now:
   - fact check -> whether each conclusion -> meaningful enough -> come from real transcription file
