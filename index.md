@@ -18,6 +18,9 @@
 
 - the summarize of the transcription -> factcheck whether each is true
 
+- right now i have transcription txt file. they might mistrans some words fixing now is not the bet way
+- ask AI to process each file to come up with insight and conclusion then check fact the results later
+
 - input - how to process - output
   - how to process: ask AI what - 
     - the ipcs proposal: it have literature review, methods,
