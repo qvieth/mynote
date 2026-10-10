@@ -28,6 +28,9 @@
 
 - what matter now:
   - fact check -> whether each conclusion -> meaningful enough -> come from real transcription file
+  - what if they don't meaningful enough or matter? -> just try to force into some meaningful part
+  - focus later on discussing the next part from the matter ones
+  - dicussing the gaps of which data, transcription is missing
 
 - analytical framework:
   - translation chain + boundary object
