@@ -15,9 +15,28 @@
 
 # Draft
 
+- input - how to process - output
+  - how to process: ask AI what - 
+    - the ipcs proposal: it have literature review, methods,
+    - location of interview -> this is important -> why choose where, reasons. how to connect these with the framework and result
+
+
+- To investigate how these interventions govern, are produced, and are experienced across scales, and why they generate such **unequal adaptive outcomes**, this study asks three sub-questions:
+  - How do different adaptation interventions emerge from particular institutional problem‑framings, which shape future envisions?
+  - What infrastructures, intermediaries, and resources are necessary for each intervention to function?
+  - How do farmers navigate between, combine, or resist the different knowledge systems embedded in these interventions when faced with conflicting environmental signals?
+
+- what matter now:
+  - fact check -> whether each conclusion -> meaningful enough -> come from real transcription file
+
+- analytical framework:
+  - translation chain + boundary object
+  - paperiality
+  - rendering technical
 
 - high lv - good plan:
   - the orignial result report chapters
+    - factual info -> 
   - + the document given by Huy add in
 
 
