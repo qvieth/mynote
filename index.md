@@ -15,6 +15,9 @@
 
 # Draft
 
+
+- the summarize of the transcription -> factcheck whether each is true
+
 - input - how to process - output
   - how to process: ask AI what - 
     - the ipcs proposal: it have literature review, methods,
