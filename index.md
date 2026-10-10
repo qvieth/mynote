@@ -36,6 +36,9 @@
   - dicussing the gaps of which data, transcription is missing
 
 
+- incorporate the files, project, report of Huy into the result -> could from the macro -> what prof interesting might be some project that haven't been mention before, interesting numbers
+
+
 - big ideas: rewrite methodology(where, why choose what) to match with transcription result 
 - also the current methodology already fixed interviewed locaiton -> update it to match to the transcription locaiton -> could also try to rewrite the logic and way of thinking from the start to match with the result of the writing
 
