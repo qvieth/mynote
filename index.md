@@ -16,6 +16,11 @@
 # Draft
 
 
+- high lv - good plan:
+  - the orignial result report chapters
+  - + the document given by Huy add in
+
+
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 - game: 
