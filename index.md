@@ -14,7 +14,15 @@
 
 
 # Draft
+
 - problem - solution
+
+
+- the current body: answer from interviewer -> easy to check -> yellow
+- the nuances, the way how i move, environemnt -> check by me -> redd
+- green - theory, can generate through reasoning
+
+- one thing to check - gated and ungated term, is it true
 
 - the transcrition file doesn't incorporate the location of these interviewee
 
@@ -24,7 +32,6 @@
   - but after talking to Huy and learn about the project there was. .. update the plans, the objects, what matter, the methods and focus,...
 
 - huy does: take all the summarize, sent  to AI : the proposal + the summarize, ask which file should i look into to get the info that useful and relevant -> then feed whole these file into AI
-
 
 - the summarize of the transcription -> factcheck whether each is true
 
