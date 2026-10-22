@@ -16,6 +16,15 @@
 # Draft
 
 
+- map , photo in scholarship document
+- ones
+
+- bring new pieces to attack instead of old piece
+- avoid playing same piece many times
+- karo-cann
+- caro-kann
+
+
  
 Anh Lee
 Anh Nguyen Ngoc
