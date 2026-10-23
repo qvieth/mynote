@@ -23,27 +23,7 @@
 - avoid playing same piece many times
 - karo-cann
 - caro-kann
-
-
- 
-Anh Lee
-Anh Nguyen Ngoc
-Bùi Nam Khánh
-Bùi Vương Chấn Đông
-Giaanan Nguyen
-Hậu Trần
-Huỳnh Hà Quốc Việt
-Lê Kiều Trang
-Le Phuong Thao
-Linnh Do
-Nguyễn Thu Trang
-Nhã Nhã
-Quynh Vo
-Thư Đào
-Thức Hữu
-Trương Phú Lễ
-Tu Míng
-Tú Nguyễn
+- tandard development (5:16): Develop your kingside knight to f3 (for White) or f6 (for Black) to better control the center and protect your king.
 
 - problem - solution
 
