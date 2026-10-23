@@ -20,8 +20,7 @@
 - [tennis](tennis)
 - ones
 
-- Fried Liver
-- Attack
+- Fried Liver Attack
 - Légal's Mate
 - Stafford Gambit
 - Scotch Gambit trap
