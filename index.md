@@ -20,6 +20,14 @@
 - [tennis](tennis)
 - ones
 
+- Fried Liver
+- Attack
+- Légal's Mate
+- Stafford Gambit
+- Scotch Gambit trap
+- Blackburne Shilling Gambit
+- Fishing Pole Trap
+
 - bring new pieces to attack instead of old piece
 - avoid playing same piece many times
 - karo-cann
