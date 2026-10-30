@@ -15,10 +15,36 @@
 
 # Draft
 
-
+- [Proposal](Proposal)
+- [draft](draft)
 - map , photo in scholarship document
 - [tennis](tennis)
 - ones
+
+
+- https://www.perplexity.ai/search/6d30d5d4-d953-4c89-8901-c53694163d3e : if i could learn 10 chess opening or theory, what is the top 10
+
+| #  | Opening                 | Color         | First moves                | Why learn it                                                                                                    |
+| -- | ----------------------- | ------------- | -------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| 1  | Italian Game            | White         | 1.e4 e5 2.Nf3 Nc6 3.Bc4    | Natural development, clear plans, and excellent for learning tactics and attacking patterns. chessmatesclub+1   |
+| 2  | Ruy López / Spanish     | White         | 1.e4 e5 2.Nf3 Nc6 3.Bb5    | The classical “big” 1.e4 opening; teaches long-term piece pressure and strategic chess. chess+1                 |
+| 3  | Queen’s Gambit          | White         | 1.d4 d5 2.c4               | The most important classical 1.d4 opening; teaches center control and positional play. chess+1                  |
+| 4  | London System           | White         | 1.d4 d5 2.Bf4              | Low-theory, dependable setup that works against many Black systems—great practical fallback. chess+1            |
+| 5  | Sicilian Defense        | Black vs 1.e4 | 1.e4 c5                    | Black’s most combative and popular reply to 1.e4; creates unbalanced, counterattacking games. chess+1           |
+| 6  | Caro-Kann Defense       | Black vs 1.e4 | 1.e4 c6 2.d4 d5            | Solid, resilient, and less theory-heavy than the Sicilian; excellent if you prefer stable structures. chess+1   |
+| 7  | French Defense          | Black vs 1.e4 | 1.e4 e6 2.d4 d5            | Teaches pawn-chain play and counterattacking against White’s center. chess+1                                    |
+| 8  | Queen’s Gambit Declined | Black vs 1.d4 | 1.d4 d5 2.c4 e6            | The classical, solid answer to the Queen’s Gambit; very transferable positional knowledge. chess                |
+| 9  | Slav Defense            | Black vs 1.d4 | 1.d4 d5 2.c4 c6            | Rock-solid and practical; keeps a healthy pawn structure and is hard for White to break down. chess+1           |
+| 10 | Nimzo-Indian Defense    | Black vs 1.d4 | 1.d4 Nf6 2.c4 e6 3.Nc3 Bb4 | One of Black’s strongest and most instructive defenses; teaches piece activity, pins, and dynamic play. chess+1 |
+
+- e4e5 Nf3Nf6
+  - scotch game d4 exd4
+    - scotch gambit
+    - goring gambit
+  - italian game
+  - ruy lopez
+
+- pawn structure
 
 - Fried Liver Attack
 - Légal's Mate
