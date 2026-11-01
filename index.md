@@ -15,6 +15,12 @@
 
 # Draft
 
+
+- 500 : den mau guanghuang
+- 177 : do dong gia 59
+- 450 : den halloween day
+
+
 - [Proposal](Proposal)
 - [draft](draft)
 - map , photo in scholarship document
