@@ -18,6 +18,11 @@
 
 - quick on mehod, framework
 - spend most time on findin g 10-15 on findings
+  - the interview 5 mins
+  - the document analysis from Huy - governemnt: priorities, result? -> could retell the story of these slides 10 mins
+
+
+
 
 - deloite ESG intership
 
