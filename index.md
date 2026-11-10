@@ -15,6 +15,10 @@
 
 # Draft
 
+
+- quick on mehod, framework
+- spend most time on findin g 10-15 on findings
+
 - deloite ESG intership
 
 
