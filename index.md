@@ -21,6 +21,12 @@
   - the interview 5 mins
   - the document analysis from Huy - governemnt: priorities, result? -> could retell the story of these slides 10 mins
 
+- => how:
+  - take the proposal:
+    - here could have the method, literature review,... => 5 mins
+    - result -> take the files from Huy, plus the interview result -> 25 mins
+
+
 
 
 
