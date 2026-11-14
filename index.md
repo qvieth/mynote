@@ -24,7 +24,7 @@
 - => how:
   - take the proposal:
     - here could have the method, literature review,... => 5 mins
-    - result -> take the files from Huy, plus the interview result -> 25 mins
+    - result -> take the files from Huy, plus the interview result -> 15 mins
 
 
 
