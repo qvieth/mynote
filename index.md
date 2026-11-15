@@ -16,6 +16,20 @@
 # Draft
 
 
+- changes need to make to slides:
+  - slide 1: just use  GOVERNING THE PRECARIOUS DELTA Adaptation objects, intermediaries, and unequal outcomes in the Mekong Delta's rice bow as the title, delete Half of Vietnam's rice grows on land the salt reaches in a bad year.
+  - slide 2: remove So "adaptation" here means adapting a machine, not a wilderness, remove Red markers: An Giang (upstream), Cần Thơ (middle), Sóc Trăng and Trà Vinh (coast), remove the word "Study sites""
+  - slide 3: remove Every station that follows pairs the two streams 
+  - slide 4: remove Every station that follows pairs the two streams
+  - slide 5: remove From the proposal's contribution section
+  - slide 6: remove Not a fourth object: the architecture that decides what the others may be
+  - slide 7: remove Argument: adaptation in the Delta is not governed by who farms best. It is governed by what can be counted., remove Three sub-questions · one argument
+  - slide 8: what does "R6" mean?, also on some other slide why mention R2 R8, how the audience understand this how do i explain?j
+  - slide 13: what does Check this one yourself: divide two numbers on the same table mean? if you here mean me then it doesn't make sense to put it on the slide, i'm quite not understanding this
+  - slide 25 keep only thank you remove all Questions — especially from anyone who knows the Delta better than I do. The next stage of this work is where my sample is thinnest: the salinity frontier, and the Trà Vinh sites where the digital pilot is running. Ha-Quoc-Viet Huynh · IPCS · 46 documents, 8 interviews, 3 provinces, 
+  - 
+
+
 - as the audience doesn't get what the doucment huy gave me is, when you mention 
 
 
