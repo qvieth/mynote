@@ -16,6 +16,11 @@
 # Draft
 
 
+- 3 files just download:
+  - ipcs proposal: for introduction and method 5 mins
+  - jason result and copy of gcrc put into ppt 10-15mins
+
+
 - quick on mehod, framework
 - spend most time on findin g 10-15 on findings
   - the interview 5 mins
