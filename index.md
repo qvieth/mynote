@@ -16,9 +16,13 @@
 # Draft
 
 
+- as the audience doesn't get what the doucment huy gave me is, when you mention 
+
+
 - 3 files just download:
   - ipcs proposal: for introduction and method 5 mins
   - jason result and copy of gcrc put into ppt 10-15mins
+    -  huy files -> ask for what result could i use
 
 
 - quick on mehod, framework
