@@ -20,6 +20,7 @@
   - reexplain more easier to understand
   - add one slice for the research question page 3 or 4, page 9 to page 3 or 4 so they get into it directly
   - remove slide 5, the information already been mention in slide 2 or 3
+  - explain whhy one million hectare, why you want to do it
 
 
 - changes need to make to slides:
