@@ -25,7 +25,7 @@
   - based on interview with farmers, how they work and doing, then explain with government documents
   - prof like the slice 2 
   - go to detail directly, the result and why it matter
-  - try to link everything in conclusion, at least when listening to conclusion they will know the answer
+  - try to link everything in conclusion, at least when listening to conclusion they will know the answer for the research question
 
 
 - changes need to make to slides:
