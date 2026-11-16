@@ -18,6 +18,7 @@
 - outline of whole presentation:
   - key message
   - reexplain more easier to understand
+  - add one slice for the research question page 3 or 4, page 9 to page 3 or 4 so they get into it directly
 
 
 - changes need to make to slides:
