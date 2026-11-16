@@ -22,6 +22,7 @@
   - remove slide 5, the information already been mention in slide 2 or 3
   - explain whhy one million hectare, why you want to do it
   - try to tell stories
+  - based on interview with farmers, how they work and doing, then explain with government documents
 
 
 - changes need to make to slides:
