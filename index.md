@@ -15,6 +15,10 @@
 
 # Draft
 
+- outline of whole presentation:
+  - key message
+  - reexplain more easier to understand
+
 
 - changes need to make to slides:
   - slide 1: just use  GOVERNING THE PRECARIOUS DELTA Adaptation objects, intermediaries, and unequal outcomes in the Mekong Delta's rice bow as the title, delete Half of Vietnam's rice grows on land the salt reaches in a bad year.
