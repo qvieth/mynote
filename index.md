@@ -30,7 +30,7 @@
   - one million hectare -> become
   - introdcue rice varieties => 
   - gate and ungated salinity
-  - point out twist, tension 
+  - point out twist, tension of these facts, infomaiton
   - less than 20 slide, each slide a minute
 
 
