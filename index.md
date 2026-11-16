@@ -24,6 +24,7 @@
   - try to tell stories
   - based on interview with farmers, how they work and doing, then explain with government documents
   - prof like the slice 2 
+  - go to detail directly
 
 
 - changes need to make to slides:
