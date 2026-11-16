@@ -27,6 +27,9 @@
   - go to detail directly, the result and why it matter
   - try to link everything in conclusion, at least when listening to conclusion they will know the answer for the research question
   - simply the 3 layers slide, don't put too much 
+  - one million hectare -> become
+  - introdcue rice varieties
+  - less than 20 slide, each slide a minute
 
 
 - changes need to make to slides:
