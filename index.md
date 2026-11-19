@@ -18,12 +18,12 @@
 - outline of whole presentation:
   - key message
   - reexplain more easier to understand
-  - add one slice for the research question page 3 or 4, page 9 to page 3 or 4 so they get into it directly
+  - the slide 9 contain the resaerch question. but prof said it too far back, should put it close to begin like around slide 3 or 4 so that audience can easily follow what the  main focus of the resaerch
   - remove slide 5, the information already been mention in slide 2 or 3
   - explain whhy one million hectare, why you want to do it
   - try to tell stories
   - based on interview with farmers, how they work and doing, then explain with government documents
-  - prof like the slice 2 
+  - prof like the slide 2 
   - go to detail directly, the result and why it matter
   - try to link everything in conclusion, at least when listening to conclusion they will know the answer for the research question
   - simply the 3 layers slide, don't put too much 
