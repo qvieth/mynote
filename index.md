@@ -22,12 +22,12 @@
   - remove slide 5, the information already been mention in slide 2 or 3
   - explain whhy one million hectare, why you want to do it
   - try to tell stories
+  - slide 9-> should clearly explain the below 3 subquestion is the subquestion based on the main question -> could use some diagram or icon to demonstrate that so it's easier to imagine
   - based on interview with farmers, how they work and doing, then explain with government documents
   - prof like the slide 2 
   - go to detail directly, the result and why it matter
   - try to link everything in conclusion, at least when listening to conclusion they will know the answer for the research question
   - simply the 3 layers slide, don't put too much 
-  - one million hectare -> become
   - introdcue rice varieties => 
   - gate and ungated salinity
   - point out twist, tension of these facts, infomaiton
