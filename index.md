@@ -15,21 +15,26 @@
 
 # Draft
 
+slide 7 and 8 the footnote there some overlapped iamge and words
+later for many slides when mention about documents and numbers , try to take a screenshot of where i mention the document and try to put that iamge in the slide so it more creditable
+
+- slide 9 check the number simple insight like that shoudl be remove
+- keep Non-adoption is a judgement, not a deficit for slide 14 as title
+- remove slide 16
+
 - outline of whole presentation:
-  - key message
+  - what is the key message
   - reexplain more easier to understand
   - the slide 9 contain the resaerch question. but prof said it too far back, should put it close to begin like around slide 3 or 4 so that audience can easily follow what the  main focus of the resaerch
   - remove slide 5, the information already been mention in slide 2 or 3
   - explain whhy one million hectare, why you want to do it
   - try to tell stories
+  - also the findings they feel seperated and no stories line connecting what i'm presenting, how to make them follow a stories line
   - slide 9-> should clearly explain the below 3 subquestion is the subquestion based on the main question -> could use some diagram or icon to demonstrate that so it's easier to imagine
   - based on interview with farmers, how they work and doing, then explain with government documents
-  - prof like the slide 2 
   - go to detail directly, the result and why it matter
   - try to link everything in conclusion, at least when listening to conclusion they will know the answer for the research question
-  - simply the 3 layers slide, don't put too much 
-  - introdcue rice varieties => 
-  - gate and ungated salinity
+  - simply the 3 layers slide, don't put too much information there
   - point out twist, tension of these facts, infomaiton
   - less than 20 slide, each slide a minute
 
