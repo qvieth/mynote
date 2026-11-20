@@ -28,6 +28,7 @@
 - one slide about research method, maybe around or after the research question 
 - slide 2 make the graph bigger
 - take the google photos, seperate slide into many slides
+- slide 12 revise the title
 
 slide 7 and 8 the footnote there some overlapped iamge and words
 later for many slides when mention about documents and numbers , try to take a screenshot of where i mention the document and try to put that iamge in the slide so it more creditable
