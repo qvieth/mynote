@@ -21,6 +21,7 @@
 - e.g. the previous sllide / story haven't tell the story adequate enough so the next examination with figure something out
 - the word takeaway remove as many takeaway is no takeaway at all
 - the takeaway should become keypoint, and should be transition between each take away why each one move to the next
+- take the 3 macro level out
 
 slide 7 and 8 the footnote there some overlapped iamge and words
 later for many slides when mention about documents and numbers , try to take a screenshot of where i mention the document and try to put that iamge in the slide so it more creditable
