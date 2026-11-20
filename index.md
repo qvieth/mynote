@@ -25,6 +25,7 @@
 - mention rule-number-gate-farmer, and explain why these 4 points matter
 - slides 3 questions delte the subquestion , make the line of 4 point bigger
 - emphasize the slide 15
+- one slide about research method
 
 slide 7 and 8 the footnote there some overlapped iamge and words
 later for many slides when mention about documents and numbers , try to take a screenshot of where i mention the document and try to put that iamge in the slide so it more creditable
