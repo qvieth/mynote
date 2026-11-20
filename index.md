@@ -16,6 +16,7 @@
 # Draft
 
 - reading thescript try to make it into conversation
+- have some slide about part 1 part 2 part 3
 
 slide 7 and 8 the footnote there some overlapped iamge and words
 later for many slides when mention about documents and numbers , try to take a screenshot of where i mention the document and try to put that iamge in the slide so it more creditable
