@@ -22,6 +22,7 @@
 - the word takeaway remove as many takeaway is no takeaway at all
 - the takeaway should become keypoint, and should be transition between each take away why each one move to the next
 - take the 3 macro level out
+- mention rule-number-gate-farmer, and explain why these 4 points matter
 
 slide 7 and 8 the footnote there some overlapped iamge and words
 later for many slides when mention about documents and numbers , try to take a screenshot of where i mention the document and try to put that iamge in the slide so it more creditable
