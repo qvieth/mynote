@@ -15,6 +15,14 @@
 
 # Draft
 
+
+- i need a system to organize the knowledge:
+  - an answer from gemini 
+
+
+- claude: slide:
+  - remove from slide 15: they're cheap
+
 - reading thescript try to make it into conversation
 - have some slide about part 1 part 2 part 3
 - replace next slide with some transtion to bring story together
