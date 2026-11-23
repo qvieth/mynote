@@ -20,8 +20,11 @@
   - an answer from gemini 
 
 
+
+
 - claude: slide:
-  - remove from slide 15: they're cheap
+  - remove slide 15
+  - also slide 16: leave only the word thank you.
 
 - reading thescript try to make it into conversation
 - have some slide about part 1 part 2 part 3
